@@ -12,7 +12,11 @@ def getQuestion(number):
         4: "A horizontal force of magnitude 35.0 N pushes a block of mass 4.00 kg across a floor where the coefficient of kinetic friction is 0.600. (a) How much work is done by that applied force on the block–floor system when the block slides through a displacement of 3.00 m across the floor? (b) During that displacement, the thermal energy of the block increases by 40.0 J.What is the increase in thermal energy of the floor? (c) What is the increase in the kinetic energy of the block?",
         5: "A large fake cookie sliding on a horizontal surface is attached to one end of a horizontal spring with spring constant k ! 400 N/m; the other end of the spring is fixed in place. The cookie has a kinetic energy of 20.0 J as it passes through the spring’s equilibrium position. As the cookie slides, a frictional force of magnitude 10.0 N acts on it. (a) How far will the cookie slide from the equilibrium position before coming momentarily to rest? (b) What will be the kinetic energy of the cookie as it slides back through the equilibrium position?",
         6: "The floor of a railroad flatcar is loaded with loose crates having a coefficient of static friction of 0.25 with the floor. If the train is initially moving at a speed of 48 km/h, in how short a distance can the train be stopped at constant acceleration without causing the crates to slide over the floor?",
-        7: "The velocity of a 3.00 kg particle is given by  (8.00t + 3.00t2 ) m/s, with time t in seconds. At the instant the net force on the particle has a magnitude of 35.0 N, what are the direction (relative to the positive direction of the x axis) of (a) the net force and (b) the particle’s direction of travel?"
+        7: "The velocity of a 3.00 kg particle is given by  (8.00t + 3.00t2 ) m/s, with time t in seconds. At the instant the net force on the particle has a magnitude of 35.0 N, what are the direction (relative to the positive direction of the x axis) of (a) the net force and (b) the particle’s direction of travel?",
+        8: "Using a rope that will snap if the tension in it exceeds 387 N, you need to lower a bundle of old roofing material weighing 449 N from a point 6.1 m above the ground. Obviously if you hang the bundle on the rope, it will snap. So, you allow the bundle to accelerate downward. (a)What magnitude of the bundle’s acceleration will put the rope on the verge of snapping? (b) At that acceleration, with what speed would the bundle hit the ground?",
+        9: "Figure 7-23 shows three arrangements of a block attached to identical springs that are in their relaxed state when the block is centered as shown. Rank the arrangements according to the magnitude of the net force on the block, largest first, when the block is displaced by distance d (a) to the right and (b) to the left. Rank the arrangements according to the work done on the block by the spring forces, greatest first, when the block is displaced by d (c) to the right and (d) to the left.",
+        10: "(a) What is the rate of energy loss in watts per square meter through a glass window 3.0 mm thick if the outside temperature is $20 F and the inside temperature is 72 F? (b) A storm window having the same thickness of glass is installed parallel to the first window, with an air gap of 7.5 cm between the two windows. What now is the rate of energy loss if conduction is the only important energy-loss mechanism?",
+        11: "Figure 21-30a shows an arrangement of three charged particles separated by distance d. Particles A and C are fixed on the x axis, but particle B can be moved along a circle centered on particle A. During the movement, a radial line between A and B makes an angle u relative to the positive direction of the x axis (Fig. 21-30b). The curves in Fig. 21-30c give, for two situations, the magnitude Fnet of the net electrostatic force on particle A due to the other particles.That net force is given as a function of angle u and as a multiple of a basic amount F0. For example on curve 1, at u # 180-, we see that Fnet # 2F0. (a) For the situation corresponding to curve 1, what is the ratio of the charge of particle C to that of particle B (including sign)? (b) For the situation corresponding to curve 2, what is that ratio?"
         
     }.get(number, "")
 
@@ -317,12 +321,35 @@ def get_x_list():
     return [[0, 2, 2, 39], [0, 3, 0, 14], [0, 6, 3, 17], [3, 5, 6, 28], [11, 18, 3, 39], [5, 15, 4, 41], [8, 1, 0, 26], [4, 1, 0, 40]]
     
     
+def make_z_list():
+    
+    listZ = []
+    qList = [0,0,0,0]
+    
+    i = 8
+    while i < 12:
+        qList = [0,0,0,0]
+        aString = getQuestion(i)
+        keys = breakAndGetKeys([aString])
+        for key in keys:
+            qList[ key[1]-1 ] = qList[ key[1]-1 ] + key[2]
+        
+        listZ.append(qList)
+        i = i + 1
+    
+    return listZ
+    
+def get_z_list():
+    return [[5, 3, 0, 32], [1, 15, 2, 44], [2, 2, 2, 40], [4, 1, 10, 94]]
+    
+    
+    
 #------------------------main---------------------------
 
 # print(breakAndGetKeys([getQuestion(0)]))
 # 
-# qList = get_x_list()
-# print(qList)
+qList = make_z_list()
+print(qList)
 # 
 # for a in qList:
 #     print(a[0] + " " + a[1] + " " + a[2] + " " + a[3])
