@@ -1,9 +1,12 @@
+
+
 #Gets name of textfile that contains physics info, separated by sections
 #parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):
     return {
         '1': "1_ForceMotion.txt",
-        '2': "2_Energy.txt"
+        '2': "2_Energy.txt",
+        '3': "3_Thermo.txt"
     }.get(x, "1_ForceMotion.txt")    # default if x not found
 
 
@@ -26,7 +29,7 @@ def breakToWords(content = []):
 
     while 1:
         for line in content:
-            if line.find("•") == -1 and not (any(char.isdigit() for char in line) ):
+            if line.find("•") == -1:
                 if line.find(" ") != -1:
                     newList.append( line[:line.find(" ")] )
                     newContent.append( line[line.find(" ")+1:] )
@@ -34,27 +37,37 @@ def breakToWords(content = []):
                     newList.append( line )
         if len(newContent) == 0:
             break
-
         content = newContent
         newContent = []
     
     
     
+    newContent = newList
+    newList = []
+    
+    
+    for word in newContent:
+        if not any(char.isdigit() for char in word):
+            newList.append(word)
     
     newContent = newList
     newList = []
     #removing punctuations
     for x in newContent:
-        newList.append(x.replace('.', '').replace(',', '').replace('?', '').replace('(', '').replace(')', '').replace('“', '').replace('\”', '').replace('\"', '').replace('\"', ''))
+        newList.append(x.replace('.', '').replace(',', '').replace('?', '').replace('(', '').replace(')', '').replace('“', '').replace('\”', '').replace('\"', '').replace('\"', '').replace('!', ''))
         
-    
+    newContent = newList
+    newList = []
+    for x in newContent:
+        if len(x) > 0:
+            newList.append(x)
     # a = 0
     # newContent = newList;
     # newList = []
     # for line in newContent:
     #     if len(line) > 1:
     #         newList.append( line )
-        
+    
     return newList
 
 # reads from textfile and break it by handing it in to break to words
@@ -139,7 +152,6 @@ def getAllCount(name = "1"):
     
     #sort
     listOfWords = sort(listOfWords)
-    
     return listOfWords
     
     
@@ -148,7 +160,8 @@ def getAllCount(name = "1"):
 def finalData():
     
     crudeList = [ getAllCount("1"),
-                  getAllCount("2") ]
+                  getAllCount("2"),
+                  getAllCount("3") ]
     
     finalList = []
     
@@ -163,20 +176,63 @@ def finalData():
     return finalList
     
 
+def checkCloseEnough(a, b):
+    ALPHA_VALUE = 30
+    if abs(a-b)/((a+b)/2)*100 < ALPHA_VALUE:
+        return 1
+    return 0
 
+def getImportantKeys():
+    IMPORTANCE_POINT = 30
+    
+    allKeys = finalData()
+    newKeys = []
+    
+    exists = 0
+    
+    for key in allKeys:
+        exists = 0
+        for newKey in newKeys:
+            shouldBreak = 0
+            if key[0] == newKey[0]:
+                exists = 1
+                if checkCloseEnough(key[1], newKey[1]) == 1:
+                    shouldBreak = 1
+                    newKey[3] = newKey[3] + 1
+                elif key[1] > newKey[1]:
+                    shouldBreak = 1
+                    newKeys.remove(newKey)
+                    newKeys.append([key[0],key[1],key[2],0])
+            if shouldBreak == 1:
+                break
+        if exists == 0:
+            #name, importance, sections
+            newKeys.append([key[0],key[1],key[2],0])
+    
+    
+    allKeys = newKeys
+    newKeys = []
+    
+    for key in allKeys:
+        if key[1] >= IMPORTANCE_POINT:
+            newKeys.append(key)
+    
+    allKeys = newKeys
+    newKeys = []
+    
+    for key in allKeys:
+        if key[3] < 3:
+            newKeys.append([key[0],key[1],key[2]])
+    
+    
+    return newKeys
+    
+    
 #------------------------main---------------------------
 
-# finalList = finalData()
-
-# for singleList in finalList:
-#     print(singleList[0] + " " + str(singleList[1]) + " " + str(singleList[2]))
-# 
-
-# listOfWords = getAllCount("1")
-
-# print
-# for wc in listOfWords:
-#     print(wc.word + "    " + str(wc.count))
+# lista = getImportantKeys()
+# for key in lista:
+#     print(key[0] + " " + str(key[1]) + " " + str(key[2]))
 
 
 #--------------------help commands-----------------------
