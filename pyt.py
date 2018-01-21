@@ -278,6 +278,22 @@ def breakAndGetKeys(a):
             countedSelectedWords.append([ chosen[0], chosen[1], 1 ])
             
     return countedSelectedWords
+
+#-----------------------------------------------------------
+#Y-List
+
+def make_y_list():
+
+    sample_quiz_solution = {"Section": ['D','D','C','C','B','B','A','A']}
+    df = pd.DataFrame(sample_quiz_solution)
+    dummies = pd.get_dummies(df)
+    answer_list = dummies.values.tolist()
+
+    return answer_list
+
+#----------------------------------------------------------
+#X-List
+
     
     
 def make_x_list():
