@@ -32,4 +32,4 @@ Increase accuracy by using deep learning to figure out best points to give based
 
 
 ## Source:
-Fundamentals of physics extended, Jearl Walker, 10th edition
+Fundamentals of Physics Extended, Jearl Walker, 10th edition
