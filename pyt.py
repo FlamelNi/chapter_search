@@ -1,41 +1,19 @@
 
 
+# Gets name of textfile that contains physics info, separated by sections
+# parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):
     return {
         '1': "1_ForceMotion.txt",
         '2': "2_Energy.txt"
     }.get(x, "1_ForceMotion.txt")    # default if x not found
 
-def breakToWords(name, LIMIT = 1000000000):
-    
-    name = chapterName(name)
-
-    with open(name, encoding="utf8") as f:
-        content = f.readlines()
-    # you may also want to remove whitespace characters like `\n` at the end of each line
-    content = [x.strip() for x in content]
-
-
-
-    for line in content:
-        if line == "":
-            content.remove("")
-        if line == " ":
-            content.remove(" ")
-
-    while "" in content or " " in content:
-        if "" in content:
-            content.remove("")
-        if " " in content:
-            content.remove(" ")
-        if "\"" in content:
-            content.remove("\"")
-
+# Parameter "content" is list that contains multiple sentences.
+# This function will break content into multiple parts and build one list of words
+def breakToWords(content = []):
 
     newContent = []
     newList = []
-
-    a = 0
 
     while 1:
         for line in content:
@@ -45,9 +23,6 @@ def breakToWords(name, LIMIT = 1000000000):
                     newContent.append( line[line.find(" ")+1:] )
                 else:
                     newList.append( line )
-            a = a + 1
-            if a > LIMIT:
-                break
         if len(newContent) == 0:
             break
 
@@ -73,16 +48,44 @@ def breakToWords(name, LIMIT = 1000000000):
         
     return newList
 
+# reads from textfile and break it by handing it in to break to words
+def getFromFile(name):
+    
+    name = chapterName(name)
 
+    with open(name, encoding="utf8") as f:
+        content = f.readlines()
+    # you may also want to remove whitespace characters like `\n` at the end of each line
+    content = [x.strip() for x in content]
+    
+    for line in content:
+        if line == "":
+            content.remove("")
+        if line == " ":
+            content.remove(" ")
+
+    while "" in content or " " in content:
+        if "" in content:
+            content.remove("")
+        if " " in content:
+            content.remove(" ")
+        if "\"" in content:
+            content.remove("\"")
+    
+    return breakToWords(content)
+
+# class declaration of wordCount
 class wordCount:
     word = ""
     count = 0
 
+# this just compares two wordCount object
 def compare(a, b):
     if a.count < b.count:
         return 1
     return 0
 
+# this sorts a list of wordCount objects and returns sorted list (by count)
 def sort(unsorted):
     a = 0
     begin = 0
@@ -103,9 +106,9 @@ def sort(unsorted):
 
     return unsorted
 
-
-def getAllCount(name = "1", number = 10000000):
-    crudeList = breakToWords(name, number)
+# gets sorted list of wordCount objects from textfiles
+def getAllCount(name = "1"):
+    crudeList = getFromFile(name)
     listOfWords = []
     
     exists = 0
@@ -131,7 +134,8 @@ def getAllCount(name = "1", number = 10000000):
     return listOfWords
     
     
-
+# this function will use getAllCount but re-format it to better-list
+# (this does not involve with class/objects)
 def finalData():
     
     crudeList = [ getAllCount("1"),
