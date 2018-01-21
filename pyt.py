@@ -1,13 +1,15 @@
 
 
+totalsInEachSection = {}
+
 #Gets name of textfile that contains physics info, separated by sections
 #parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):
     return {
-        '1': "1_ForceMotion.txt",
-        '2': "2_Energy.txt",
-        '3': "3_Thermo.txt"
-    }.get(x, "1_ForceMotion.txt")    # default if x not found
+        'a': "a_ForceMotion.txt",
+        'b': "b_Energy.txt",
+        'c': "c_Thermo.txt"
+    }.get(x, "a_ForceMotion.txt")    # default if x not found
 
 
 #gets list of string as parameter and returns the same but all strings in lowercase
@@ -58,9 +60,13 @@ def breakToWords(content = []):
         
     newContent = newList
     newList = []
+    
     for x in newContent:
         if len(x) > 0:
             newList.append(x)
+    
+    
+    
     # a = 0
     # newContent = newList;
     # newList = []
@@ -129,13 +135,16 @@ def sort(unsorted):
     return unsorted
 
 # gets sorted list of wordCount objects from textfiles
-def getAllCount(name = "1"):
+def getAllCount(name = "a"):
     crudeList = getFromFile(name)
     listOfWords = []
     
     exists = 0
     
+    totalCount = 0
+    
     for newWord in crudeList:
+        totalCount = totalCount + 1
         for wc in listOfWords:
             exists = 0
             if wc.word == newWord:
@@ -148,7 +157,7 @@ def getAllCount(name = "1"):
             newWc.count = 1
             listOfWords.append(newWc)
     
-    
+    totalsInEachSection[name] = totalCount
     
     #sort
     listOfWords = sort(listOfWords)
@@ -159,9 +168,9 @@ def getAllCount(name = "1"):
 # (this does not involve with class/objects)
 def finalData():
     
-    crudeList = [ getAllCount("1"),
-                  getAllCount("2"),
-                  getAllCount("3") ]
+    crudeList = [ getAllCount("a"),
+                  getAllCount("b"),
+                  getAllCount("c") ]
     
     finalList = []
     
