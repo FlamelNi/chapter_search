@@ -34,27 +34,14 @@
                 <h2>Enter a physics question to see which chapter this is from!</h2>
                 
                 
-                <!-- <form  id="textform" method="post"> -->
-                
-                  <!-- <div style="margin: 15px">
-                    <textarea name="text"></textarea>
-                  </div>
-                  
-                  <div style="margin: 15px">
-                    <button onclick="test()">
-                      Submit
-                    </button>
-                  </div> -->
-                <!-- </form> -->
-
-                <br>
-                
                 <form action="{{ url_for('submit') }}" method="post">
+                  
                     <textarea name="text"></textarea>
+                    <div style="margin: 15px"></div>
                     <input type="submit">
+                    
                 </form>
                 
-
 							</header>
 							<section class="tiles">
 							</section>
