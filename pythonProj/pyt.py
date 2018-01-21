@@ -4,7 +4,7 @@ def chapterName(x):
     return {
         '1': "1_ForceMotion.txt",
         '2': "2_Energy.txt"
-    }.get(x, "1_ForceMotion.txt")    # 9 is default if x not found
+    }.get(x, "1_ForceMotion.txt")    # default if x not found
 
 def breakToWords(name, LIMIT = 1000000000):
     
@@ -53,7 +53,6 @@ def breakToWords(name, LIMIT = 1000000000):
 
         content = newContent
         newContent = []
-        # print("loop")
     
     
     
