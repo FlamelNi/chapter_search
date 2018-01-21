@@ -254,6 +254,49 @@ def getImportantKeys():
     return newKeys
     
     
+def breakAndGetKeys(a):
+    listOfWords = breakToWords(a)
+    
+    keyWords = getKeyWords()
+    selectedWords = []
+    
+    for word in listOfWords:
+        for keyWord in keyWords:
+            if word == keyWord[0]:
+                selectedWords.append([word, keyWord[2]])
+    
+    
+    countedSelectedWords = []
+    exists = 0
+    for chosen in selectedWords:
+        exists = 0
+        for alreadyCounted in countedSelectedWords:
+            if chosen[0] == alreadyCounted[0]:
+                alreadyCounted[2] = alreadyCounted[2] + 1
+                exists = 1
+        if exists == 0:
+            countedSelectedWords.append([ chosen[0], chosen[1], 1 ])
+            
+    return countedSelectedWords
+    
+    
+def make_x_list():
+    qList = []
+    
+    i = 0
+    while i < 8:
+        listZ = breakAndGetKeys(getQuestion(i))
+        newList = [0,0,0,0]
+        
+        for key in listZ:
+            newList[key[2]] = newList[key[2]] + key[1]
+        
+        qList[i] = newList
+        
+        
+    return qList
+    
+    
 #------------------------main---------------------------
 
 # lista = getImportantKeys()
