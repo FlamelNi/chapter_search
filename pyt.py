@@ -1,7 +1,5 @@
-
-
-# Gets name of textfile that contains physics info, separated by sections
-# parameter 'x' has to be string-ed number such as "1", not 1
+#Gets name of textfile that contains physics info, separated by sections
+#parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):
     return {
         '1': "1_ForceMotion.txt",
@@ -167,16 +165,6 @@ def finalData():
 
 
 #------------------------main---------------------------
-
-
-
-lista = ["Hello", "ANNIAN", "notme"]
-
-lista = lowerStringList(lista)
-
-for word in lista:
-    print(lista)
-
 
 # finalList = finalData()
 
