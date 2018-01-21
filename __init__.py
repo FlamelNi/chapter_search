@@ -2,9 +2,7 @@
 
 from flask import Flask, request, render_template
 import os
-# import 
-
-os.chdir("../pythonProj/pyt.py")
+from pyt import breakToWords
 
 app = Flask(__name__)
 
@@ -20,14 +18,16 @@ def getTextAndFindAllKeyWords(text = ""):
     
     
 
-
-
-
 @app.route('/submit', methods=['POST'])
 def submit():
     
-    
-    return 'You entered: {}'.format(request.form['text'])
+    a = [format(request.form['text'])]
+    listOfWords = breakToWords(a)
+    for wc in listOfWords:
+        print(wc)
+    return 'Done'
+    # return chapterName("1")
+    # return 'You entered: {}'.format(request.form['text'])
 
 
 if __name__ == "__main__":

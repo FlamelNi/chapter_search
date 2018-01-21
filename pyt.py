@@ -6,36 +6,10 @@ def chapterName(x):
         '2': "2_Energy.txt"
     }.get(x, "1_ForceMotion.txt")    # default if x not found
 
-def breakToWords(name, LIMIT = 1000000000):
-    
-    name = chapterName(name)
-
-    with open(name, encoding="utf8") as f:
-        content = f.readlines()
-    # you may also want to remove whitespace characters like `\n` at the end of each line
-    content = [x.strip() for x in content]
-
-
-
-    for line in content:
-        if line == "":
-            content.remove("")
-        if line == " ":
-            content.remove(" ")
-
-    while "" in content or " " in content:
-        if "" in content:
-            content.remove("")
-        if " " in content:
-            content.remove(" ")
-        if "\"" in content:
-            content.remove("\"")
-
+def breakToWords(content = []):
 
     newContent = []
     newList = []
-
-    a = 0
 
     while 1:
         for line in content:
@@ -45,9 +19,6 @@ def breakToWords(name, LIMIT = 1000000000):
                     newContent.append( line[line.find(" ")+1:] )
                 else:
                     newList.append( line )
-            a = a + 1
-            if a > LIMIT:
-                break
         if len(newContent) == 0:
             break
 
@@ -72,6 +43,31 @@ def breakToWords(name, LIMIT = 1000000000):
     #         newList.append( line )
         
     return newList
+
+def getFromFile(name):
+    
+    name = chapterName(name)
+
+    with open(name, encoding="utf8") as f:
+        content = f.readlines()
+    # you may also want to remove whitespace characters like `\n` at the end of each line
+    content = [x.strip() for x in content]
+    
+    for line in content:
+        if line == "":
+            content.remove("")
+        if line == " ":
+            content.remove(" ")
+
+    while "" in content or " " in content:
+        if "" in content:
+            content.remove("")
+        if " " in content:
+            content.remove(" ")
+        if "\"" in content:
+            content.remove("\"")
+    
+    return breakToWords(content)
 
 
 class wordCount:
@@ -104,8 +100,8 @@ def sort(unsorted):
     return unsorted
 
 
-def getAllCount(name = "1", number = 10000000):
-    crudeList = breakToWords(name, number)
+def getAllCount(name = "1"):
+    crudeList = getFromFile(name)
     listOfWords = []
     
     exists = 0
