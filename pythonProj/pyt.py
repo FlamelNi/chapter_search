@@ -4,7 +4,7 @@ def chapterName(x):
     return {
         '1': "1_ForceMotion.txt",
         '2': "2_Energy.txt"
-    }.get(x, "1_ForceMotion.txt")    # 9 is default if x not found
+    }.get(x, "1_ForceMotion.txt")    # default if x not found
 
 def breakToWords(name, LIMIT = 1000000000):
     
@@ -39,34 +39,31 @@ def breakToWords(name, LIMIT = 1000000000):
 
     while 1:
         for line in content:
-            if line.find("•") == -1:
+            if line.find("•") == -1 and not (any(char.isdigit() for char in line) ):
                 if line.find(" ") != -1:
                     newList.append( line[:line.find(" ")] )
                     newContent.append( line[line.find(" ")+1:] )
                 else:
                     newList.append( line )
+            a = a + 1
+            if a > LIMIT:
+                break
         if len(newContent) == 0:
             break
-        a = a + 1
-        if a > LIMIT:
-            break
-        
-        # print("loop")
+
+        content = newContent
+        newContent = []
     
-    #removing punctuations
-    a = 0
-    newContent = newList;
+    
+    
+    
+    newContent = newList
     newList = []
-    for line in newContent:
-        if line.find(".") != -1:
-            newList.append( line[:line.find(".")] )
-        elif line.find(",") != -1:
-            newList.append( line[:line.find(",")] )
-        elif line.find("?") != -1:
-            newList.append( line[:line.find("?")] )
-        else:
-            newList.append( line )
+    #removing punctuations
+    for x in newContent:
+        newList.append(x.replace('.', '').replace(',', '').replace('?', '').replace('(', '').replace(')', '').replace('“', '').replace('\”', '').replace('\"', '').replace('\"', ''))
         
+    
     # a = 0
     # newContent = newList;
     # newList = []
@@ -77,20 +74,73 @@ def breakToWords(name, LIMIT = 1000000000):
     return newList
 
 
-def countList():
+class wordCount:
+    word = ""
+    count = 0
+
+def compare(a, b):
+    if a.count < b.count:
+        return 1
+    return 0
+
+def sort(unsorted):
+    a = 0
+    begin = 0
+
+    while begin < len(unsorted):
+        best = begin
+        a = begin + 1
+        while a < len(unsorted):
+            if compare(unsorted[a], unsorted[best]):
+                best = a
+            a = a + 1
+
+        temp = unsorted[begin]
+        unsorted[begin] = unsorted[best]
+        unsorted[best] = temp
+
+        begin = begin + 1
+
+    return unsorted
+
+
+def getAllCount(name = "1", number = 10000000):
+    crudeList = breakToWords(name, number)
+    listOfWords = []
+    
+    exists = 0
+    
+    for newWord in crudeList:
+        for wc in listOfWords:
+            exists = 0
+            if wc.word == newWord:
+                wc.count = wc.count + 1
+                exists = 1
+                break
+        if exists == 0:
+            newWc = wordCount()
+            newWc.word = newWord
+            newWc.count = 1
+            listOfWords.append(newWc)
     
     
     
+    #sort
+    listOfWords = sort(listOfWords)
+    
+    return listOfWords
     
     
 
 
 #------------------------main---------------------------
 
-a = breakToWords("", 300)
-print(a)
 
+listOfWords = getAllCount("1")
 
+# print
+# for wc in listOfWords:
+#     print(wc.word + "    " + str(wc.count))
 
 
 #--------------------help commands-----------------------
