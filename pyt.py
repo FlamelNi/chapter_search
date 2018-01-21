@@ -7,7 +7,8 @@ def getQuestion(number):
     return {
         0: "A potential difference of 1.20 V will be applied to a 33.0 m length of 18-gauge copper wire (diameter ! 0.0400 in.). Calculate (a) the current, (b) the magnitude of the current density, (c) the magnitude of the electric field within the wire, and (d) the rate at which thermal energy will appear in the wire.",
         1: "(a) What is the electric potential energy of two electrons separated by 2.00 nm? (b) If the separation increases, does the potential energy increase or decrease?",
-        2: "Suppose that you intercept 5.0 ' 10$3 of the energy radiated by a hot sphere that has a radius of 0.020 m, an emissivity of 0.80, and a surface temperature of 500 K. How much energy do you intercept in 2.0 min?",
+        2: "",
+        # Suppose that you intercept 5.0 ' 10$3 of the energy radiated by a hot sphere that has a radius of 0.020 m, an emissivity of 0.80, and a surface temperature of 500 K. How much energy do you intercept in 2.0 min?
         3: "An object of mass 6.00 kg falls through a height of 50.0 m and, by means of a mechanical linkage, rotates a paddle wheel that stirs 0.600 kg of water. Assume that the initial gravitational potential energy of the object is fully transferred to thermal energy of the water, which is initially at 15.0 C. What is the temperature rise of the water?",
         4: "A horizontal force of magnitude 35.0 N pushes a block of mass 4.00 kg across a floor where the coefficient of kinetic friction is 0.600. (a) How much work is done by that applied force on the block–floor system when the block slides through a displacement of 3.00 m across the floor? (b) During that displacement, the thermal energy of the block increases by 40.0 J.What is the increase in thermal energy of the floor? (c) What is the increase in the kinetic energy of the block?",
         5: "A large fake cookie sliding on a horizontal surface is attached to one end of a horizontal spring with spring constant k ! 400 N/m; the other end of the spring is fixed in place. The cookie has a kinetic energy of 20.0 J as it passes through the spring’s equilibrium position. As the cookie slides, a frictional force of magnitude 10.0 N acts on it. (a) How far will the cookie slide from the equilibrium position before coming momentarily to rest? (b) What will be the kinetic energy of the cookie as it slides back through the equilibrium position?",
@@ -21,10 +22,10 @@ def getQuestion(number):
 #parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):
     return {
-        'a': "a_ForceMotion.txt",
-        'b': "b_Energy.txt",
-        'c': "c_Thermo.txt"
-        'd': "d_Electro.txt"
+        '1': "a_ForceMotion.txt",
+        '2': "b_Energy.txt",
+        '3': "c_Thermo.txt",
+        '4': "d_Electro.txt"
     }.get(x, "a_ForceMotion.txt")    # default if x not found
 
 
@@ -59,7 +60,6 @@ def breakToWords(content = []):
         newContent = []
     
     
-    
     newContent = newList
     newList = []
     
@@ -83,6 +83,7 @@ def breakToWords(content = []):
     
     
     
+    
     # a = 0
     # newContent = newList;
     # newList = []
@@ -93,11 +94,11 @@ def breakToWords(content = []):
     return newList
 
 # reads from textfile and break it by handing it in to break to words
-def getFromFile(name):
+def getFromFile(i):
     
-    name = chapterName(name)
+    i = chapterName(i)
 
-    with open(name, encoding="utf8") as f:
+    with open(i, encoding="utf8") as f:
         content = f.readlines()
     # you may also want to remove whitespace characters like `\n` at the end of each line
     content = [x.strip() for x in content]
@@ -151,8 +152,8 @@ def sort(unsorted):
     return unsorted
 
 # gets sorted list of wordCount objects from textfiles
-def getAllCount(name = "a"):
-    crudeList = getFromFile(name)
+def getAllCount(i = "1"):
+    crudeList = getFromFile(i)
     listOfWords = []
     
     exists = 0
@@ -173,7 +174,7 @@ def getAllCount(name = "a"):
             newWc.count = 1
             listOfWords.append(newWc)
     
-    totalsInEachSection[name] = totalCount
+    totalsInEachSection[i] = totalCount
     
     #sort
     listOfWords = sort(listOfWords)
@@ -184,10 +185,10 @@ def getAllCount(name = "a"):
 # (this does not involve with class/objects)
 def finalData():
     
-    crudeList = [ getAllCount("a"),
-                  getAllCount("b"),
-                  getAllCount("c"),
-                  getAllCount("d") ]
+    crudeList = [ getAllCount("1"),
+                  getAllCount("2"),
+                  getAllCount("3"),
+                  getAllCount("4") ]
     
     finalList = []
     
@@ -256,8 +257,7 @@ def getImportantKeys():
     
 def breakAndGetKeys(a):
     listOfWords = breakToWords(a)
-    
-    keyWords = getKeyWords()
+    keyWords = getImportantKeys()
     selectedWords = []
     
     for word in listOfWords:
@@ -281,23 +281,41 @@ def breakAndGetKeys(a):
     
     
 def make_x_list():
-    qList = []
+    
+    listZ = []
+    qList = [0,0,0,0]
     
     i = 0
     while i < 8:
-        listZ = breakAndGetKeys(getQuestion(i))
-        newList = [0,0,0,0]
+        qList = [0,0,0,0]
+        aString = getQuestion(i)
+        keys = breakAndGetKeys([aString])
+        for key in keys:
+            qList[ key[1]-1 ] = qList[ key[1]-1 ] + key[2]
         
-        for key in listZ:
-            newList[key[2]] = newList[key[2]] + key[1]
-        
-        qList[i] = newList
-        
-        
-    return qList
+        listZ.append(qList)
+        i = i + 1
+    
+    return listZ
+    
+def get_x_list():
+    return [[0, 2, 2, 39], [0, 3, 0, 14], [0, 0, 0, 0], [3, 5, 6, 28], [11, 18, 3, 39], [5, 15, 4, 41], [8, 1, 0, 26], [4, 1, 0, 40]]
     
     
 #------------------------main---------------------------
+
+# print(breakAndGetKeys([getQuestion(0)]))
+# 
+qList = get_x_list()
+print(qList)
+# 
+# for a in qList:
+#     print(a[0] + " " + a[1] + " " + a[2] + " " + a[3])
+
+
+# breakAndGetKeys(getQuestion(0))
+
+
 
 # lista = getImportantKeys()
 # for key in lista:
