@@ -3,15 +3,19 @@
 from flask import Flask, request, render_template
 import os
 from pyt import breakToWords
+from pyt import getImportantKeys
 
 app = Flask(__name__)
 
 def getKeyWords():
     # currently, this returns dummy data
-    return [ ["worda", 1, 1],
-        ["wordb", 3, 2],
-        ["wordc", 2, 2],
-        ["wordd", 2, 1] ]
+    # return [ ["worda", 1, 1],
+    #     ["wordb", 3, 2],
+    #     ["wordc", 2, 2],
+    #     ["wordd", 2, 1] ]
+    return getImportantKeys()
+    
+    
 
 @app.route('/')
 def my_form():
@@ -45,8 +49,8 @@ def submit():
             countedSelectedWords.append([ chosen[0], chosen[1], 1 ])
     
     #test print
-    # for alreadyCounted in countedSelectedWords:
-    #     print(alreadyCounted[0] + " " + str(alreadyCounted[1]) + " " + str(alreadyCounted[2]) )
+    for alreadyCounted in countedSelectedWords:
+        print(alreadyCounted[0] + " " + str(alreadyCounted[1]) + " " + str(alreadyCounted[2]) )
     
     # hello my name is Jay. worda is awesome and wordc too. wordb is the best but I like worda better
     
