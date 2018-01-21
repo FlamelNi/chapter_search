@@ -132,11 +132,35 @@ def getAllCount(name = "1", number = 10000000):
     
     
 
+def finalData():
+    
+    crudeList = [ getAllCount("1"),
+                  getAllCount("2") ]
+    
+    finalList = []
+    
+    count = 0
+    
+    for singleList in crudeList:
+        count = count + 1
+        for wc in singleList:
+            finalElement = [wc.word, wc.count, count]
+            finalList.append(finalElement)
+    
+    return finalList
+    
+
 
 #------------------------main---------------------------
 
 
-listOfWords = getAllCount("1")
+# finalList = finalData()
+
+# for singleList in finalList:
+#     print(singleList[0] + " " + str(singleList[1]) + " " + str(singleList[2]))
+# 
+
+# listOfWords = getAllCount("1")
 
 # print
 # for wc in listOfWords:
