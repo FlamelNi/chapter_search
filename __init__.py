@@ -33,9 +33,20 @@ def submit():
                 selectedWords.append([word, keyWord[2]])
     
     
+    countedSelectedWords = []
+    exists = 0
     for chosen in selectedWords:
-        print(chosen[0] + " " + str(chosen[1]))
+        exists = 0
+        for alreadyCounted in countedSelectedWords:
+            if chosen[0] == alreadyCounted[0]:
+                alreadyCounted[2] = alreadyCounted[2] + 1
+                exists = 1
+        if exists == 0:
+            countedSelectedWords.append([ chosen[0], chosen[1], 1 ])
     
+    #test print
+    # for alreadyCounted in countedSelectedWords:
+    #     print(alreadyCounted[0] + " " + str(alreadyCounted[1]) + " " + str(alreadyCounted[2]) )
     
     # hello my name is Jay. worda is awesome and wordc too. wordb is the best but I like worda better
     
