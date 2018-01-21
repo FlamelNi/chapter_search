@@ -77,6 +77,13 @@ def breakToWords(name, LIMIT = 1000000000):
     return newList
 
 
+def countList():
+    
+    
+    
+    
+    
+
 
 #------------------------main---------------------------
 
