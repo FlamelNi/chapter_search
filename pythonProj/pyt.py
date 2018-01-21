@@ -37,7 +37,7 @@ def breakToWords(name, LIMIT = 1000000000):
 
     a = 0
 
-    while 1:#something wrong here------------------------------------------------
+    while 1:
         for line in content:
             if line.find("•") == -1 and not (any(char.isdigit() for char in line) ):
                 if line.find(" ") != -1:
