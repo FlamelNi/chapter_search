@@ -321,8 +321,8 @@ def get_x_list():
 
 # print(breakAndGetKeys([getQuestion(0)]))
 # 
-qList = get_x_list()
-print(qList)
+# qList = get_x_list()
+# print(qList)
 # 
 # for a in qList:
 #     print(a[0] + " " + a[1] + " " + a[2] + " " + a[3])
