@@ -6,28 +6,40 @@ from pyt import breakToWords
 
 app = Flask(__name__)
 
+def getKeyWords():
+    # currently, this returns dummy data
+    return [ ["worda", 1, 1],
+        ["wordb", 3, 2],
+        ["wordc", 2, 2],
+        ["wordd", 2, 1] ]
+
 @app.route('/')
 def my_form():
     return render_template('index.html')
-
-
-
-def getTextAndFindAllKeyWords(text = ""):
-    
-    breakToWords()
-    
-    
 
 @app.route('/submit', methods=['POST'])
 def submit():
     
     a = [format(request.form['text'])]
+    
     listOfWords = breakToWords(a)
-    for wc in listOfWords:
-        print(wc)
+    
+    keyWords = getKeyWords()
+    selectedWords = []
+    
+    for word in listOfWords:
+        for keyWord in keyWords:
+            if word == keyWord[0]:
+                selectedWords.append([word, keyWord[2]])
+    
+    
+    for chosen in selectedWords:
+        print(chosen[0] + " " + str(chosen[1]))
+    
+    
+    # hello my name is Jay. worda is awesome and wordc too. wordb is the best but I like worda better
+    
     return 'Done'
-    # return chapterName("1")
-    # return 'You entered: {}'.format(request.form['text'])
 
 
 if __name__ == "__main__":
