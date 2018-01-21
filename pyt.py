@@ -13,7 +13,7 @@ def chapterName(x):
 def lowerStringList(stringList):
     newList = []
     for single in stringList:
-        newlist.append(single.lower())
+        newList.append(single.lower())
     return newList
 
 
@@ -167,6 +167,15 @@ def finalData():
 
 
 #------------------------main---------------------------
+
+
+
+lista = ["Hello", "ANNIAN", "notme"]
+
+lista = lowerStringList(lista)
+
+for word in lista:
+    print(lista)
 
 
 # finalList = finalData()
