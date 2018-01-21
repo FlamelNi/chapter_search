@@ -1,0 +1,1474 @@
+Newtonian Mechanics The velocity of an object can change
+(the object can accelerate) when the object is acted on by one or
+more forces (pushes or pulls) from other objects. Newtonian mechanics
+relates accelerations and forces.
+Force Forces are vector quantities. Their magnitudes are defined
+in terms of the acceleration they would give the standard
+kilogram. A force that accelerates that standard body by exactly
+1 m/s2 is defined to have a magnitude of 1 N. The direction of a
+force is the direction of the acceleration it causes. Forces are combined
+according to the rules of vector algebra. The net force on a
+body is the vector sum of all the forces acting on the body.
+Newton’s First Law If there is no net force on a body, the
+body remains at rest if it is initially at rest or moves in a straight
+line at constant speed if it is in motion.
+Inertial Reference Frames Reference frames in which
+Newtonian mechanics holds are called inertial reference frames or
+inertial frames. Reference frames in which Newtonian mechanics
+does not hold are called noninertial reference frames or noninertial
+frames.
+Mass The mass of a body is the characteristic of that body that
+relates the body’s acceleration to the net force causing the acceleration.
+Masses are scalar quantities.
+Newton’s Second Law The net force on a body with
+mass m is related to the body’s acceleration by
+(5-1)
+
+A free-body diagram is a stripped-down diagram in which only
+one body is considered. That body is represented by either a sketch or
+a dot. The external forces on the body are drawn, and a coordinate
+system is superimposed, oriented so as to simplify the solution.
+Some Particular Forces A gravitational force on a body
+is a pull by another body. In most situations in this book, the other
+body is Earth or some other astronomical body. For Earth, the
+force is directed down toward the ground, which is assumed to be
+an inertial frame. With that assumption, the magnitude of is
+Fg " mg, (5-8)
+where m is the body’s mass and g is the magnitude of the free-fall
+acceleration.
+The weight W of a body is the magnitude of the upward force
+needed to balance the gravitational force on the body. A body’s
+weight is related to the body’s mass by
+W " mg. (5-12)
+A normal force is the force on a body from a surface
+against which the body presses. The normal force is always perpendicular
+to the surface.
+A frictional force is the force on a body when the body
+slides or attempts to slide along a surface. The force is always parallel
+to the surface and directed so as to oppose the sliding. On a
+frictionless surface, the frictional force is negligible.
+When a cord is under tension, each end of the cord pulls on a
+body. The pull is directed along the cord, away from the point of attachment
+to the body. For a massless cord (a cord with negligible
+mass), the pulls at both ends of the cord have the same magnitude
+T, even if the cord runs around a massless, frictionless pulley (a pulley
+with negligible mass and negligible friction on its axle to oppose
+its rotation).
+Newton’s Third Law If a force acts on body B due to
+body C, then there is a force on body C due to body B
+
+
+
+•1 Only two horizontal forces act on a 3.0 kg body that can move
+over a frictionless floor. One force is 9.0 N, acting due east, and the
+other is 8.0 N, acting 623 north of west. What is the magnitude of
+the body’s acceleration?
+•2 Two horizontal forces act on a 2.0 kg chopping block that can
+slide over a frictionless kitchen counter, which lies in an xy plane.
+One force is Find the acceleration of the
+chopping block in unit-vector notation when the other force is
+(a) (b)
+and (c) .
+•3 If the 1 kg standard body has an acceleration of 2.00 m/s2 at
+20.03 to the positive direction of an x axis, what are (a) the x component
+and (b) the y component of the net force acting on the
+body, and (c) what is the net force in unit-vector notation?
+••4 While two forces act on it, a
+particle is to move at the constant
+velocity One
+of the forces is
+($6 N)j What is the other force?
+
+••5 Three astronauts, propelled
+by jet backpacks, push and guide a
+120 kg asteroid toward a processing
+dock, exerting the forces shown in
+Fig. 5-29, with F1 " 32 N, F2 " 55 N,
+F3 " 41 N, u1 " 303, and u3 " 603.
+What is the asteroid’s acceleration
+(a) in unit-vector notation and as (b) a magnitude and (c) a direction
+relative to the positive direction of the x axis?
+
+••6 In a two-dimensional tug-ofwar,
+Alex, Betty, and Charles pull
+horizontally on an automobile tire at
+the angles shown in the overhead
+view of Fig. 5-30. The tire remains
+stationary in spite of the three pulls.
+Alex pulls with force of magnitude
+220 N, and Charles pulls with
+force of magnitude 170 N. Note
+that the direction of is not given.
+What is the magnitude of Betty’s
+force
+••7 There are two forces on the
+2.00 kg box in the overhead view of
+Fig. 5-31, but only one is shown. For
+F1 " 20.0 N,a " 12.0 m/s2
+,and u " 30.03,
+find the second force (a) in unit-vector
+notation and as (b) a magnitude and
+(c) an angle relative to the positive direction
+of the x axis.
+••8 A 2.00 kg object is subjected to
+three forces that give it an acceleration
+. If
+two of the three forces are
+and
+find the third force.
+••9 A 0.340 kg particle moves in an xy plane according
+to x(t) " $15.00 # 2.00t $ 4.00t
+3 and y(t) " 25.00 # 7.00t $ 9.00t
+2
+,
+with x and y in meters and t in seconds. At t " 0.700 s, what are
+
+
+
+(a) the magnitude and (b) the angle (relative to the positive direction
+of the x axis) of the net force on the particle, and (c) what is
+the angle of the particle’s direction of travel?
+••10 A 0.150 kg particle moves along an x axis according
+vx (m/s)
+t (s)
+4
+2
+0 1 2 3
+–2
+–4
+Figure 5-32 Problem 12.
+A
+B
+C
+D
+T1
+T2
+T3
+Figure 5-33
+Problem 13.
+reading on the scale? (This is the way by a deli owner who was
+once a physics major.)
+SALAMI
+GE
+NOA
+SALAMI
+GE
+NOA
+SALAMI
+GE
+NOA
+SALAMI
+G
+ENOA
+Spring scale
+Spring scale
+Spring
+scale
+(b)
+(c)
+(a)
+Figure 5-34 Problem 15.
+••16 Some insects can walk below
+a thin rod (such as a twig) by hanging
+from it. Suppose that such an insect
+has mass m and hangs from a
+horizontal rod as shown in Fig. 5-35,
+with angle u " 403. Its six legs are all
+under the same tension, and the leg
+sections nearest the body are horizontal.
+(a) What is the ratio of the
+tension in each tibia (forepart of a leg) to the insect’s weight? (b) If
+the insect straightens out its legs somewhat, does the tension in each
+tibia increase, decrease, or stay the same?
+Module 5-3 Applying
+Newton’s Laws
+•17 In Fig. 5-36,
+let the mass of the block be
+8.5 kg and the angle be 303.
+Find (a) the tension in the cord
+and (b) the normal force acting
+on the block. (c) If the cord is
+cut, find the magnitude of the resulting
+acceleration of the block.
+•18 In April 1974, John
+Massis of Belgium managed to
+move two passenger railroad
+cars. He did so by clamping his teeth down on a bit that was attached
+to the cars with a rope and then leaning backward while
+pressing his feet against the railway ties.The cars together weighed
+700 kN (about 80 tons). Assume that he pulled with a constant
+force that was 2.5 times his body weight, at an upward angle u of
+303 from the horizontal. His mass was 80 kg, and he moved the cars
+by 1.0 m. Neglecting any retarding force from the wheel rotation,
+find the speed of the cars at the end of the pull.
+
+to x(t)"$13.00 # 2.00t # 4.00t2 $ 3.00t3, with x in meters and t in
+seconds. In unit-vector notation, what is the net force acting on the
+particle at t " 3.40 s?
+••11 A 2.0 kg particle moves along an x axis, being propelled by a
+variable force directed along that axis. Its position is given by x "
+3.0 m # (4.0 m/s)t # ct2 $ (2.0 m/s3)t3, with x in meters and t in
+seconds.The factor c is a constant.At t " 3.0 s, the force on the particle
+has a magnitude of 36 N and is in the negative direction of the
+axis.What is c?
+•••12 Two horizontal forces and act on a 4.0 kg disk that
+slides over frictionless ice, on which an xy coordinate system is laid
+out. Force is in the positive direction of the x axis and has a magnitude
+of 7.0 N. Force has a magnitude of 9.0 N. Figure 5-32
+gives the x component vx of the velocity of the disk as a function of
+time t during the sliding.What is the angle between the constant directions
+of forces and F ?
+
+A 0.150 kg particle moves along an x axis according
+
+A 500 kg rocket sled can be accelerated at a constant
+rate from rest to 1600 km/h in 1.8 s.What is the magnitude of the
+required net force?
+•20 A car traveling at 53 km/h hits a bridge abutment.A passenger
+in the car moves forward a distance of 65 cm (with respect to
+the road) while being brought to rest by an inflated air bag.What
+magnitude of force (assumed constant) acts on the passenger’s upper
+torso, which has a mass of 41 kg?
+•21 A constant horizontal force pushes a 2.00 kg FedEx package
+across a frictionless floor on which an xy coordinate system has
+been drawn. Figure 5-37 gives the package’s x and y velocity components
+versus time t. What are the (a) magnitude and (b) direction
+of F ? :
+a
+F:
+a
+SSM
+•22 A customer sits in an amusement park ride in which the
+compartment is to be pulled downward in the negative direction of
+a y axis with an acceleration magnitude of 1.24g, with g " 9.80 m/s2.
+A 0.567 g coin rests on the customer’s knee. Once the motion begins
+and in unit-vector notation, what is the coin’s acceleration relative
+to (a) the ground and (b) the customer? (c) How long does
+the coin take to reach the compartment ceiling, 2.20 m above the
+knee? In unit-vector notation, what are (d) the actual force on the
+coin and (e) the apparent force according to the customer’s measure
+of the coin’s acceleration?
+•23 Tarzan, who weighs 820 N, swings from a cliff at the end of a
+20.0 m vine that hangs from a high tree limb and initially makes an
+angle of 22.03 with the vertical.Assume that an x axis extends horizontally
+away from the cliff edge and a y axis extends upward.
+Immediately after Tarzan steps off the cliff, the tension in the vine
+is 760 N. Just then, what are (a) the force on him from the vine in
+unit-vector notation and the net force on him (b) in unit-vector notation
+and as (c) a magnitude and (d) an angle relative to the
+positive direction of the x axis? What are the (e) magnitude and
+(f) angle of Tarzan’s acceleration just then?
+
+
+
+•24 There are two horizontal
+forces on the 2.0 kg box in the overhead
+view of Fig. 5-38 but only one
+(of magnitude F1 " 20 N) is shown.
+The box moves along the x axis. For
+each of the following values for the acceleration ax of the box,
+find the second force in unit-vector notation: (a) 10 m/s2, (b) 20m/s2,
+(c) 0, (d) $10 m/s2, and (e) $20 m/s2.
+•25 Sunjamming. A “sun yacht” is a spacecraft with a large sail
+that is pushed by sunlight.Although such a push is tiny in everyday
+circumstances, it can be large enough to send the spacecraft
+outward from the Sun on a cost-free but slow trip. Suppose that
+the spacecraft has a mass of 900 kg and receives a push of 20 N.
+(a) What is the magnitude of the resulting acceleration? If the craft
+starts from rest, (b) how far will it travel in 1 day and (c) how fast
+will it then be moving?
+•26 The tension at which a fishing line snaps is commonly called the
+line’s “strength.”What minimum strength is needed for a line that is to
+stop a salmon of weight 85 N in 11 cm if the fish is initially drifting at
+2.8 m/s? Assume a constant deceleration.
+•27 An electron with a speed of 1.2 ' 107 m/s moves horizontally
+into a region where a constant vertical force of 4.5
+10$16 N acts on it. The mass of the electron is 9.11 ' 10$31 kg.
+Determine the vertical distance the electron is deflected during the
+time it has moved 30 mm horizontally.
+•28 A car that weighs 1.30 ' 104 N is initially moving at
+40 km/h when the brakes are applied and the car is brought to a
+stop in 15 m. Assuming the force that stops the car is constant,
+find (a) the magnitude of that force and (b) the time required for
+the change in speed. If the initial speed is doubled, and the car experiences
+the same force during the braking, by what factors are
+(c) the stopping distance and (d) the stopping time multiplied?
+(There could be a lesson here about the danger of driving at high
+speeds.)
+•29 A firefighter who weighs 712 N slides down a vertical pole
+with an acceleration of 3.00 m/s2, directed downward.What are the
+(a) magnitude and (b) direction (up or down) of the vertical force
+on the firefighter from the pole and the (c) magnitude and (d) direction
+of the vertical force on the pole from the firefighter?
+•30 The high-speed winds around a tornado can drive projectiles
+into trees, building walls, and even metal traffic signs. In a
+laboratory simulation, a standard wood toothpick was shot by
+pneumatic gun into an oak branch.The toothpick’s mass was 0.13 g,
+its speed before entering the branch was 220 m/s, and its penetration
+depth was 15 mm. If its speed was decreased at a uniform
+rate, what was the magnitude of the force of the branch on the
+toothpick?
+••31 A block is projected up a frictionless inclined
+plane with initial speed v0 3.50
+m/s. The angle of incline is
+32.03. (a) How far up the plane
+does the block go? (b) How long
+does it take to get there? (c) What is
+its speed when it gets back to the
+bottom?
+••32 Figure 5-39 shows an overhead
+view of a 0.0250 kg lemon half and
+
+A 500 kg rocket sled can be accelerated at a constant
+rate from rest to 1600 km/h in 1.8 s.What is the magnitude of the
+required net force?
+•20 A car traveling at 53 km/h hits a bridge abutment.A passenger
+in the car moves forward a distance of 65 cm (with respect to
+the road) while being brought to rest by an inflated air bag.What
+magnitude of force (assumed constant) acts on the passenger’s upper
+torso, which has a mass of 41 kg?
+•21 A constant horizontal force pushes a 2.00 kg FedEx package
+across a frictionless floor on which an xy coordinate system has
+been drawn. Figure 5-37 gives the package’s x and y velocity components
+versus time t. What are the (a) magnitude and (b) direction
+of F ? :
+a
+F:
+a
+SSM
+•22 A customer sits in an amusement park ride in which the
+compartment is to be pulled downward in the negative direction of
+a y axis with an acceleration magnitude of 1.24g, with g " 9.80 m/s2.
+A 0.567 g coin rests on the customer’s knee. Once the motion begins
+and in unit-vector notation, what is the coin’s acceleration relative
+to (a) the ground and (b) the customer? (c) How long does
+the coin take to reach the compartment ceiling, 2.20 m above the
+knee? In unit-vector notation, what are (d) the actual force on the
+coin and (e) the apparent force according to the customer’s measure
+of the coin’s acceleration?
+•23 Tarzan, who weighs 820 N, swings from a cliff at the end of a
+20.0 m vine that hangs from a high tree limb and initially makes an
+angle of 22.03 with the vertical.Assume that an x axis extends horizontally
+away from the cliff edge and a y axis extends upward.
+Immediately after Tarzan steps off the cliff, the tension in the vine
+is 760 N. Just then, what are (a) the force on him from the vine in
+unit-vector notation and the net force on him (b) in unit-vector notation
+and as (c) a magnitude and (d) an angle relative to the
+positive direction of the x axis? What are the (e) magnitude and
+(f) angle of Tarzan’s acceleration just then?
+vx (m/s)
+vy (m/s)
+t (s)
+0 1 2 3
+5
+10
+t (s)
+0 1 2 3
+–5
+–10
+0
+Figure 5-37 Problem 21.
+stant speed up a frictionless ramp
+( 30.03) by a horizontal force
+.What are the magnitudes of (a)
+and (b) the force on the crate from
+the ramp?
+••35 The velocity of a 3.00 kg particle
+is given by " (8.00t + 3.00t2 )
+m/s, with time t in seconds. At the instant the net force on the particle
+has a magnitude of 35.0 N, what are the direction (relative to
+the positive direction of the x axis) of (a) the net force and (b) the
+particle’s direction of travel?
+••36 Holding on to a towrope moving parallel to a frictionless ski
+slope, a 50 kg skier is pulled up the slope, which is at an angle of
+8.03 with the horizontal.What is the magnitude Frope of the force on
+the skier from the rope when (a) the magnitude v of the skier’s velocity
+is constant at 2.0 m/s and (b) v " 2.0 m/s as v increases at a
+rate of 0.10 m/s2?
+••37 A 40 kg girl and an 8.4 kg sled are on the frictionless ice of a
+frozen lake, 15 m apart but connected by a rope of negligible mass.
+The girl exerts a horizontal 5.2 N force on the rope.What are the acceleration
+magnitudes of (a) the sled and (b) the girl? (c) How far
+from the girl’s initial position do they meet?
+••38 A 40 kg skier skis directly down a frictionless slope angled
+at 103 to the horizontal.Assume the skier moves in the negative direction
+of an x axis along the slope.A wind force with component
+Fx acts on the skier.What is Fx if the magnitude of the skier’s velocity
+is (a) constant, (b) increasing at a rate of 1.0 m/s2, and (c) increasing
+at a rate of 2.0 m/s2?
+••39 A sphere of mass 3.0 ' 10$4 kg is suspended from
+a cord.A steady horizontal breeze pushes the sphere so that the
+cord makes a constant angle of 373 with the vertical. Find (a) the
+push magnitude and (b) the tension in the cord.
+••40 A dated box of dates, of mass 5.00 kg, is sent sliding up a
+frictionless ramp at an angle of to the horizontal.Figure 5-41 gives, 1
+ILW
+:v iˆ jˆ
+F: F:
+1 "
+m " 100 kg is pushed at con-
+PROBLEMS 119
+has the constant velocity and (c) has the
+varying velocity where t is time?
+••33 An elevator cab and its load have a combined mass of 1600 kg.
+Find the tension in the supporting cable when the cab, originally
+moving downward at 12 m/s, is brought to rest with constant acceleration
+in a distance of 42 m.
+••34 In Fig. 5-40, a crate of mass
+:v (13.0tiˆ $ 14.0t jˆ ) m/s2, "
+v: " (13.0iˆ $ 14.0jˆ ) m/s,
+has a magnitude of 7.00 N and is at 30.03. In unit-vector notation,
+what is the third force if the lemon half (a) is stationary, (b)
+12 " F:
+2
+two of the three horizontal forces that act on it as it is on a frictionless
+table. Force has a magnitude of 6.00 N and is at 30.03. Force 11 " F:
+1
+m
+θ
+F
+Figure 5-40 Problem 34.
+vx (m/s)
+t (s)
+4
+2
+–2
+–4
+0 1 2 3
+Figure 5-41 Problem 40.
+as a function of time t, the component vx of the box’s velocity along an
+x axis that extends directly up the ramp.What is the magnitude of the
+normal force on the box from the ramp?
+••41 Using a rope that will snap if the tension in it exceeds 387 N,
+you need to lower a bundle of old roofing material weighing 449 N
+from a point 6.1 m above the ground. Obviously if you hang the bundle
+on the rope, it will snap. So, you allow the bundle to accelerate
+downward. (a)What magnitude of the bundle’s acceleration will put
+the rope on the verge of snapping? (b) At that acceleration, with
+what speed would the bundle hit the ground?
+••42 In earlier days, horses pulled barges down canals in the
+manner shown in Fig. 5-42. Suppose the horse pulls on the rope
+with a force of 7900 N at an angle of u " 183 to the direction of
+motion of the barge, which is headed straight along the positive
+direction of an x axis. The mass of the barge is 9500 kg, and the
+magnitude of its acceleration is 0.12 m/s2.What are the (a) magnitude
+and (b) direction (relative to positive x) of the force on the
+barge from the water?
+θ
+Figure 5-42 Problem 42.
+••43 In Fig. 5-43, a chain consisting of five
+links, each of mass 0.100 kg, is lifted vertically
+with constant acceleration of magnitude a " 2.50
+m/s2. Find the magnitudes of (a) the force on link
+1 from link 2, (b) the force on link 2 from link 3,
+(c) the force on link 3 from link 4, and (d) the
+force on link 4 from link 5. Then find the magnitudes
+of (e) the force on the top link from the
+person lifting the chain and (f) the net force accelerating
+each link.
+••44 A lamp hangs vertically from a cord in a descending
+elevator that decelerates at 2.4 m/s2. (a)
+If the tension in the cord is 89 N, what is the lamp’s
+mass? (b) What is the cord’s tension when the elevator
+ascends with an upward acceleration of 2.4 m/s2?
+••45 An elevator cab that weighs 27.8 kN moves upward.What is
+the tension in the cable if the cab’s speed is (a) increasing at a rate
+of 1.22 m/s2 and (b) decreasing at a rate of 1.22 m/s2?
+••46 An elevator cab is pulled upward by a cable.The cab and its
+single occupant have a combined mass of 2000 kg.When that occupant
+drops a coin, its acceleration relative to the cab is 8.00 m/s2
+downward.What is the tension in the cable?
+••47 The Zacchini family was renowned for their human-
+cannonball act in which a family member was shot from a
+cannon using either elastic bands or compressed air. In one version
+of the act, Emanuel Zacchini was shot over three Ferris wheels to
+land in a net at the same height as the open end of the cannon and
+at a range of 69 m. He was propelled inside the barrel for 5.2 m and
+launched at an angle of 533. If his mass was 85 kg and he underwent
+constant acceleration inside the barrel, what was the magnitude of
+the force propelling him? (Hint: Treat the launch as though it were
+along a ramp at 533.Neglect air drag.)
+F:
+SSM F
+1
+2
+3
+4
+5
+a
+Figure 5-43
+Problem 43.
+120 CHAPTER 5 FORCE AND MOTION—I
+A B
+Fa
+(a)
+B A
+Fa
+(b)
+Figure 5-51 Problem 56.
+••48 In Fig. 5-44, elevator cabs A and B are connected
+by a short cable and can be pulled upward or
+lowered by the cable above cab A. Cab A has mass
+1700 kg; cab B has mass 1300 kg.A 12.0 kg box of catnip
+lies on the floor of cab A.The tension in the cable
+connecting the cabs is 1.91 ' 104 N.What is the magnitude
+of the normal force on the box from the floor?
+••49 In Fig. 5-45, a block of mass m " 5.00 kg is
+pulled along a horizontal frictionless floor by a cord
+that exerts a force of magnitude F " 12.0 N at an
+angle u " 25.03. (a) What is the magnitude of the
+block’s acceleration? (b) The force magnitude F is
+slowly increased. What is its value just before the
+block is lifted (completely) off the floor? (c) What is
+the magnitude of the block’s acceleration just before it is lifted
+(completely) off the floor?
+••54 Figure 5-49 shows four penguins that are being playfully
+pulled along very slippery (frictionless) ice by a curator.The masses
+of three penguins and the tension in two of the cords are m1 " 12 kg,
+m3 " 15 kg, m4 " 20 kg, T2 " 111 N, and T4 " 222 N. Find the penguin
+mass m2 that is not given.
+••50 In Fig. 5-46, three ballot
+boxes are connected by cords, one
+of which wraps over a pulley having
+negligible friction on its axle and
+negligible mass. The three masses
+are mA " 30.0 kg, mB " 40.0 kg,
+and mC " 10.0 kg.When the assembly
+is released from rest, (a) what is the tension in the cord connecting
+B and C, and (b) how far does A move in the first 0.250 s
+(assuming it does not reach the pulley)?
+••51 Figure 5-47 shows two blocks connected by
+a cord (of negligible mass) that passes over a frictionless
+pulley (also of negligible mass). The
+arrangement is known as Atwood’s machine. One
+block has mass m1 " 1.30 kg; the other has mass m2 "
+2.80 kg.What are (a) the magnitude of the blocks’ acceleration
+and (b) the tension in the cord?
+••52 An 85 kg man lowers himself to the ground
+from a height of 10.0 m by holding onto a rope that
+runs over a frictionless pulley to a 65 kg sandbag.
+With what speed does the man hit the ground if he
+started from rest?
+••53 In Fig. 5-48, three connected blocks are
+pulled to the right on a horizontal frictionless table
+by a force of magnitude T3 " 65.0 N. If m1 " 12.0 kg,
+m2 " 24.0 kg, and m3 " 31.0 kg, calculate (a) the magnitude of the
+system’s acceleration, (b) the tension T1, and (c) the tension T2.
+A
+B
+Figure 5-44
+Problem 48.
+θ F m
+Figure 5-45
+Problems 49 and 60.
+A
+B
+C
+Figure 5-46 Problem 50.
+m1 m2 m3
+T1 T2 T3
+Figure 5-48 Problem 53.
+m1
+m2
+Figure 5-47
+Problems 51
+and 65.
+m1
+m3
+m4
+T2 T4
+Figure 5-49 Problem 54.
+••55 Two blocks are in
+contact on a frictionless table. A horizontal
+force is applied to the larger block, as
+shown in Fig. 5-50. (a) If m1 " 2.3 kg,
+m2 1.2 kg, and F " 3.2 N, find the magnitude
+of the force between the two
+blocks. (b) Show that if a force of the same
+magnitude F is applied to the smaller
+block but in the opposite direction, the magnitude of the force between
+the blocks is 2.1 N, which is not the same value calculated in
+(a). (c) Explain the difference.
+••56 In Fig. 5-51a, a constant horizontal force is applied to
+block A, which pushes against block B with a 20.0 N force directed
+horizontally to the right. In Fig. 5-51b, the same force is applied
+to block B; now block A pushes on block B with a 10.0 N force
+directed horizontally to the left.The blocks have a combined mass
+of 12.0 kg. What are the magnitudes of (a) their acceleration in
+Fig. 5-51a and (b) force F ? :
+a
+F:
+a
+F:
+a
+"
+SSM ILW WWW m1
+m2
+F
+Figure 5-50
+Problem 55.
+••57 ILW A block of mass m1 " 3.70 kg on a frictionless plane inclined
+at angle 30.03 is connected by a cord over a massless,
+frictionless pulley to a second block of mass m2 " 2.30 kg (Fig.
+5-52). What are (a) the magnitude of the acceleration of each
+block, (b) the direction of the acceleration of the hanging block,
+and (c) the tension in the cord?
+1 "
+m2
+θ
+m1
+Figure 5-52 Problem 57.
+••58 Figure 5-53 shows a man sitting in a bosun’s chair that dangles
+from a massless rope, which runs over a massless, frictionless
+pulley and back down to the man’s hand. The combined mass of
+man and chair is 95.0 kg.With what force magnitude must the man
+pull on the rope if he is to rise (a) with a constant velocity and
+PROBLEMS 121
+(b) with an upward acceleration of
+1.30 m/s2? (Hint: A free-body diagram
+can really help.) If the rope
+on the right extends to the ground
+and is pulled by a co-worker, with
+what force magnitude must the coworker
+pull for the man to rise (c)
+with a constant velocity and (d)
+with an upward acceleration of
+1.30 m/s2? What is the magnitude
+of the force on the ceiling from the
+pulley system in (e) part a, (f ) part
+b, (g) part c, and (h) part d?
+••59 A 10 kg monkey climbs
+up a massless rope that runs over a
+frictionless tree limb and back
+down to a 15 kg package on the
+ground (Fig. 5-54). (a) What is the
+magnitude of the least acceleration
+the monkey must have if it is to lift
+the package off the ground? If, after
+the package has been lifted, the
+monkey stops its climb and holds
+onto the rope, what are the (b)
+magnitude and (c) direction of the
+monkey’s acceleration and (d) the
+tension in the rope?
+••60 Figure 5-45 shows a 5.00 kg
+block being pulled along a frictionless
+floor by a cord that applies a
+force of constant magnitude 20.0 N
+but with an angle u(t) that varies
+with time.When angle u " 25.03, at
+what rate is the acceleration of the
+block changing if (a) u(t) "
+(2.00 ' 10$2 deg/s)t and (b) u(t)"$(2.00 ' 10$2 deg/s)t? (Hint:
+The angle should be in radians.)
+••61 A hot-air balloon of mass Mis descending vertically
+with downward acceleration of magnitude a.How much mass (ballast)
+must be thrown out to give the balloon an upward acceleration of magnitude
+a? Assume that the upward force from the air (the lift) does not
+change because of the decrease in mass.
+•••62 In shot putting, many athletes elect to launch the shot
+SSM ILW
+SSM
+the axis, with a speed of 3.0 m/s.What are its (a) speed and (b) direction
+of travel at t"11 s?
+Figure 5-53 Problem 58.
+Bananas
+Figure 5-54 Problem 59.
+6
+0
+2 4 6 8 10 12
+–4
+t (s)
+Fx (N)
+Figure 5-55 Problem 63.
+at an angle that is smaller than the theoretical one (about 423) at
+which the distance of a projected ball at the same speed and
+height is greatest. One reason has to do with the speed the athlete
+can give the shot during the acceleration phase of the throw.
+Assume that a 7.260 kg shot is accelerated along a straight path of
+length 1.650 m by a constant applied force of magnitude 380.0 N,
+starting with an initial speed of 2.500 m/s (due to the athlete’s preliminary
+motion).What is the shot’s speed at the end of the acceleration
+phase if the angle between the path and the horizontal is
+(a) 30.003 and (b) 42.003? (Hint: Treat the motion as though it
+were along a ramp at the given angle.) (c) By what percent is the
+launch speed decreased if the athlete increases the angle from
+30.003 to 42.003?
+•••63 Figure 5-55 gives, as a function of time t, the force component
+Fx that acts on a 3.00 kg ice block that can move only along
+the x axis. At t " 0, the block is moving in the positive direction of
+•••64 Figure 5-56 shows a box of mass m2 " 1.0 kg on a fric-
+θ
+F
+m2
+m1
+Figure 5-56 Problem 64.
+•••65 Figure 5-47 shows Atwood’s machine, in which two containers
+are connected by a cord (of negligible mass) passing over a
+frictionless pulley (also of negligible mass).At time t " 0, container
+1 has mass 1.30 kg and container 2 has mass 2.80 kg, but container 1
+is losing mass (through a leak) at the constant rate of 0.200 kg/s. At
+what rate is the acceleration magnitude of the containers changing
+at (a) t " 0 and (b) t " 3.00 s? (c) When does the acceleration reach
+its maximum value?
+•••66 Figure 5-57 shows a section of a cable-car system. The
+maximum permissible mass of each car with occupants is 2800 kg.
+The cars, riding on a support cable, are pulled by a second cable
+attached to the support tower on each car.Assume that the cables
+Support cable
+Pull cable
+θ
+Figure 5-57 Problem 66.
+tionless plane inclined at angle u " 303. It is connected by a cord of
+negligible mass to a box of mass m1 " 3.0 kg on a horizontal frictionless
+surface. The pulley is frictionless and massless. (a) If the
+magnitude of horizontal force is 2.3 N, what is the tension in the
+connecting cord? (b) What is the largest value the magnitude of
+may have without the cord becoming slack?
+F:
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friction When a force tends to slide a body along a surface, a
+frictional force from the surface acts on the body.The frictional force
+is parallel to the surface and directed so as to oppose the sliding. It is
+due to bonding between the atoms on the body and the atoms on the
+surface, an effect called cold-welding.
+If the body does not slide, the frictional force is a static
+frictional force . If there is sliding, the frictional force is a kinetic
+frictional force .
+1. If a body does not move, the static frictional force and the
+component of parallel to the surface are equal in magnitude,
+and is directed opposite that component. If the component
+increases, fs also increases.
+2. The magnitude of has a maximum value fs,max given by
+fs,max " msFN, (6-1)
+where ms is the coefficient of static friction and FN is the magnitude
+of the normal force. If the component of parallel to the
+surface exceeds fs,max, the static friction is overwhelmed and the
+body slides on the surface.
+3. If the body begins to slide on the surface, the magnitude of the
+frictional force rapidly decreases to a constant value fk given
+by
+fk " mkFN, (6-2)
+where mk is the coefficient of kinetic friction.
+Drag Force When there is relative motion between air (or
+some other fluid) and a body, the body experiences a drag force
+that opposes the relative motion and points in the direction in
+which the fluid flows relative to the body. The magnitude of is D:
+D:
+F:
+f:
+s
+f:
+s
+F:
+f:
+s
+f:
+k
+f:
+s
+F:
+Review & Summary
+related to the relative speed v by an experimentally determined
+drag coefficient C according to
+(6-14)
+where r is the fluid density (mass per unit volume) and A is the
+effective cross-sectional area of the body (the area of a cross section
+taken perpendicular to the relative velocity ).
+Terminal Speed When a blunt object has fallen far enough
+through air, the magnitudes of the drag force and the gravitational
+force on the body become equal.The body then falls at a
+constant terminal speed vt given by
+(6-16)
+Uniform Circular Motion If a particle moves in a circle or a
+circular arc of radius R at constant speed v, the particle is said to be
+in uniform circular motion. It then has a centripetal acceleration
+with magnitude given by
+(6-17)
+This acceleration is due to a net centripetal force on the particle,
+with magnitude given by
+(6-18)
+where m is the particle’s mass.The vector quantities and are
+directed toward the center of curvature of the particle’s path.A
+particle can move in circular motion only if a net centripetal
+force acts on it.
+F: a:
+F "
+mv2
+R
+,
+a "
+v2
+R
+.
+a:
+vt " A
+2Fg
+CrA
+.
+Fg
+:
+D:
+v:
+D " 12
+C*Av2,
+
+
+
+
+
+The floor of a railroad flatcar is loaded with loose crates having
+a coefficient of static friction of 0.25 with the floor. If the train
+is initially moving at a speed of 48 km/h, in how short a distance
+can the train be stopped at constant acceleration without causing
+the crates to slide over the floor?
+•2 In a pickup game of dorm shuffleboard, students crazed by final
+exams use a broom to propel a calculus book along the dorm
+hallway. If the 3.5 kg book is pushed from rest through a distance
+of 0.90 m by the horizontal 25 N force from the broom and then
+has a speed of 1.60 m/s, what is the coefficient of kinetic friction between
+the book and floor?
+•3 A bedroom bureau with a mass of 45 kg, including
+drawers and clothing, rests on the floor. (a) If the coefficient of
+static friction between the bureau and the floor is 0.45, what is the
+magnitude of the minimum horizontal force that a person must apply
+to start the bureau moving? (b) If the drawers and clothing,
+with 17 kg mass, are removed before the bureau is pushed, what is
+the new minimum magnitude?
+•4 A slide-loving pig slides down a certain 353 slide in twice the
+time it would take to slide down a frictionless 353 slide.What is the
+coefficient of kinetic friction between the pig and the slide?
+•5 A 2.5 kg block is initially at rest on a horizontal surface.A
+SSM WWW
+Tutoring problem available (at instructor’s discretion) in WileyPLUS and WebAssign
+SSM Worked-out solution available in Student Solutions Manual
+• – ••• Number of dots indicates level of problem difficulty
+Additional information available in The Flying Circus of Physics and at flyingcircusofphysics.com
+WWW Worked-out solution is at
+ILW Interactive solution is at
+http://www.wiley.com/college/halliday
+Problems
+P
+F
+Figure 6-17 Problem 5. F
+x
+y
+θ
+Figure 6-20 Problem 10.
+θ
+F
+Figure 6-19
+Problems 9 and 32.
+Figure 6-18 Problem 8.What moved the stone?
+Jerry Schad/Photo Researchers, Inc.
+•6 A baseball player with mass m " 79 kg, sliding into second
+base, is retarded by a frictional force of magnitude 470 N.What is
+the coefficient of kinetic friction mk between the player and the
+ground?
+•7 A person pushes horizontally with a force of 220 N
+on a 55 kg crate to move it across a level floor. The coefficient
+of kinetic friction between the crate and the floor is 0.35.What is
+the magnitude of (a) the frictional force and (b) the acceleration of
+the crate?
+•8 The mysterious sliding stones. Along the remote
+Racetrack Playa in Death Valley, California, stones sometimes
+gouge out prominent trails in the desert floor, as if the stones
+had been migrating (Fig. 6-18). For years curiosity mounted
+about why the stones moved. One explanation was that strong
+winds during occasional rainstorms would drag the rough stones
+SSM ILW
+horizontal force of magnitude 6.0 N and a vertical force are
+then applied to the block (Fig. 6-17).The coefficients of friction for
+the block and surface are ms " 0.40 and mk " 0.25. Determine the
+magnitude of the frictional force acting on the block if the magnitude
+of is (a) 8.0 N, (b) 10 N, and (c) 12 N. P:
+P:
+F:
+over ground softened by rain. When the desert dried out, the
+trails behind the stones were hard-baked in place. According to
+measurements, the coefficient of kinetic friction between the
+stones and the wet playa ground is about 0.80.What horizontal
+force must act on a 20 kg stone (a typical mass) to maintain the
+stone’s motion once a gust has started it moving? (Story continues
+with Problem 37.)
+Cheerios (mass mC " 1.0 kg) and a
+box of Wheaties (mass mW 3.0
+kg) are accelerated across a horizontal
+surface by a horizontal force
+applied to the Cheerios box. The
+magnitude of the frictional force on the Cheerios box is 2.0 N,
+and the magnitude of the frictional force on the Wheaties box is
+4.0 N. If the magnitude of is 12 N, what is the magnitude of the
+force on the Wheaties box from the Cheerios box?
+••21 An initially stationary box of sand is to be pulled across a
+floor by means of a cable in which the tension should not exceed
+1100 N. The coefficient of static friction between the box and the
+floor is 0.35. (a) What should be the angle between the cable and
+the horizontal in order to pull the greatest possible amount of sand,
+and (b) what is the weight of the sand and box in that situation?
+••22 In Fig. 6-23, a sled is held on an inclined plane by a cord
+pulling directly up the plane. The sled is to be on the verge of
+moving up the plane. In Fig. 6-
+28, the magnitude F required of
+the cord’s force on the sled is
+plotted versus a range of values
+for the coefficient of static friction
+ms between sled and plane:
+F1 " 2.0 N, F2 " 5.0 N, and m2 "
+0.50.At what angle u is the plane
+inclined?
+F:
+F:
+"
+PROBLEMS 141
+initially at rest on a plane inclined at angle u " 153 to the horizontal.
+The positive direction of the x axis is up the plane. Between
+block and plane, the coefficient of static friction is ms " 0.50 and
+the coefficient of kinetic friction is mk " 0.34. In unit-vector notation,
+what is the frictional force on the block from the plane when
+is (a) ($5.0 N) , (b) ($8.0 N) , and (c) ($15 N) ?
+••18 You testify as an expert witness in a case involving an accident
+in which car A slid into the rear of car B,which was stopped at
+a red light along a road headed down a hill (Fig. 6-25). You find
+that the slope of the hill is u " 12.03, that the cars were separated
+by distance d " 24.0 m when the driver of car A put the car into a
+slide (it lacked any automatic anti-brake-lock system), and that the
+speed of car A at the onset of braking was v0 " 18.0 m/s.With what
+speed did car A hit car B if the coefficient of kinetic friction was
+(a) 0.60 (dry road surface) and (b) 0.10 (road surface covered with
+wet leaves)?
+iˆ iˆ iˆ P:
+hand on one side and the fingers on the opposite
+side (Fig. 6-21). Sincosky’s mass was 79 kg. If the
+coefficient of static friction between hand and
+rafter was 0.70, what was the least magnitude of
+the normal force on the rafter from each thumb
+or opposite fingers? (After suspending himself,
+Sincosky chinned himself on the rafter and then
+moved hand-over-hand along the rafter. If you do
+not think Sincosky’s grip was remarkable, try to
+repeat his stunt.)
+•13 A worker pushes horizontally on a 35 kg
+crate with a force of magnitude 110 N.The coefficient
+of static friction between the crate and the
+floor is 0.37. (a) What is the value of fs,max under
+the circumstances? (b) Does the crate move?
+(c) What is the frictional force on the crate from
+the floor? (d) Suppose, next, that a second worker
+pulls directly upward on the crate to help out.
+What is the least vertical pull that will allow the
+first worker’s 110 N push to move the crate? (e)
+If, instead, the second worker pulls horizontally to help out, what is
+the least pull that will get the crate moving?
+•14 Figure 6-22 shows the cross
+section of a road cut into the side of
+a mountain. The solid line AA/ represents
+a weak bedding plane along
+which sliding is possible. Block B
+directly above the highway is separated
+from uphill rock by a large
+crack (called a joint), so that only
+friction between the block and the
+bedding plane prevents sliding. The
+mass of the block is 1.8 ' 107 kg, the dip angle u of the bedding
+plane is 243, and the coefficient of static friction between block
+and plane is 0.63. (a) Show that the block will not slide under
+these circumstances. (b) Next, water seeps into the joint and expands
+upon freezing, exerting on the block a force parallel to
+AA/. What minimum value of force magnitude F will trigger a
+slide down the plane?
+•15 The coefficient of static friction between Teflon and scrambled
+eggs is about 0.04.What is the smallest angle from the horizontal
+that will cause the eggs to slide across the bottom of a
+Teflon-coated skillet?
+••16 A loaded penguin sled weighing
+80 N rests on a plane inclined at
+angle u " 203 to the horizontal (Fig.
+6-23). Between the sled and the
+plane, the coefficient of static
+friction is 0.25, and the coefficient of
+kinetic friction is 0.15. (a) What is
+the least magnitude of the force
+parallel to the plane, that will prevent
+the sled from slipping down the plane? (b) What is the minimum
+magnitude F that will start the sled moving up the plane? (c)
+What value of F is required to
+move the sled up the plane at constant
+velocity?
+••17 In Fig. 6-24, a force acts on
+a block weighing 45 N.The block is
+P:
+F:,
+F:
+Joint with ice
+θ
+A
+B A'
+F
+Figure 6-22 Problem 14.
+Figure 6-21
+Problem 12.
+θ
+B
+A
+d
+v0
+Figure 6-25 Problem 18.
+θ
+P
+x
+Figure 6-24 Problem 17.
+F
+θ
+Figure 6-23
+Problems 16 and 22.
+••19 A 12 N horizontal force
+pushes a block weighing 5.0 N
+against a vertical wall (Fig. 6-26).
+The coefficient of static friction between
+the wall and the block is 0.60,
+and the coefficient of kinetic friction
+is 0.40. Assume that the block is not
+moving initially. (a) Will the block move? (b) In unit-vector notation,
+what is the force on the block from the wall?
+••20 In Fig. 6-27, a box of
+F:
+mC
+F mW
+Figure 6-27 Problem 20.
+x
+y
+F
+Figure 6-26 Problem 19.
+F
+F2
+F1
+0 μ 2
+μ s
+Figure 6-28 Problem 22.
+142 CHAPTER 6 FORCE AND MOTION—I I
+a
+a1
+–a1
+0 μ k2 μ k3
+μ k
+Figure 6-36 Problem 32.
+••30 A toy chest and its contents have a combined weight of
+180 N.The coefficient of static friction between toy chest and floor
+is 0.42.The child in Fig. 6-35 attempts to move the chest across the
+floor by pulling on an attached rope. (a) If u is 423, what is the magnitude
+of the force that the child must exert on the rope to put
+the chest on the verge of moving? (b) Write an expression for the
+magnitude F required to put the chest on the verge of moving as a
+function of the angle u. Determine (c) the value of u for which F is
+a minimum and (d) that minimum magnitude.
+F:
+••23 When the three blocks in
+Fig. 6-29 are released from rest, they
+accelerate with a magnitude of
+0.500 m/s2. Block 1 has mass M,
+block 2 has 2M, and block 3 has 2M.
+What is the coefficient of kinetic
+friction between block 2 and the
+table?
+••24 A 4.10 kg block is pushed
+along a floor by a constant applied
+force that is horizontal and has a
+magnitude of 40.0 N. Figure 6-30
+gives the block’s speed v versus
+time t as the block moves along an x
+axis on the floor. The scale of the
+figure’s vertical axis is set by vs "
+5.0 m/s. What is the coefficient of
+kinetic friction between the block
+and the floor?
+••25 Block B in Fig.
+6-31 weighs 711 N.The coefficient of
+static friction between block and
+table is 0.25; angle u is 303; assume
+that the cord between B and the
+knot is horizontal. Find the maximum
+weight of block A for which
+the system will be stationary.
+••26 Figure 6-32 shows three
+crates being pushed over a concrete
+floor by a horizontal force of
+magnitude 440 N. The masses of the
+crates are m1 " 30.0 kg, m2 " 10.0
+kg, and m3 " 20.0 kg.The coefficient
+of kinetic friction between the floor
+and each of the crates is 0.700. (a)
+What is the magnitude F32 of the
+force on crate 3 from crate 2? (b) If
+the crates then slide onto a polished
+floor, where the coefficient of kinetic friction is less than 0.700, is
+magnitude F32 more than, less than, or the same as it was when the
+coefficient was 0.700?
+••27 Body A in Fig. 6-33 weighs
+102 N, and body B weighs 32 N. The
+coefficients of friction between A
+and the incline are ms " 0.56 and
+mk " 0.25. Angle u is 403. Let the
+positive direction of an x axis be up
+the incline. In unit-vector notation,
+what is the acceleration of A if A is
+initially (a) at rest, (b) moving up
+the incline, and (c) moving down
+the incline?
+••28 In Fig. 6-33, two blocks are connected over a pulley. The
+mass of block A is 10 kg, and the coefficient of kinetic friction between
+A and the incline is 0.20. Angle u of the incline is 303. Block
+A slides down the incline at constant speed.What is the mass of
+block B? Assume the connecting rope has negligible mass. (The
+pulley’s function is only to redirect the rope.)
+F:
+SSM WWW
+••29 In Fig. 6-34, blocks A and B have weights of 44 N and 22
+N, respectively. (a) Determine the minimum weight of block C to
+keep A from sliding if ms between A and the table is 0.20. (b) Block
+C suddenly is lifted off A.What is the acceleration of block A if mk
+3 between A and the table is 0.15?
+2
+1
+Figure 6-29 Problem 23.
+v (m/s)
+0 0.5
+t (s)
+1.0
+vs
+Figure 6-30 Problem 24.
+B
+A
+Knot
+θ
+Figure 6-31 Problem 25.
+m1
+m2
+m3
+F
+Figure 6-32 Problem 26.
+Frictionless,
+massless pulley
+A
+B
+θ
+Figure 6-33
+Problems 27 and 28.
+Figure 6-34 Problem 29.
+Frictionless,
+massless pulley
+B
+C
+A
+Figure 6-35 Problem 30.
+θ
+by a massless string and slide down a 303 inclined plane.The coefficient
+of kinetic friction between the lighter block and the plane is
+0.10, and the coefficient between the heavier block and the plane is
+0.20. Assuming that the lighter block leads, find (a) the magnitude
+of the acceleration of the blocks and (b) the tension in the taut
+string.
+••32 A block is pushed across a floor by a constant force that is
+applied at downward angle u (Fig. 6-19). Figure 6-36 gives the acceleration
+magnitude a versus a range of values for the coefficient of
+kinetic friction mk between block and floor: a1 " 3.0 m/s2, mk2 "
+0.20, and mk3 " 0.40.What is the value of u?
+••31 SSM Two blocks, of weights 3.6 N and 7.2 N, are connected
+kg and M " 88 kg) in Fig. 6-38 are
+not attached to each other.The coefficient
+of static friction between the
+blocks is ms " 0.38, but the surface
+beneath the larger block is frictionless.
+What is the minimum magnitude
+of the horizontal force required to
+keep the smaller block from slipping down the larger block?
+Module 6-2 The Drag Force and Terminal Speed
+•36 The terminal speed of a sky diver is 160 km/h in the spreadeagle
+position and 310 km/h in the nosedive position. Assuming
+that the diver’s drag coefficient C does not change from one position
+to the other, find the ratio of the effective cross-sectional area
+A in the slower position to that in the faster position.
+••37 Continuation of Problem 8. Now assume that
+Eq. 6-14 gives the magnitude of the air drag force on the typical
+20 kg stone, which presents to the wind a vertical cross-sectional
+area of 0.040 m2 and has a drag coefficient C of 0.80.Take the air
+density to be 1.21 kg/m3, and the coefficient of kinetic friction to
+be 0.80. (a) In kilometers per hour, what wind speed V along the
+ground is needed to maintain the stone’s motion once it has
+started moving? Because winds along the ground are retarded by
+the ground, the wind speeds reported for storms are often measured
+at a height of 10 m. Assume wind speeds are 2.00 times
+those along the ground. (b) For your answer to (a), what wind
+speed would be reported for the storm? (c) Is that value reasonable
+for a high-speed wind in a storm? (Story continues with
+Problem 65.)
+••38 Assume Eq. 6-14 gives the drag force on a pilot plus ejection
+seat just after they are ejected from a plane traveling horizontally
+at 1300 km/h. Assume also that the mass of the seat is equal to the
+mass of the pilot and that the drag coefficient is that of a sky diver.
+Making a reasonable guess of the pilot’s mass and using the
+appropriate vt value from Table 6-1, estimate the magnitudes of
+(a) the drag force on the pilot # seat and (b) their horizontal deceleration
+(in terms of g), both just after ejection. (The result of
+(a) should indicate an engineering requirement:The seat must include
+a protective barrier to deflect the initial wind blast away
+from the pilot’s head.)
+••39 Calculate the ratio of the drag force on a jet flying at
+1000 km/h at an altitude of 10 km to the drag force on a propdriven
+transport flying at half that speed and altitude. The density
+F:
+•••34 In Fig. 6-37, a slab of mass
+m1 " 40 kg rests on a frictionless
+floor, and a block of mass m2 10
+kg rests on top of the slab. Between
+block and slab, the coefficient of
+static friction is 0.60, and the coefficient of kinetic friction is 0.40.A
+horizontal force of magnitude 100 N begins to pull directly on
+the block, as shown. In unit-vector notation, what are the resulting
+accelerations of (a) the block and (b) the slab?
+•••35 ILW The two blocks (m " 16
+F:
+"
+•••33 A 1000 kg boat is traveling at 90 km/h when its engine
+is shut off. The magnitude of the frictional force between boat
+and water is proportional to the speed v of the boat: fk 70v,where
+v is in meters per second and fk is in newtons. Find the time required
+for the boat to slow to 45 km/h.
+"
+f:
+k
+SSM
+PROBLEMS 143
+of air is 0.38 kg/m3 at 10 km and 0.67 kg/m3 at 5.0 km.Assume that
+the airplanes have the same effective cross-sectional area and drag
+coefficient C.
+••40 In downhill speed skiing a skier is retarded by both
+the air drag force on the body and the kinetic frictional force on the
+skis. (a) Suppose the slope angle is u " 40.03, the snow is dry snow
+with a coefficient of kinetic friction mk " 0.0400, the mass of the
+skier and equipment is m " 85.0 kg, the cross-sectional area of the
+(tucked) skier is A " 1.30 m2, the drag coefficient is C " 0.150, and
+the air density is 1.20 kg/m3. (a) What is the terminal speed? (b) If a
+skier can vary C by a slight amount dC by adjusting, say, the hand
+positions, what is the corresponding variation in the terminal
+speed?
+Module 6-3 Uniform Circular Motion
+•41 A cat dozes on a stationary merry-go-round in an amusement
+park, at a radius of 5.4 m from the center of the ride.Then the
+operator turns on the ride and brings it up to its proper turning
+rate of one complete rotation every 6.0 s.What is the least coefficient
+of static friction between the cat and the merry-go-round that
+will allow the cat to stay in place, without sliding (or the cat clinging
+with its claws)?
+•42 Suppose the coefficient of static friction between the road
+and the tires on a car is 0.60 and the car has no negative lift.What
+speed will put the car on the verge of sliding as it rounds a level
+curve of 30.5 m radius?
+•43 What is the smallest radius of an unbanked (flat) track
+around which a bicyclist can travel if her speed is 29 km/h and the
+ms between tires and track is 0.32?
+•44 During an Olympic bobsled run, the Jamaican team makes a
+turn of radius 7.6 m at a speed of 96.6 km/h.What is their acceleration
+in terms of g?
+••45 A student of weight 667 N rides a
+steadily rotating Ferris wheel (the student sits upright). At the
+highest point, the magnitude of the normal force on the student
+from the seat is 556 N. (a) Does the student feel “light” or “heavy”
+there? (b) What is the magnitude of at the lowest point? If the
+wheel’s speed is doubled, what is the magnitude FN at the (c) highest
+and (d) lowest point?
+••46 A police officer in hot pursuit drives her car through a circular
+turn of radius 300 m with a constant speed of 80.0 km/h. Her mass is
+55.0 kg.What are (a) the magnitude and (b) the angle (relative to vertical)
+of the net force of the officer on the car seat? (Hint: Consider
+both horizontal and vertical forces.)
+••47 A circular-motion addict of mass 80 kg rides a Ferris
+wheel around in a vertical circle of radius 10 m at a constant speed
+of 6.1 m/s. (a) What is the period of the motion? What is the magnitude
+of the normal force on the addict from the seat when both
+go through (b) the highest point of the circular path and (c) the
+lowest point?
+••48 A roller-coaster car at an amusement park has a mass
+of 1200 kg when fully loaded with passengers. As the car passes
+over the top of a circular hill of radius 18 m, assume that its speed
+is not changing. At the top of the hill, what are the (a) magnitude
+FN and (b) direction (up or down) of the normal force on the car
+from the track if the car’s speed is v " 11 m/s? What are (c) FN and
+(d) the direction if v " 14 m/s?
+F:
+N
+F:
+N
+SSM ILW
+ILW
+Figure 6-37 Problem 34.
+m2 m1
+x
+= 0
+F
+μ
+Frictionless
+m
+M
+F
+Figure 6-38 Problem 35.
+••58 Brake or turn? Figure 6-
+44 depicts an overhead view of a car’s
+path as the car travels toward a wall.
+Assume that the driver begins to
+brake the car when the distance to
+the wall is d " 107 m, and take the
+car’s mass as m " 1400 kg, its initial
+speed as v0 " 35 m/s, and the coefficient
+of static friction as ms " 0.50.
+Assume that the car’s weight is distributed
+evenly on the four wheels,
+even during braking. (a) What magnitude
+of static friction is needed (between tires and road) to stop
+the car just as it reaches the wall? (b) What is the maximum possible
+static friction fs,max? (c) If the coefficient of kinetic friction
+between the (sliding) tires and the road is mk " 0.40, at what
+speed will the car hit the wall? To avoid the crash, a driver could
+elect to turn the car so that it just barely misses the wall, as
+shown in the figure. (d) What magnitude of frictional force would
+be required to keep the car in a circular path of radius d and at
+the given speed v0, so that the car moves in a quarter circle and
+then parallel to the wall? (e) Is the required force less than fs,max
+so that a circular path is possible?
+144 CHAPTER 6 FORCE AND MOTION—I I
+F
+v
+(a)
+F
+T
+(b)
+Figure 6-40 Problem 50.
+dv in the speed with r held constant, and (c) a variation dT in the
+period with r held constant?
+••55 A bolt is threaded onto one
+end of a thin horizontal rod, and
+the rod is then rotated horizontally
+about its other end. An engineer
+monitors the motion by flashing a
+strobe lamp onto the rod and bolt,
+adjusting the strobe rate until the
+bolt appears to be in the same
+eight places during each full rotation
+of the rod (Fig. 6-42).The strobe rate is 2000 flashes per second;
+the bolt has mass 30 g and is at radius 3.5 cm.What is the
+magnitude of the force on the bolt from the rod?
+••56 A banked circular highway curve is designed for traffic
+moving at 60 km/h. The radius of the curve is 200 m. Traffic is
+moving along the highway at 40 km/h on a rainy day.What is the
+minimum coefficient of friction between tires and road that will
+allow cars to take the turn without sliding off the road? (Assume
+the cars do not have negative lift.)
+••57 A puck of mass m " 1.50 kg slides in a circle of radius
+r 20.0 cm on a frictionless table while attached to a hanging
+cylinder of mass M " 2.50 kg by means of a cord that extends
+through a hole in the table (Fig. 6-43).What speed keeps the cylinder
+at rest?
+"
+••49 In Fig. 6-39, a car is driven at constant speed over a circular
+hill and then into a circular valley with the same radius. At the
+top of the hill, the normal force on the driver from the car seat is 0.
+The driver’s mass is 70.0 kg.What is the magnitude of the normal
+force on the driver from the seat when the car passes through the
+bottom of the valley?
+Radius
+Radius
+Figure 6-39 Problem 49.
+••50 An 85.0 kg passenger is made to move along a circular path
+of radius r " 3.50 m in uniform circular motion. (a) Figure 6-40a is
+a plot of the required magnitude F of the net centripetal force for a
+range of possible values of the passenger’s speed v. What is the
+plot’s slope at v " 8.30 m/s? (b) Figure 6-40b is a plot of F for a
+range of possible values of T, the period of the motion.What is the
+plot’s slope at T " 2.50 s?
+••51 An airplane is flying
+in a horizontal circle at a speed of
+480 km/h (Fig. 6-41). If its wings are
+tilted at angle u " 403 to the horizontal,
+what is the radius of the circle in
+which the plane is flying? Assume
+that the required force is provided
+entirely by an “aerodynamic lift” that
+is perpendicular to the wing surface.
+••52 An amusement park
+ride consists of a car moving in a vertical
+circle on the end of a rigid boom
+of negligible mass.The combined weight of the car and riders is 5.0
+kN, and the circle’s radius is 10 m. At the top of the circle, what
+are the (a) magnitude FB and (b) direction (up or down) of
+the force on the car from the boom if the car’s speed is v " 5.0 m/s?
+What are (c) FB and (d) the direction if v " 12 m/s?
+••53 An old streetcar rounds a flat corner of radius 9.1 m, at
+16 km/h.What angle with the vertical will be made by the loosely
+hanging hand straps?
+••54 In designing circular rides for amusement parks,
+mechanical engineers must consider how small variations in certain
+parameters can alter the net force on a passenger. Consider a
+passenger of mass m riding around a horizontal circle of radius r at
+speed v. What is the variation dF in the net force magnitude for
+(a) a variation dr in the radius with v held constant, (b) a variation
+SSM WWW
+θ
+Figure 6-41 Problem 51.
+Strobed
+positions
+Bolt
+Rod
+Figure 6-42 Problem 55.
+m
+r
+M
+Figure 6-43 Problem 57.
+Car path
+Wall
+d
+Figure 6-44
+Problem 58.
+PROBLEMS 145
+•••59 In Fig. 6-45, a 1.34 kg
+ball is connected by means of two massless
+strings, each of length L 1.70 m, to
+a vertical, rotating rod.The strings are tied
+to the rod with separation d " 1.70 m and
+are taut.The tension in the upper string is
+35 N.What are the (a) tension in the lower
+string, (b) magnitude of the net force
+on the ball, and (c) speed of the ball? (d)
+What is the direction of F ? :
+net
+F:
+net
+"
+
+
+
+
+
+
+
+
+
+
