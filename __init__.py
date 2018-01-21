@@ -11,14 +11,16 @@ def getSectionLink(name):
     return {
         'a': "https://www.khanacademy.org/science/physics/forces-newtons-laws",
         'b': "https://www.khanacademy.org/science/physics/work-and-energy",
-        'c': "https://www.khanacademy.org/science/physics/thermodynamics"
+        'c': "https://www.khanacademy.org/science/physics/thermodynamics",
+        'd': "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage"
     }.get(name, "https://www.google.com")
 
 def getSectionName(name):
     return {
         'a': "Force/Motion",
         'b': "Energy",
-        'c': "Thermodynamics"
+        'c': "Thermodynamics",
+        'c': "Electricity"
     }.get(name, "Force/Motion")
 
 

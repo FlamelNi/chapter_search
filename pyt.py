@@ -24,6 +24,7 @@ def chapterName(x):
         'a': "a_ForceMotion.txt",
         'b': "b_Energy.txt",
         'c': "c_Thermo.txt"
+        'd': "d_Electro.txt"
     }.get(x, "a_ForceMotion.txt")    # default if x not found
 
 
@@ -185,7 +186,8 @@ def finalData():
     
     crudeList = [ getAllCount("a"),
                   getAllCount("b"),
-                  getAllCount("c") ]
+                  getAllCount("c"),
+                  getAllCount("d") ]
     
     finalList = []
     
