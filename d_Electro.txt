@@ -1,0 +1,4690 @@
+Electric Charge The strength of a particle’s electrical interaction
+with objects around it depends on its electric charge (usually represented
+as q), which can be either positive or negative. Particles with
+the same sign of charge repel each other, and particles with opposite
+signs of charge attract each other. An object with equal amounts of
+the two kinds of charge is electrically neutral, whereas one with an
+imbalance is electrically charged and has an excess charge.
+Conductors are materials in which a significant number of
+electrons are free to move. The charged particles in nonconductors
+(insulators) are not free to move.
+Electric current i is the rate dq/dt at which charge passes a point:
+(electric current). (21-3)
+Coulomb’s Law Coulomb’s law describes the electrostatic
+force (or electric force) between two charged particles. If the particles
+have charges q1 and q2, are separated by distance r, and are at
+rest (or moving only slowly) relative to each other, then the magnitude
+of the force acting on each due to the other is given by
+(Coulomb’s law), (21-4)
+where is the permittivity constant. The
+ratio 1/4p´0 is often replaced with the electrostatic constant (or
+Coulomb constant) k # 8.99 ' 109N9m2/C2.
+´0 # 8.85 ' 10$12C2/N9m2
+
+The electrostatic force vector acting on a charged particle due
+to a second charged particle is either directly toward the second
+particle (opposite signs of charge) or directly away from it (same
+sign of charge).As with other types of forces, if multiple electrostatic
+forces act on a particle, the net force is the vector sum (not scalar
+sum) of the individual forces.
+The two shell theories for electrostatics are
+Shell theorem 1: A charged particle outside a shell with charge
+uniformly distributed on its surface is attracted or repelled as if
+the shell’s charge were concentrated as a particle at its center.
+Shell theorem 2: A charged particle inside a shell with charge
+uniformly distributed on its surface has no net force acting on it
+due to the shell.
+Charge on a conducting spherical shell spreads uniformly over the
+(external) surface.
+The Elementary Charge Electric charge is quantized (restricted
+to certain values). The charge of a particle can be written
+as ne, where n is a positive or negative integer and e is the elementary
+charge, which is the magnitude of the charge of the electron
+and proton (% 1.602 ' 10$19 C).
+Conservation of Charge The net electric charge of any isolated
+system is always conserved.
+
+
+Of the charge Q initially on a tiny sphere, a portion
+q is to be transferred to a second, nearby sphere. Both spheres
+can be treated as particles and are fixed with a certain separation.
+For what value of q/Q will the electrostatic force between the two
+spheres be maximized?
+
+Identical isolated conducting spheres 1 and 2 have equal
+charges and are separated by a distance that is large compared with
+their diameters (Fig. 21-22a). The electrostatic force acting on
+sphere 2 due to sphere 1 is . Suppose now that a third identical
+sphere 3, having an insulating handle and initially neutral, is
+touched first to sphere 1 (Fig. 21-22b), then to sphere 2 (Fig. 21-22c),
+and finally removed (Fig. 21-22d). The electrostatic force that now
+acts on sphere 2 has magnitude F,.What is the ratio F,/F?
+F:
+(a)
+1 2
+(b )
+1 2
+3
+(c )
+1 2
+(d)
+1 2
+3
+F
+F'
+–F
+–F'
+Figure 21-22 Problem 2.
+•3 SSM What must be the distance between point charge q1 #
+static force between A and B at the end of experiment 2 to that at
+the end of experiment 1?
+••9 Two identical conducting spheres, fixed in
+place, attract each other with an electrostatic force of 0.108 N when
+their center-to-center separation is 50.0 cm. The spheres are then
+connected by a thin conducting wire.When the wire is removed,
+the spheres repel each other with an electrostatic force of 0.0360 N.
+Of the initial charges on the spheres, with a positive net charge,
+what was (a) the negative charge on one of them and (b) the positive
+charge on the other?
+••10 In Fig. 21-25, four particles form a square.The charges are
+SSM WWW
+26.0 mC and point charge q2#$47.0 mC for the electrostatic force
+between them to have a magnitude of 5.70 N?
+•4 In the return stroke of a typical lightning bolt, a current
+of 2.5 ' 104 A exists for 20 ms. How much charge is transferred in
+this event?
+•5 A particle of charge "3.00 ' 10$6 C is 12.0 cm distant from a
+second particle of charge $1.50 ' 10$6 C. Calculate the magnitude
+of the electrostatic force between the particles.
+•6 Two equally charged particles are held 3.2'10$3 m apart and
+then released from rest. The initial acceleration of the first particle is
+observed to be 7.0 m/s2 and that of the second to be 9.0 m/s2. If the
+mass of the first particle is 6.3'10$7 kg, what are (a) the mass of the
+second particle and (b) the magnitude of the charge of each particle?
+••7 In Fig. 21-23, three charged
+particles lie on an x axis. Particles
+1 and 2 are fixed in place. Particle
+3 is free to move, but the net electrostatic
+force on it from particles
+1 and 2 happens to be zero. If L23 # L12,what is the ratio q1/q2?
+••8 In Fig. 21-24, three identical conducting spheres initially have
+the following charges: sphere A, 4Q; sphere B, $6Q; and sphere
+C, 0. Spheres A and B are fixed in place, with a center-to-center
+separation that is much larger than the spheres.Two experiments
+are conducted. In experiment 1,
+sphere C is touched to sphere A
+and then (separately) to sphere B,
+and then it is removed. In experiment
+2, starting with the same
+initial states, the procedure is reversed:
+Sphere C is touched to
+sphere B and then (separately) to
+sphere A, and then it is removed.
+What is the ratio of the electro-
+ILW
+L12 L23
+1 2 3
+x
+Figure 21-23 Problems 7 and 40.
+Figure 21-24
+Problems 8 and 65.
+C
+A
+d
+B
+Figure 21-25
+Problems 10, 11, and 70.
+3 4
+1 a 2
+a
+a a
+x
+y
+q1 # q4 # Q and q2 # q3 # q. (a)
+What is Q/q if the net electrostatic
+force on particles 1 and 4 is zero? (b)
+Is there any value of q that makes the
+net electrostatic force on each of the
+four particles zero? Explain.
+••11 ILW In Fig. 21-25, the particles
+have charges q1#$q2 # 100 nC and
+q3#$q4 # 200 nC, and distance a #
+5.0 cm. What are the (a) x and (b) y
+components of the net electrostatic
+force on particle 3?
+••12 Two particles are fixed on an x
+axis. Particle 1 of charge 40 mC is located at x#$2.0 cm; particle 2 of
+charge Q is located at x # 3.0 cm. Particle 3 of charge magnitude 20
+mC is released from rest on the y axis at y # 2.0 cm.What is the value
+ofQif the initial acceleration of particle 3 is in the positive direction of
+(a) the x axis and (b) the y axis?
+••13 In Fig. 21-26, particle 1 of
+x
+y
+1 2
+L
+Figure 21-26 Problems 13,
+19, 30, 58, and 67.
+charge "1.0 mC and particle 2 of charge
+$3.0 mC are held at separation L #
+10.0 cm on an x axis. If particle 3 of unknown
+charge q3 is to be located such
+that the net electrostatic force on it
+from particles 1 and 2 is zero, what must be the (a) x and (b) y coordinates
+of particle 3?
+••14 Three particles are fixed on an x axis. Particle 1 of charge q1 is
+at x#$a, and particle 2 of charge q2 is at x#"a. If their net electrostatic
+force on particle 3 of charge "Q is to be zero, what must be the
+ratio q1/q2 when particle 3 is at (a) x#"0.500a and (b) x#"1.50a?
+••15 The charges and coordinates of two charged particles held
+fixed in an xy plane are q1#"3.0 mC, x1 # 3.5 cm, y1 # 0.50 cm,
+and q2#$4.0 mC, x2#$2.0 cm, y2 # 1.5 cm. Find the (a) magnitude
+and (b) direction of the electrostatic force on particle 2 due to
+particle 1. At what (c) x and (d) y coordinates should a third particle
+of charge q3#"4.0 mC be placed such that the net electrostatic
+force on particle 2 due to particles 1 and 3 is zero?
+••16 In Fig. 21-27a, particle 1 (of charge q1) and particle 2 (of
+charge q2) are fixed in place on an x axis, 8.00 cm apart. Particle 3 (of
+F (10–23 N)
+–1
+0
+1
+0 xs
+x
+x (cm)
+y
+(a)
+(b)
+1 2
+Figure 21-27 Problem 16.
+cle 2 of charge "4.00q are held at separation L # 9.00 cm on an
+x axis. If particle 3 of charge q3 is to be located such that the
+three particles remain in place when released, what must be the (a)
+x and (b) y coordinates of particle 3, and (c) the ratio q3 /q?
+•••20 Figure 21-30a shows an arrangement of three charged
+particles separated by distance d. Particles A and C are fixed on
+the x axis, but particle B can be moved along a circle centered on
+particle A. During the movement, a radial line between A and B
+makes an angle u relative to the positive direction of the x axis
+(Fig. 21-30b). The curves in Fig. 21-30c give, for two situations, the
+magnitude Fnet of the net electrostatic force on particle A due to the
+other particles.That net force is given as a function of angle u and as
+a multiple of a basic amount F0. For example on curve 1, at u # 180-,
+we see that Fnet # 2F0. (a) For the situation corresponding to curve 1,
+what is the ratio of the charge of particle C to that of particle B (including
+sign)? (b) For the situation corresponding to curve 2, what is
+that ratio?
+626 CHAPTER 21 COULOMB’S LAW
+charge q3#"8.00 ' 10$19 C) is to be placed on the line between particles
+1 and 2 so that they produce a net electrostatic force on it.
+Figure 21-27b gives the x component of that force versus the coordinate
+x at which particle 3 is placed.The scale of the x axis is set by xs#
+8.0 cm.What are (a) the sign of charge q1 and (b) the ratio q2 /q1?
+••17 In Fig. 21-28a, particles 1 and
+2 have charge 20.0 mC each and are
+held at separation distance d # 1.50
+m. (a) What is the magnitude of the
+electrostatic force on particle 1 due
+to particle 2? In Fig. 21-28b, particle
+3 of charge 20.0 mC is positioned so
+as to complete an equilateral triangle.
+(b) What is the magnitude of
+the net electrostatic force on particle
+1 due to particles 2 and 3?
+••18 In Fig. 21-29a, three positively
+charged particles are fixed on an x
+axis. Particles B and C are so close
+to each other that they can be considered
+to be at the same distance
+from particle A. The net force on
+particle A due to particles B and
+C is 2.014 ' 10$23 N in the negative
+direction of the x axis. In Fig. 21-
+29b, particle B has been moved to the opposite side of A but is still
+at the same distance from it. The net force on A is now 2.877 '
+10$24 N in the negative direction of the x axis. What is the ratio
+qC/qB?
+••19 SSM WWW In Fig. 21-26, particle 1 of charge "q and parti-
+F:
+3,net
+•••21 A nonconducting spherical shell, with an inner radius of
+4.0 cm and an outer radius of 6.0 cm, has charge spread nonuniformly
+through its volume between its inner and outer surfaces.
+The volume charge density r is the charge per unit volume, with the
+unit coulomb per cubic meter.For this shell r# b/r,where r is the distance
+in meters from the center of the shell and b # 3.0 mC/m2.What
+is the net charge in the shell?
+•••22 Figure 21-31 shows an
+2 of charge q1#q2#"3.20'10$19 C
+are on a y axis at distance d#17.0 cm
+from the origin. Particle 3 of charge
+q3#"6.40'10$19 C is moved gradually
+along the x axis from x#0 to x#
+"5.0 m. At what values of x will the
+magnitude of the electrostatic force on
+the third particle from the other two
+particles be (a) minimum and (b)
+maximum? What are the (c) minimum and (d) maximum magnitudes?
+Module 21-2 Charge Is Quantized
+•24 Two tiny, spherical water drops, with identical charges
+of $1.00 ' 10$16 C, have a center-to-center separation of 1.00 cm.
+(a) What is the magnitude of the electrostatic force acting between
+them? (b) How many excess electrons are on each drop, giving it
+its charge imbalance?
+•25 ILW How many electrons would have to be removed from a
+Figure 21-28 Problem 17.
+d
+(a) (b )
+1
+2
+d
+d
+3
+A
+B A C
+B C
+x
+x
+(a)
+(b)
+Figure 21-29 Problem 18.
+•27 SSM The magnitude of the electrostatic force between two iden-
+Fnet
+2
+1
+0
+0° 90°
+θ
+θ 180°
+1
+(a) 2
+(b) (c)
+x
+x
+A C
+B
+A B C
+d d
+d
+Figure 21-30 Problem 20.
+arrangement of four charged particles,
+with angle u ! 30.0" and distance
+d ! 2.00 cm. Particle 2 has
+charge q2!#8.00 $ 10%19 C; particles
+3 and 4 have charges q3 ! q4
+!%1.60 $ 10%19 C. (a) What is distance
+D between the origin and
+particle 2 if the net electrostatic
+force on particle 1 due to the other particles is zero? (b) If particles
+3 and 4 were moved closer to the x axis but maintained their
+symmetry about that axis, would the required value of D be
+greater than, less than, or the same as in part (a)?
+•••23 In Fig. 21-32, particles 1 and
+x
+y
+1 d D 2
+3
+4
+θ
+θ
+Figure 21-31 Problem 22.
+Figure 21-32 Problem 23.
+x
+1
+3
+d
+d
+2
+y
+coin to leave it with a charge of #1.0 $ 10%7 C?
+•26 What is the magnitude of the electrostatic force between a
+singly charged sodium ion (Na#, of charge #e) and an adjacent
+singly charged chlorine ion (Cl%, of charge %e) in a salt crystal if
+their separation is 2.82 $ 10%10 m?
+tical ions that are separated by a distance of 5.0$10%10 m is 3.7$10%9
+N. (a) What is the charge of each ion? (b) How many electrons are
+“missing”from each ion (thus giving the ion its charge imbalance)?
+•28 A current of 0.300 A through your chest can send your
+x
+y
+1 3
+4
+2
+Figure 21-33 Problem 29.
+heart into fibrillation, ruining the
+normal rhythm of heartbeat and
+disrupting the flow of blood (and
+thus oxygen) to your brain. If that
+current persists for 2.00 min, how
+many conduction electrons pass
+through your chest?
+••29 In Fig. 21-33, particles 2
+and 4, of charge %e, are fixed in
+place on a y axis, at y2!%10.0 cm
+Additional Problems
+38 Figure 21-37 shows four identical
+conducting spheres that are actually
+well separated from one another.
+Sphere W (with an initial charge of
+zero) is touched to sphere A and then
+they are separated. Next, sphere W is
+touched to sphere B (with an initial
+charge of %32e) and then they are separated. Finally, sphere W is
+touched to sphere C (with an initial charge of #48e), and then they
+are separated. The final charge on sphere W is #18e.What was the
+initial charge on sphere A?
+••33 Calculate the number of coulombs of positive charge in 250
+cm3 of (neutral) water. (Hint: A hydrogen atom contains one proton;
+an oxygen atom contains
+eight protons.)
+PROBLEMS 627
+and y4 ! 5.00 cm. Particles 1 and 3, of charge %e, can be moved
+along the x axis. Particle 5, of charge #e, is fixed at the origin.
+Initially particle 1 is at x1!%10.0 cm and particle 3 is at x3 ! 10.0
+cm. (a) To what x value must particle 1 be moved to rotate the
+direction of the net electric force on particle 5 by 30" counterclockwise?
+(b) With particle 1 fixed at its new position, to what x
+value must you move particle 3 to rotate back to its original
+direction?
+••30 In Fig. 21-26, particles 1 and 2 are fixed in place on an x axis, at a
+separation of L ! 8.00 cm. Their charges are q1!#e and q2!%27e.
+Particle 3 with charge q3!#4e is to be placed on the line between
+particles 1 and 2, so that they produce a net electrostatic force on
+it. (a) At what coordinate should particle 3 be placed to minimize the
+magnitude of that force? (b) What is that minimum magnitude?
+••31 Earth’s atmosphere is constantly bombarded by cosmic
+ray protons that originate somewhere in space. If the protons all
+passed through the atmosphere, each square meter of Earth’s surface
+would intercept protons at the average rate of 1500 protons
+per second. What would be the electric current intercepted by the
+total surface area of the planet?
+••32 Figure 21-34a shows charged particles 1 and 2 that are
+fixed in place on an x axis. Particle 1 has a charge with a magnitude
+of |q1| ! 8.00e. Particle 3 of charge q3!#8.00e is initially on the x
+axis near particle 2.Then particle 3 is gradually moved in the positive
+direction of the x axis. As a result, the magnitude of the net
+electrostatic force on particle 2 due to particles 1 and 3
+changes. Figure 21-34b gives the x component of that net force as a
+function of the position x of particle 3.The scale of the x axis is set
+by xs ! 0.80 m. The plot has an asymptote of F2,net ! 1.5 $ 10%25 N
+as x : &. As a multiple of e and including the sign, what is the
+charge q2 of particle 2?
+F:
+2,net
+ILW
+F:
+3,net
+F:
+net
+F:
+net
+•••35 In crystals of the salt cesium chloride, cesium ions
+Cs# form the eight corners of a cube and a chlorine ion Cl% is at the
+cube’s center (Fig. 21-36). The edge length of the cube is 0.40 nm.
+
+Electrons and positrons are produced by the nuclear transformations
+of protons and neutrons known as beta decay. (a) If a proton transforms
+into a neutron, is an electron or a positron produced? (b) If a
+neutron transforms into a proton, is an electron or a positron produced?
+
+Electric Field To explain the electrostatic force between two
+charges, we assume that each charge sets up an electric field in the
+space around it.The force acting on each charge is then due to the
+electric field set up at its location by the other charge.
+Definition of Electric Field The electric field at any point
+is defined in terms of the electrostatic force that would be exerted
+on a positive test charge q0 placed there:
+(22-1)
+Electric Field Lines Electric field lines provide a means for visualizing
+the direction and magnitude of electric fields.The electric field
+vector at any point is tangent to a field line through that point. The
+density of field lines in any region is proportional to the magnitude of
+the electric field in that region. Field lines originate on positive
+charges and terminate on negative charges.
+Field Due to a Point Charge The magnitude of the electric
+field set up by a point charge q at a distance r from the charge is
+E ! (22-3)
+1
+4p´0
+!q!
+r2 .
+E:
+E: !
+F:
+q0
+.
+F:
+E:
+Review & Summary
+The direction of is away from the point charge if the charge is
+positive and toward it if the charge is negative.
+Field Due to an Electric Dipole An electric dipole consists
+of two particles with charges of equal magnitude q but opposite
+sign, separated by a small distance d. Their electric dipole moment
+has magnitude qd and points from the negative charge to the
+positive charge. The magnitude of the electric field set up by the
+dipole at a distant point on the dipole axis (which runs through
+both charges) is
+(22-9)
+where z is the distance between the point and the center of the
+dipole.
+Field Due to a Continuous Charge Distribution The
+electric field due to a continuous charge distribution is found by
+treating charge elements as point charges and then summing, via
+integration, the electric field vectors produced by all the charge elements
+to find the net vector.
+E !
+1
+
+Field Due to a Charged Disk The electric field magnitude
+at a point on the central axis through a uniformly charged disk is
+given by
+(22-26)
+where z is the distance along the axis from the center of the disk,R
+is the radius of the disk, and s is the surface charge density.
+Force on a Point Charge in an Electric Field When a
+point charge q is placed in an external electric field , the electrostatic
+force that acts on the point charge is
+F . (22-28) :! qE:
+F:
+E:
+E !
+s
+2´0 #1 %
+z
+2z2 # R2 $,
+Force has the same direction as if q is positive and the
+opposite direction if q is negative.
+Dipole in an Electric Field When an electric dipole of dipole
+moment is placed in an electric field , the field exerts a torque
+on the dipole:
+(22-34)
+The dipole has a potential energy U associated with its orientation
+in the field:
+(22-38)
+This potential energy is defined to be zero when is perpendicular
+to ; it is least ( ) when is aligned with and greatest
+( ) when is directed opposite E. :
+Figure 22-22 shows three arrangements of electric field lines. In
+each arrangement, a proton is released from rest at point A and is
+then accelerated through point B by the electric field. Points A and
+B have equal separations in the three arrangements. Rank the
+arrangements according to the linear momentum of the proton at
+point B, greatest first.
+
+Figure 22-25 shows four
+situations in which four
+charged particles are evenly
+spaced to the left and right
+of a central point. The
+charge values are indicated.
+Rank the situations accord -
+ing to the magnitude of the
+net electric field at the
+central point, greatest first.
+5 Figure 22-26 shows two
+charged particles fixed in
+place on an axis. (a) Where
+on the axis (other than at an infinite
+distance) is there a point at which
+their net electric field is zero: between
+the charges, to their left, or to
+their right? (b) Is there a point of
+zero net electric field anywhere off the axis (other than at an infinite
+distance)?
+6 In Fig. 22-27, two identical circular
+nonconducting rings are centered
+on the same line with their planes
+perpendicular to the line. Each ring
+has charge that is uniformly distributed
+along its circumference. The
+rings each produce electric fields at points along the line. For three
+situations, the charges on rings A and B are, respectively, (1) q0 and
+q0, (2) %q0 and %q0, and (3) %q0 and q0. Rank the situations
+according to the magnitude of the net electric field at (a) point P1
+midway between the rings, (b) point P2 at the center of ring B, and
+(c) point P3 to the right of ring B, greatest first.
+7 The potential energies associated with four orientations of an
+electric dipole in an electric field are (1) %5U0, (2) %7U0, (3) 3U0,
+and (4) 5U0, where U0 is positive. Rank the orientations according
+to (a) the angle between the electric dipole moment and the electric
+field and (b) the magnitude of the torque on the electric
+dipole, greatest first.
+8 (a) In Checkpoint 4, if the dipole rotates from orientation 1 to
+orientation 2, is the work done on the dipole by the field positive,
+negative, or zero? (b) If, instead, the dipole rotates from orientation
+1 to orientation 4, is the work done by the field more than, less
+than, or the same as in (a)?
+
+Figure 22-23 shows two
+square arrays of charged particles.
+The squares, which are
+centered on point P, are misaligned.
+The particles are separated
+by either d or d/2
+along the perimeters of the
+squares. What are the magnitude
+and direction of the net
+electric field at P?
+3 In Fig. 22-24, two particles
+of charge %q are arranged
+symmetrically about the y
+axis; each produces an electric
+field at point P on that axis. (a) Are the magnitudes of the fields
+at P equal? (b) Is each electric field directed toward or away from
+the charge producing it? (c) Is the magnitude of the net electric
+field at P equal to the sum of the
+magnitudes E of the two field vectors
+(is it equal to 2E)? (d) Do the x
+components of those two field vectors
+add or cancel? (e) Do their y
+components add or cancel? (f ) Is
+the direction of the net field at P
+that of the canceling components or
+the adding components? (g) What is
+the direction of the net field?
+
+
+
+Figure 22-28 shows two disks and a flat ring, each with the same
+uniform charge Q. Rank the objects according to the magnitude of
+the electric field they create at points P (which are at the same vertical
+heights), greatest first.
+curvature (at the origin). In Figs. 22-30b, c, and d, more circular
+rods, each with identical uniform charges #Q, are added until the
+circle is complete. A fifth arrangement (which would be labeled e)
+is like that in d except the rod in the fourth quadrant has charge
+%Q. Rank the five arrangements according to the magnitude of
+the electric field at the center of curvature, greatest first.
+12 When three electric dipoles are near each other, they each
+experience the electric field of the other two, and the three-dipole
+system has a certain potential energy. Figure 22-31 shows
+two arrangements in which three electric dipoles are side by side.
+Each dipole has the same magnitude of electric dipole moment,
+and the spacings between adjacent dipoles are identical. In which
+arrangement is the potential energy of the three-dipole system
+greater?
+10 In Fig. 22-29, an electron e travels
+through a small hole in plate A
+and then toward plate B.A uniform
+electric field in the region between
+the plates then slows the electron
+without deflecting it. (a) What is the
+direction of the field? (b) Four other
+particles similarly travel through
+small holes in either plate A or plate
+B and then into the region between
+the plates. Three have charges #q1,
+#q2, and %q3. The fourth (labeled n) is a neutron,which is electrically
+neutral. Does the speed of each of those four other particles
+increase, decrease, or remain the same in the region between the
+plates?
+11 In Fig. 22-30a, a circular plastic rod with uniform charge
+#Q produces an electric field of magnitude E at the center of
+P P
+2R R 2R
+P
+R
+(a) (b) (c)
+Figure 22-28 Question 9.
+14 Figure 22-33 shows five protons that are launched in a uniform
+electric field ; the magnitude and direction of the launch velocities
+are indicated. Rank the protons according to the magnitude
+of their accelerations due to the field, greatest first.
+E:
+e
++q1
+n
++q2
+–q3
+A B
+Figure 22-29 Question 10.
+(a) (b)
+Figure 22-31 Question 12.
+13 Figure 22-32 shows three rods, each with the same charge Q
+spread uniformly along its length. Rods a (of length L) and b (of
+length L/2) are straight, and points P are aligned with their midpoints.
+Rod c (of length L/2) forms a complete circle about point P.
+Rank the rods according to the magnitude of the electric field they
+create at points P, greatest first.
+positive charge q1 is on the inner shell and a uniform negative
+charge %q2 is on the outer. Consider the cases q1 1 q2, q1 ! q2, and
+q1 2 q2.
+charged particles on an x axis: %q !
+%3.20 $ 10%19 C at x ! %3.00 m and
+q ! 3.20 $ 10%19 C at x !#3.00 m.
+What are the (a) magnitude and
+(b) direction (relative to the positive
+direction of the x axis) of the net electric field produced at point
+P at y ! 4.00 m?
+PROBLEMS 653
+•2 In Fig. 22-34 the electric field
+lines on the left have twice the separation
+of those on the right. (a) If the
+magnitude of the field at A is 40 N/C,
+what is the magnitude of the force
+on a proton at A?(b) What is the
+magnitude of the field at B?
+Module 22-2 The Electric Field Due to a Charged Particle
+•3 The nucleus of a plutonium-239 atom contains 94 protons.
+Assume that the nucleus is a sphere with radius 6.64 fm and with
+the charge of the protons uniformly spread through the sphere. At
+the surface of the nucleus, what are the (a) magnitude and (b) direction
+(radially inward or outward) of the electric field produced by
+the protons?
+•4 Two charged particles are attached to an x axis: Particle 1 of
+charge %2.00 $ 10%7 C is at position x ! 6.00 cm and particle 2 of
+charge #2.00 $ 10%7 C is at position x ! 21.0 cm. Midway between
+the particles, what is their net electric field in unit-vector notation?
+•5 A charged particle produces an electric field with a magnitude
+of 2.0 N/C at a point that is 50 cm away from the particle.
+What is the magnitude of the particle’s charge?
+•6 What is the magnitude of a point charge that would create an
+electric field of 1.00 N/C at points 1.00
+m away?
+••7 In Fig. 22-35, the
+four particles form a square of edge
+length a ! 5.00 cm and have charges
+q1!#10.0 nC, q2!%20.0 nC, q3 !
+#20.0 nC, and q4!%10.0 nC. In unitvector
+notation, what net electric field
+do the particles produce at the square’s
+center?
+••8 In Fig. 22-36, the four particles
+are fixed in place and have charges
+q1 ! q2!#5e, q3!#3e, and q4 !
+%12e. Distance d ! 5.0 mm.What is the
+magnitude of the net electric field at
+point P due to the particles?
+••9 Figure 22-37 shows two
+SSM ILW WWW
+SSM
+SSM
+A
+B
+Figure 22-34 Problem 2.
+Figure 22-35 Problem 7.
+a
+a
+q4 q3
+q1 q2
+x
+y
+••11 SSM Two charged particles are fixed to an x axis: Particle 1
+••10 Figure 22-38a shows two charged particles fixed in place
+on an x axis with separation L.The ratio q1/q2 of their charge magnitudes
+is 4.00. Figure 22-38b shows the x component Enet,x of their
+net electric field along the x axis just to the right of particle 2.The x
+axis scale is set by xs ! 30.0 cm. (a) At what value of x 1 0 is Enet,x
+maximum? (b) If particle 2 has charge %q2!%3e, what is the
+value of that maximum?
+Figure 22-36 Problem 8.
+x
+y
+P
+–q q
+Figure 22-37 Problem 9.
+of charge q1 ! 2.1 $ 10%8 C is at position x ! 20 cm and particle 2 of
+charge q2!%4.00q1 is at position x ! 70 cm.At what coordinate on
+the axis (other than at infinity) is the net electric field produced by
+the two particles equal to zero?
+Enet,x (10–8 N/C)
+–2
+–4
+0
+2
+(a) (b)
+0
+x (cm)
+y
+x
++q1 –q2
+L
+xs
+Figure 22-38 Problem 10.
+q2
+d
+P
+d
+d
+d
+q3
+q4
+q1
+p p
+e
+p
+e
+y
+x θ 1
+θ 2
+θ 3
+θ 4
+Figure 22-39 Problem 12.
+es ec es
+p
+R R
+z
+Figure 22-40 Problem 13.
+y
+L
+x
+q1 q2
+Figure 22-41 Problem 14.
+moved to z ! R/10.0. What then are the magnitudes of
+(c) at the proton’s location? (e) From (a) and (c)
+we see that as the proton gets nearer to the disk, the magnitude of
+Ec
+: and (d) E:
+s,net
+increases, as expected.Why does the
+magnitude of from the two side
+electrons decrease, as we see from
+(b) and (d)?
+••14 In Fig. 22-41, particle 1 of charge
+q1!%5.00q and particle 2 of charge q2
+!#2.00q are fixed to an x axis. (a) As a
+multiple of distance L, at what coordi-
+E:
+s,net
+E:
+c
+nate on the axis is the net electric field of the particles zero? (b)
+Sketch the net electric field lines between and around the particles.
+••12 Figure 22-39 shows an uneven
+arrangement of electrons (e)
+and protons (p) on a circular arc of
+radius r ! 2.00 cm, with angles
+u1 ! 30.0", u2 ! 50.0", u3 ! 30.0", and
+u4 ! 20.0". What are the (a) magnitude
+and (b) direction (relative to the
+positive direction of the x axis) of the
+net electric field produced at the center
+of the arc?
+••13 Figure 22-40 shows a proton
+(p) on the central axis through a disk
+with a uniform charge density due to
+excess electrons.The disk is seen from
+an edge-on view. Three of those electrons
+are shown: electron ec at the
+disk center and electrons es at opposite
+sides of the disk, at radius R from
+the center. The proton is initially at
+distance z ! R ! 2.00 cm from the disk. At that location, what are
+the magnitudes of (a) the electric field due to electron ec and (b)
+the net electric field E due to electrons es? The proton is then :
+s,net
+E:
+c
+654 CHAPTER 22 ELECTRIC FIELDS
+Figure 22-44 Problem 17.
+Ex (104 N/C)
+–Exs
+0 θ
+θ
+90° 180°
+(b)
+(a)
+Ey (104 N/C)
+Eys
+0 θ
+90° 180°
+(c)
+y
+x
+R Bead 1
+Ring
+Exs
+r
+P
+d/2
++q
+d/2
+–q –
++ y
+x
+Figure 22-45 Problem 19.
+••19 Figure 22-45 shows an electric dipole.What are the (a) magnitude
+and (b) direction (relative to the positive direction of the x axis)
+of the dipole’s electric field at point P, located at distance r ) d?
+••15 In Fig. 22-42, the three particles are
+fixed in place and have charges q1 ! q2 !
+#e and q3!#2e. Distance a ! 6.00 mm.
+What are the (a) magnitude and (b) direction
+of the net electric field at point P due to
+the particles?
+•••16 Figure 22-43 shows a plastic ring of
+radius R ! 50.0 cm. Two small charged
+beads are on the ring: Bead 1 of charge
+#2.00 mC is fixed in place at the left side;
+bead 2 of charge #6.00 mC can be
+moved along the ring. The two
+beads produce a net electric field of
+magnitude E at the center of the
+ring. At what (a) positive and (b)
+negative value of angle u should
+bead 2 be positioned such that E !
+2.00 $ 105 N/C?
+•••17 Two charged beads are on
+the plastic ring in Fig. 22-44a. Bead
+2, which is not shown, is fixed in
+place on the ring, which has radius
+R ! 60.0 cm. Bead 1, which is not fixed in place, is initially on the x
+axis at angle u ! 0". It is then moved to the opposite side, at angle
+u ! 180", through the first and second quadrants of the xy
+coordinate system. Figure 22-44b gives the x component of the net
+electric field produced at the origin by the two beads as a function
+of u, and Fig. 22-44c gives the y component of that net electric field.
+The vertical axis scales are set by Exs ! 5.0 $ 104 N/C and Eys !
+%9.0 $ 104 N/C. (a) At what angle u is bead 2 located? What are
+the charges of (b) bead 1 and (c) bead 2?
+••20 Equations 22-8 and 22-9 are approximations of the magnitude
+of the electric field of an electric dipole, at points along the dipole
+axis. Consider a point P on that axis at distance z ! 5.00d from the dipole
+center (d is the separation distance between the particles of the
+dipole). Let Eappr be the magnitude of the field at point P as approximated
+by Eqs. 22-8 and 22-9. Let Eact be the actual magnitude.What is
+the ratio Eappr/Eact?
+•••21 Electric quadrupole. Figure
+22-46 shows a generic electric
+quadrupole. It consists of two dipoles
+with dipole moments that are equal in
+magnitude but opposite in direction.
+Show that the value of E on the axis
+of the quadrupole for a point P a distance
+z from its center (assume z
+d) is given by
+in which Q (!2qd2) is known as the quadrupole moment of the
+charge distribution.
+Module 22-4 The Electric Field Due to a Line of Charge
+•22 Density, density, density. (a) A charge %300e is uniformly distributed
+along a circular arc of radius 4.00 cm, which subtends an
+angle of 40".What is the linear charge density along the arc? (b) A
+charge %300e is uniformly distributed over one face of a circular
+disk of radius 2.00 cm.What is the surface charge density over that
+face? (c) A charge %300e is uniformly distributed over the surface
+of a sphere of radius 2.00 cm.What is the surface charge density
+over that surface? (d) A charge %300e is uniformly spread through
+the volume of a sphere of radius 2.00 cm. What is the volume
+charge density in that sphere?
+•23 Figure 22-47 shows two parallel
+nonconducting rings with their
+central axes along a common line.
+Ring 1 has uniform charge q1 and radius
+R; ring 2 has uniform charge q2
+and the same radius R. The rings are
+separated by distance d ! 3.00R.The
+net electric field at point P on the
+common line, at distance R from ring
+1, is zero.What is the ratio q1/q2?
+••24 A thin nonconducting rod with a uniform distribution of
+positive charge Q is bent into a complete circle of radius R
+E !
+3Q
+4p´0z4 ,
+)
+SSM
+a
+a P
+2
+3
+1
+y
+x
+Figure 22-42
+Problem 15.
+Figure 22-43 Problem 16.
+Bead 1
+Bead 2
+y
+R
+x
+Ring
+θ
+Module 22-3 The Electric Field Due to a Dipole
+••18 The electric field of an electric dipole along the dipole axis is
+approximated by Eqs. 22-8 and 22-9. If a binomial expansion is
+made of Eq. 22-7, what is the next term in the expression for the dipole’s
+electric field along the dipole axis? That is, what is Enext in
+the expression
+E !
+1
+2p´0
+qd
+z3 # Enext?
+z
++q –q –q +q
+d
+P –+ – – +
+d
+–p +p
+Figure 22-46 Problem 21.
+Ring 1 Ring 2
+P
+q1 q2
+R
+R
+d
+R
+Figure 22-47 Problem 23.
+PROBLEMS 655
+rod and the component perpendicular to the rod.)
+Module 22-5 The Electric Field Due to a Charged Disk
+•34 A disk of radius 2.5 cm has a surface charge density of
+5.3 mC/m2 on its upper face.What is the magnitude of the electric
+field produced by the disk at a point on its central axis at distance z !
+12 cm from the disk?
+•35 At what distance along the central perpendicular
+axis of a uniformly charged plastic disk of radius 0.600 m is the
+magnitude of the electric field equal to one-half the magnitude of
+the field at the center of the surface of the disk?
+••36 A circular plastic disk with radius R ! 2.00 cm has a uniformly
+distributed charge Q!#(2.00 $ 106)e on one face. A circular
+ring of width 30 mm is centered on that face, with the center
+of that width at radius r ! 0.50 cm. In coulombs, what charge is
+contained within the width of the ring?
+SSM WWW
+(Fig. 22-48). The central perpendicular
+axis through the ring is a z axis,
+with the origin at the center of the
+ring. What is the magnitude of the
+electric field due to the rod at (a) z !
+0 and (b) z !&? (c) In terms of R, at
+what positive value of z is that magnitude
+maximum? (d) If R ! 2.00 cm
+and Q ! 4.00 mC, what is the maximum
+magnitude?
+••25 Figure 22-49 shows three circular
+arcs centered on the origin of a coordinate
+system. On each arc, the uniformly
+distributed charge is given in
+terms of Q!2.00 mC. The radii
+are given in terms of R!10.0 cm.
+What are the (a) magnitude and (b) direction
+(relative to the positive x direction)
+of the net electric field at the ori-
+••30 Figure 22-53 shows two
+concentric rings, of radii R and
+R, !3.00R, that lie on the same
+plane. Point P lies on the central z
+axis, at distance D ! 2.00R from the
+center of the rings. The smaller ring
+has uniformly distributed charge
+#Q. In terms of Q, what is the uniformly
+distributed charge on the
+larger ring if the net electric field at
+P is zero?
+••31 SSM ILW WWW In Fig. 22-54,
+Figure 22-49 Problem 25.
++9Q
+–4Q
++Q
+3R
+2R
+R
+y
+x
+P r
++q
+–q
+y
+x
+Figure 22-50
+Problem 26.
+Figure 22-48 Problem 24.
+z
+R
+rods, one of charge #q and the other of
+charge %q, form a circle of radius R !
+8.50 cm in an xy plane. The x axis passes
+through both of the connecting points,
+and the charge is distributed uniformly on
+both rods. If q ! 15.0 pC, what are the
+(a) magnitude and (b) direction (relative
+to the positive direction of the x axis) of
+the electric field E produced at P, the : Figure 22-51
+Problem 27.
+P x
+y
++q
+–q
+center of the circle?
+••28 Charge is uniformly distributed around a ring of radius
+R ! 2.40 cm, and the resulting electric field magnitude E is
+measured along the ring’s central axis (perpendicular to the
+plane of the ring). At what distance from the ring’s center is
+E maximum?
+Figure 22-52 Problem 29.
+P P
++Q
++Q
+R
+(a) (b)
+R
+Figure 22-53 Problem 30.
+z
+D
+R'
+P
+R
+Figure 22-54 Problem 31.
+x – – – –
+–q P
+L a
+a nonconducting rod of length L !
+8.15 cm has a charge %q!%4.23 fC
+uniformly distributed along its length.
+(a) What is the linear charge density
+of the rod? What are the (b) magnitude
+and (c) direction (relative to
+the positive direction of the x axis)
+of the electric field produced at
+point P, at distance a ! 12.0 cm from the rod? What is the electric
+field magnitude produced at distance a !50 m by (d) the rod and
+(e) a particle of charge %q!%4.23 fC that we use to replace the
++ + + + + + + + +
+L
+R
+P
+y
+x
+Figure 22-55 Problem 32.
+rod? (At that distance, the rod
+“looks” like a particle.)
++ + + +
+R
+P
+Figure 22-56 Problem 33.
+•••32 In Fig. 22-55, positive
+charge q ! 7.81 pC is spread uniformly
+along a thin nonconducting
+rod of length L ! 14.5 cm.What are
+the (a) magnitude and (b) direction
+(relative to the positive direction of
+the x axis) of the electric field produced
+at point P, at distance R !
+6.00 cm from the rod along its perpendicular
+bisector?
+•••33 In Fig. 22-56, a “semiinfinite”
+nonconducting rod (that is,
+infinite in one direction only) has
+uniform linear charge density l.
+Show that the electric field E at point :
+p
+P makes an angle of 45" with the rod
+and that this result is independent of
+the distance R. (Hint: Separately find
+the component of E parallel to the :
+p
+gin due to the arcs?
+••26 ILW In Fig. 22-50, a thin glass rod
+forms a semicircle of radius r ! 5.00 cm.
+Charge is uniformly distributed along the rod,
+with #q ! 4.50 pC in the upper half and %q
+!%4.50 pC in the lower half.What are the (a)
+magnitude and (b) direction (relative to the
+positive direction of the x axis) of the electric
+field at P, the center of the semicircle?
+••27 In Fig. 22-51, two curved plastic
+E:
+••29 Figure 22-52a shows a nonconducting rod with a uniformly
+distributed charge Q.The rod forms a half-circle with radius R and
+produces an electric field of magnitude Earc at its center of curvature
+P. If the arc is collapsed to a point at distance R from P (Fig. 22-52b),
+by what factor is the magnitude of the electric field at P multiplied?
+#
+tric field of magnitude 1.00 $ 103 N/C, traveling along a field line
+in the direction that retards its motion. (a) How far will the electron
+travel in the field before stopping momentarily, and (b) how
+much time will have elapsed? (c) If the region containing the electric
+field is 8.00 mm long (too short for the electron to stop within
+it), what fraction of the electron’s initial kinetic energy will be lost
+in that region?
+•41 SSM A charged cloud system produces an electric field in the
+656 CHAPTER 22 ELECTRIC FIELDS
+an electric field. Determine the field (a) magnitude and (b) direction.
+•47 Beams of high-speed protons can be produced in
+“guns” using electric fields to accelerate the protons. (a) What
+acceleration would a proton experience if the gun’s electric field
+were 2.00 $ 104 N/C? (b) What speed
+would the proton attain if the field accelerated
+the proton through a distance
+of 1.00 cm?
+••48 In Fig. 22-59, an electron (e) is to
+be released from rest on the central axis
+of a uniformly charged disk of radius R.
+The surface charge density on the disk is
+#4.00 mC/m2. What is the magnitude of
+the electron’s initial acceleration if it is
+released at a distance (a) R, (b) R/100,
+and (c) R/1000 from the center of the disk? (d) Why does the acceleration
+magnitude increase only slightly as the release point is
+moved closer to the disk?
+••49 A 10.0 g block with a charge of #8.00 $ 10%5 C is placed in
+an electric field What are the (a) magnitude
+and (b) direction (relative to the positive direction of the x
+axis) of the electrostatic force on the block? If the block is released
+from rest at the origin at time t ! 0, what are its (c) x and (d) y coordinates
+at t ! 3.00 s?
+••50 At some instant the velocity components of an electron
+moving between two charged parallel plates are vx ! 1.5 $ 105 m/s
+and vy ! 3.0 $ 103 m/s. Suppose the electric field between the
+plates is uniform and given by . In unit-vector notation,
+what are (a) the electron’s acceleration in that field and (b) the
+electron’s velocity when its x coordinate has changed by 2.0 cm?
+••51 Assume that a honeybee is a sphere of diameter 1.000
+cm with a charge of 45.0 pC uniformly spread over its surface.
+Assume also that a spherical pollen grain of diameter 40.0 mm is
+electrically held on the surface of the bee because the bee’s charge
+induces a charge of %1.00 pC on the near side of the grain and a
+charge of #1.00 pC on the far side. (a) What is the magnitude of
+the net electrostatic force on the grain due to the bee? Next, assume
+that the bee brings the grain to a distance of 1.000 mm from
+the tip of a flower’s stigma and that the tip is a particle of charge
+%45.0 pC. (b) What is the magnitude of the net electrostatic force
+on the grain due to the stigma? (c) Does the grain remain on the
+bee or does it move to the stigma?
+••52 An electron enters a region of uniform electric field with an
+initial velocity of 40 km/s in the same direction as the electric field,
+which has magnitude E ! 50 N/C. (a) What is the speed of the
+electron 1.5 ns after entering this region? (b) How far does the
+electron travel during the 1.5 ns interval?
+#
+E:! (120 N/C)jˆ
+E:! (3000iˆ % 600jˆ ) N/C.
+SSM
+Module 22-6 A Point Charge in an Electric Field
+•39 In Millikan’s experiment, an oil drop of radius 1.64 mm and
+density 0.851 g/cm3 is suspended in chamber C (Fig. 22-16) when a
+downward electric field of 1.92 $ 105 N/C is applied. Find the
+charge on the drop, in terms of e.
+•40 An electron with a speed of 5.00 $ 108 cm/s enters an elec-
+••37 Suppose you design an apparatus
+in which a uniformly charged
+disk of radius R is to produce an
+electric field.The field magnitude is
+most important along the central
+perpendicular axis of the disk, at a
+point P at distance 2.00R from the
+disk (Fig. 22-57a). Cost analysis suggests
+that you switch to a ring of the
+same outer radius R but with inner
+radius R/2.00 (Fig. 22-57b).Assume
+that the ring will have the same surface
+charge density as the original disk. If you switch to the ring, by
+what percentage will you decrease the electric field magnitude at P?
+••38 Figure 22-58a shows a circular disk that is uniformly
+charged. The central z axis is perpendicular to the disk face, with
+the origin at the disk. Figure 22-58b gives the magnitude of the
+electric field along that axis in terms of the maximum magnitude
+Em at the disk surface.The z axis scale is set by zs ! 8.0 cm.What is
+the radius of the disk?
+•44 An alpha particle (the nucleus of a helium atom) has a mass
+of 6.64 $ 10%27 kg and a charge of #2e.What are the (a)magnitude
+and (b) direction of the electric field that will balance the gravitational
+force on the particle?
+•45 An electron on the axis of an electric dipole is 25 nm from
+the center of the dipole.What is the magnitude of the electrostatic
+force on the electron if the dipole moment is 3.6 $ 10%29 C(m?
+Assume that 25 nm is much larger than the separation of the charged
+particles that form the dipole.
+•46 An electron is accelerated eastward at 1.80 $ 109 m/s2 by
+ILW
+P
+z
+(a)
+P
+z
+(b)
+Figure 22-57 Problem 37.
+z
+(a) (b)
+Em
+0.5Em
+0
+z (cm)
+zs
+Figure 22-58 Problem 38.
+Figure 22-59
+Problem 48.
+e
+air near Earth’s surface. A particle of charge %2.0 $ 10%9 C is
+acted on by a downward electrostatic force of 3.0 $ 10%6 N when
+placed in this field. (a) What is the magnitude of the electric field?
+What are the (b) magnitude and (c) direction of the electrostatic
+force on the proton placed in this field? (d)What is the magnitude
+of the gravitational force on the proton? (e) What is the ratio
+Fel /Fg in this case?
+•42 Humid air breaks down (its molecules become ionized) in an
+electric field of 3.0 $ 106 N/C. In that field, what is the magnitude
+of the electrostatic force on (a) an electron and (b) an ion with a
+single electron missing?
+•43 SSM An electron is released from rest in a uniform electric
+F:
+g
+F:
+el
+field of magnitude 2.00 $ 104 N/C. Calculate the acceleration of
+the electron. (Ignore gravitation.)
+PROBLEMS 657
+••53 Two large parallel copper
+plates are 5.0 cm apart and have a
+uniform electric field between them
+as depicted in Fig. 22-60. An electron
+is released from the negative
+plate at the same time that a proton
+••61 Find an expression for the oscillation frequency of an electric
+dipole of dipole moment and rotational inertia I for small
+amplitudes of oscillation about its equilibrium position in a uniform
+electric field of magnitude E.
+Additional Problems
+62 (a) What is the magnitude of an electron’s acceleration in a uniform
+electric field of magnitude 1.40 $ 106 N/C? (b) How long would
+the electron take, starting from rest, to attain one-tenth the speed of
+light? (c) How far would it travel in that time?
+63 A spherical water drop 1.20 mm in diameter is suspended in calm
+air due to a downward-directed atmospheric electric field of magnitude
+E ! 462 N/C. (a) What is the magnitude of the gravitational
+force on the drop? (b) How many excess electrons does it have?
+64 Three particles, each with positive charge Q, form an equilateral
+triangle, with each side of length d.What is the magnitude of the
+electric field produced by the particles at the midpoint of any side?
+65 In Fig. 22-64a, a particle of charge #Qproduces an electric field
+of magnitude Epart at point P, at distance R from the particle. In
+Fig. 22-64b, that same amount of charge is spread uniformly along
+a circular arc that has radius
+R and subtends an angle u.
+The charge on the arc produces
+an electric field
+of magnitude Earc at its center
+of curvature P. For what
+value of u does Earc !
+0.500Epart? (Hint: You will
+probably resort to a graphical
+solution.)
+66 A proton and an electron form two corners of an equilateral
+triangle of side length 2.0 $ 10%6 m.What is the magnitude of the
+net electric field these two particles produce at the third corner?
+67 A charge (uniform linear density ! 9.0 nC/m) lies on a string
+that is stretched along an x axis from x ! 0 to x ! 3.0 m. Determine
+the magnitude of the electric field at x ! 4.0 m on the x axis.
+68 In Fig. 22-65, eight particles form a square in which distance
+d ! 2.0 cm. The charges are q1!#3e,
+q2!#e, q3!%5e, q4!%2e, q5!#3e,
+q6!#e, q7!%5e, and q8!#e. In unitvector
+notation, what is the net electric
+field at the square’s center?
+69 Two particles, each with a charge
+of magnitude 12 nC, are at two of the
+vertices of an equilateral triangle with
+edge length 2.0 m. What is the magnitude
+of the electric field at the third
+vertex if (a) both charges are positive
+and (b) one charge is positive and the
+other is negative?
+70 The following table gives the charge seen by Millikan at different
+times on a single drop in his experiment. From the data,
+calculate the elementary charge e.
+6.563 $ 10%19 C 13.13 $ 10%19 C 19.71 $ 10%19 C
+8.204 $ 10%19 C 16.48 $ 10%19 C 22.89 $ 10%19 C
+11.50 $ 10%19 C 18.08 $ 10%19 C 26.13 $ 10%19 C
+p:
+is released from the positive plate.
+Neglect the force of the particles on
+each other and find their distance
+from the positive plate when they
+pass each other. (Does it surprise you that you need not know the
+electric field to solve this problem?)
+••54 In Fig. 22-61, an electron is
+shot at an initial speed of
+v0 ! 2.00 $ 106 m/s, at angle u0 !
+40.0" from an x axis. It moves
+through a uniform electric field
+. A screen for detecting
+electrons is positioned parallel
+to the y axis, at distance x ! 3.00 m. In unit-vector notation,
+what is the velocity of the electron when it hits the screen?
+••55 A uniform electric field exists in a region between two
+oppositely charged plates. An electron is released from rest at the
+surface of the negatively charged plate and strikes the surface of
+ILW
+E:! (5.00 N/C)jˆ
+the opposite plate, 2.0 cm away, in a time 1.5 $ 10%8 s. (a) What is
+Detecting
+screen
+y
+x
+θ 0
+E
+v0
+Figure 22-61 Problem 54.
+Figure 22-60 Problem 53.
+Positive
+plate
+Negative
+p plate
+e
+E
+U (10–28 J)
+Us
+0
+–Us
+θ
+Figure 22-62 Problem 58.
+! (10–28 N • m)
+!
+0 θ
+s
+Figure 22-63 Problem 60.
++Q P +Q
+R
+(a) (b)
+P
+R
+θ /2
+θ /2
+Figure 22-64 Problem 65.
+d d
+d
+d
+d
+d
+d
+d
+q8 q4
+q7 q6 q5
+q1 q2 q3
+y
+x
+Figure 22-65
+Problem 68.
+the speed of the electron as it strikes the second plate? (b) What is
+the magnitude of the electric field ?
+Module 22-7 A Dipole in an Electric Field
+•56 An electric dipole consists of charges #2e and %2e separated
+by 0.78 nm. It is in an electric field of strength 3.4 $ 106 N/C.
+Calculate the magnitude of the torque on the dipole when the dipole
+moment is (a) parallel to, (b) perpendicular to, and (c) antiparallel
+to the electric field.
+•57 An electric dipole consisting of charges of magnitude
+1.50 nC separated by 6.20 mm is in an electric field of strength 1100
+N/C.What are (a) the magnitude of the electric dipole moment and
+(b) the difference between the potential energies for dipole orientations
+parallel and antiparallel to E? :
+SSM
+E:
+••58 A certain electric dipole is
+placed in a uniform electric field of
+magnitude 20 N/C. Figure 22-62 gives
+the potential energy U of the dipole
+versus the angle between and the
+dipole moment . The vertical axis
+scale is set by Us 100 10%28 J.What
+is the magnitude of ?
+••59 How much work is required to
+p:
+! $
+p:
+E: u
+E:
+turn an electric dipole 180" in a uniform electric field of magnitude
+E ! 46.0 N/C if the dipole moment has a magnitude of p ! 3.02 $
+10%25 C(m and the initial angle is 64"?
+••60 A certain electric dipole is placed
+in a uniform electric field of magnitude
+40 N/C. Figure 22-63 gives the magnitude
+t of the torque on the dipole versus the
+angle u between field and the dipole
+moment .The vertical axis scale is set by
+What is the magnitude
+of p: ?
+ts ! 100 $ 10%28 N(m.
+p:
+E:
+E:
+658 CHAPTER 22 ELECTRIC FIELDS
+1
+d d2
+d2
+d
+A B 2 C
++ – x
+Figure 22-69 Problem 87.
+71 A charge of 20 nC is uniformly distributed along a straight
+rod of length 4.0 m that is bent into a circular arc with a radius of
+2.0 m.What is the magnitude of the electric field at the center of
+curvature of the arc?
+72 An electron is constrained to the central axis of the ring of
+charge of radius R in Fig. 22-11, with z ! R. Show that the electrostatic
+force on the electron can cause it to oscillate through the ring
+center with an angular frequency
+,
+where q is the ring’s charge and m is the electron’s mass.
+73 SSM The electric field in an xy plane produced by a posiv
+" A
+eq
+4p´0mR3
+what time does the hour hand point in the same direction as the
+electric field vector at the center of the dial? (Hint: Use symmetry.)
+80 Calculate the electric dipole moment of an electron and a
+proton 4.30 nm apart.
+81 An electric field with an average magnitude of about 150 N/C
+points downward in the atmosphere near Earth’s surface.We wish
+to “float” a sulfur sphere weighing 4.4 N in this field by charging
+the sphere. (a) What charge (both sign and magnitude) must be
+used? (b) Why is the experiment impractical?
+82 A circular rod has a radius of curvature R " 9.00 cm and a
+uniformly distributed positive charge Q " 6.25 pC and subtends
+an angle u " 2.40 rad.What is the magnitude of the electric field
+that Q produces at the center of curvature?
+83 An electric dipole with dipole moment
+is in an electric field (a) What is the potential
+energy of the electric dipole? (b) What is the torque acting on it?
+(c) If an external agent turns the dipole until its electric dipole
+moment is
+how much work is done by the
+agent?
+84 In Fig. 22-68, a uniform, upward
+electric field of magnitude 2.00 #
+103 N/C has been set up between two
+horizontal plates by charging the
+lower plate positively and the upper
+plate negatively. The plates have
+length L " 10.0 cm and separation d
+" 2.00 cm. An electron is then shot
+between the plates from the left edge of the lower plate.The initial
+velocity :v of the electron makes an angle u " 45.0$ with the lower
+0
+E:
+p: " (%4.00iˆ & 3.00jˆ )(1.24 # 10%30 C'm),
+E: " (4000 N/C)iˆ .
+p: " (3.00iˆ & 4.00jˆ )(1.24 # 10%30 C'm)
+SSM
+E:
+tively charged particle is at the point
+(3.0, 3.0) cm and at the point (2.0, 0) cm.What are the (a)
+x and (b) y coordinates of the particle? (c) What is the charge of
+the particle?
+74 (a) What total (excess) charge q must the disk in Fig. 22-15
+have for the electric field on the surface of the disk at its center to
+have magnitude 3.0 # 106 N/C, the E value at which air breaks
+down electrically, producing sparks? Take the disk radius as 2.5 cm.
+(b) Suppose each surface atom has an effective cross-sectional
+area of 0.015 nm2. How many atoms are needed to make up the
+disk surface? (c) The charge calculated in (a) results from some of
+the surface atoms having one excess electron. What fraction of
+these atoms must be so charged?
+75 In Fig. 22-66, particle 1 (of
+charge &1.00 mC), particle 2 (of
+charge &1.00 mC), and particle 3
+(of charge Q) form an equilateral
+triangle of edge length a. For what
+value of Q (both sign and magnitude)
+does the net electric field produced
+by the particles at the center
+of the triangle vanish?
+76 In Fig. 22-67, an electric dipole swings
+from an initial orientation i (ui " 20.0$) to a
+final orientation f (uf " 20.0$) in a uniform
+external electric field . The electric dipole
+moment is 1.60 # 10%27 C'm; the field magnitude
+is 3.00 # 106 N/C. What is the change in
+the dipole’s potential energy?
+77 A particle of charge %q1 is at the origin of
+an x axis. (a) At what location on the axis should
+a particle of charge %4q1 be placed so that the
+net electric field is zero at x " 2.0 mm on the
+axis? (b) If, instead, a particle of charge &4q1 is
+placed at that location, what is the direction (relative to the positive
+direction of the x axis) of the net electric field at x " 2.0 mm?
+
+For the data of Problem 70, assume that the charge q on the
+drop is given by q " ne, where n is an integer and e is the elementary
+charge. (a) Find n for each given value of q. (b) Do a linear regression
+fit of the values of q versus the values of n and then use
+that fit to find e.
+86 In Fig. 22-66, particle 1 (of charge &2.00 pC), particle 2 (of
+charge %2.00 pC), and particle 3 (of charge &5.00 pC) form an
+equilateral triangle of edge length a " 9.50 cm. (a) Relative to
+the positive direction of the x axis, determine the direction of
+the force on particle 3 due to the other particles by sketching
+electric field lines of the other particles. (b) Calculate the magnitude
+of .
+87 In Fig. 22-69, particle 1 of charge q1 " 1.00 pC and particle 2
+of charge q2"%2.00 pC are fixed at a distance d " 5.00 cm apart.
+In unit-vector notation, what is the net electric field at points (a) A,
+(b) B, and (c) C? (d) Sketch the electric field lines.
+
+
+Gauss’ Law Gauss’ law and Coulomb’s law are different ways
+of describing the relation between charge and electric field in static
+situations. Gauss’ law is
+´0&$qenc (Gauss’ law), (23-6)
+in which qenc is the net charge inside an imaginary closed surface (a
+Gaussian surface) and & is the net flux of the electric field through
+the surface:
+(23-4)
+Coulomb’s law can be derived from Gauss’ law.
+Applications of Gauss’ Law Using Gauss’ law and, in some
+cases, symmetry arguments, we can derive several important
+results in electrostatic situations.Among these are:
+1. An excess charge on an isolated conductor is located entirely on
+the outer surface of the conductor.
+2. The external electric field near the surface of a charged conductor
+is perpendicular to the surface and has a magnitude that depends
+on the surface charge density s:
+(conducting surface). (23-11)
+Within the conductor,E $ 0.
+3. The electric field at any point due to an infinite line of charge
+E $
+s
+´0
+(electric flux through a
+& $ Gaussian surface). , E:
+" dA:
+Review & Summary
+with uniform linear charge density l is perpendicular to the line
+of charge and has magnitude
+(line of charge), (23-12)
+where r is the perpendicular distance from the line of charge to
+the point.
+4. The electric field due to an infinite nonconducting sheet with
+uniform surface charge density s is perpendicular to the plane
+of the sheet and has magnitude
+(sheet of charge). (23-13)
+5. The electric field outside a spherical shell of charge with radius R
+and total charge q is directed radially and has magnitude
+(spherical shell, for r - R). (23-15)
+Here r is the distance from the center of the shell to the point at
+which E is measured. (The charge behaves, for external points, as if
+it were all located at the center of the sphere.) The field inside a
+uniform spherical shell of charge is exactly zero:
+E $ 0 (spherical shell, for r , R). (23-16)
+6. The electric field inside a uniform sphere of charge is directed
+radially and has magnitude
+E $ # (23-20) q
+4p´0R3 $r.
+E $
+1
+4p´0
+q
+r2
+E $
+s
+2´0
+E $
+l
+2p´0r
+tude of the net electric
+
+
+The square surface shown
+in Fig. 23-30 measures 3.2 mm on
+each side. It is immersed in a uniform
+electric field with magnitude
+E $ 1800 N/C and with field lines at
+an angle of u $ 35° with a normal to
+the surface, as shown. Take that
+normal to be directed “outward,” as
+though the surface were one face of
+a box. Calculate the electric flux
+through the surface.
+••2 An electric field given by
+pierces a
+Gaussian cube of edge length 2.0 m
+and positioned as shown in Fig. 23-7.
+(The magnitude E is in newtons per
+coulomb and the position x is in meters.)
+What is the electric flux through
+the (a) top face, (b) bottom face, (c) left
+face, and (d) back face? (e) What is the
+net electric flux through the cube?
+••3 The cube in Fig. 23-31 has edge
+length 1.40 m and is oriented as shown
+in a region of uniform electric field.Find
+the electric flux through the right face if
+the electric field, in newtons per coulomb, is given by (a) (b)
+and (c) (d) What is the total flux through the
+cube for each field?
+Module 23-2 Gauss’ Law
+•4 In Fig. 23-32, a butterfly net is
+in a uniform electric field of magnitude
+E $ 3.0 mN/C. The rim, a circle
+of radius a $ 11 cm, is aligned
+perpendicular to the field. The net
+contains no net charge. Find the
+electric flux through the netting.
+•5 In Fig. 23-33, a proton is a distance
+d/2 directly above the center of a square of side d.What is the
+magnitude of the electric flux through the square? (Hint:Think of the
+square as one face of a cube with edge d.)
+'2.00jˆ, '3.00iˆ " 4.00kˆ .
+6.00iˆ,
+E: $ 4.0iˆ ' 3.0(y2 " 2.0)jˆ
+SSM
+Tutoring problem available (at instructor’s discretion) in WileyPLUS and WebAssign
+SSM Worked-out solution available in Student Solutions Manual
+• – ••• Number of dots indicates level of problem difficulty
+Additional information available in The Flying Circus of Physics and at flyingcircusofphysics.com
+WWW Worked-out solution is at
+ILW Interactive solution is at
+http://www.wiley.com/college/halliday
+Problems
+Normal
+θ
+Figure 23-30 Problem 1.
+z
+y
+x
+Figure 23-31 Problems 3,
+6, and 9.
+a
+Figure 23-32 Problem 4.
+d/2
+d
+d
++
+Figure 23-33 Problem 5.
+x
+y
+z
+Figure 23-34
+Problem 10.
+Figure 23-35 Problem 11.
+x
+y
+z
+x1
+y1
+••12 Figure 23-36 shows two nonconducting
+spherical shells fixed in
+place. Shell 1 has uniform surface
+charge density "6.0 mC/m2 on its
+outer surface and radius 3.0 cm;
+shell 2 has uniform surface charge
+density "4.0 mC/m2 on its outer
+surface and radius 2.0 cm; the shell
+centers are separated by L $ 10 cm.
+In unit-vector notation, what is the
+net electric field at x $ 2.0 cm?
+Shell
+1 Shell
+2
+y
+x
+L
+Figure 23-36 Problem 12.
+•6 At each point on the surface of the cube shown in Fig. 23-31,
+the electric field is parallel to the z axis. The length of each edge
+of the cube is 3.0 m. On the top face of the cube the field is
+680 CHAPTER 23 GAUSS’ LAW
+y
+x
+z
+z1
+z2
+z1
+z2
+x2
+y2
+Figure 23-38 Problem 16. x1 x2
+A
+B
+Φ (105 N • m2/C)
+(a) (b)
+–
+0
+Φ
+r
+s
+Φ s
+–2Φ s
+Figure 23-39 Problem 20.
+Es
+0
+–Es
+E (103 N/C)
+1 2 3
+r (cm)
+4 5 6
+(a)
+(b)
+Figure 23-41 Problem 26.
+••13 The electric field in a certain region of Earth’s atmosphere
+is directed vertically down.At an altitude of 300 m the field
+has magnitude 60.0 N/C; at an altitude of 200 m, the magnitude is
+100 N/C. Find the net amount of charge contained in a cube 100 m
+on edge, with horizontal faces at altitudes of 200 and 300 m.
+••14 Flux and nonconducting shells. A charged particle is suspended
+at the center of two concentric spherical shells that are
+very thin and made of nonconducting material. Figure 23-37a
+shows a cross section. Figure 23-37b gives the net flux & through a
+Gaussian sphere centered on the particle, as a function of the radius
+r of the sphere. The scale of the vertical axis is set by &s$
+5.0(105 N?m2/C. (a) What is the charge of the central particle?
+What are the net charges of (b) shell A and (c) shell B?
+SSM
+••15 A particle of charge "q is placed at one corner of a Gaussian
+cube.What multiple of q/´0 gives the flux through (a) each cube face
+forming that corner and (b) each of the other cube faces?
+•••16 The box-like Gaussian surface shown in Fig. 23-38 encloses
+a net charge of 24.0´0 C and lies in an electric field given
+by with x and z in meters
+and b a constant.The bottom face is in the xz plane; the top face
+is in the horizontal plane passing through y2 $ 1.00 m. For x1 $
+1.00 m, x2 $ 4.00 m, z1 $ 1.00 m, and z2$ 3.00 m, what is b?
+E: $ [(10.0 " 2.00x)iˆ ' 3.00jˆ " bzkˆ ] N/C,
+"
+•20 Flux and conducting shells. A charged particle is held at the
+center of two concentric conducting spherical shells. Figure 23-39a
+shows a cross section. Figure 23-39b gives the net flux & through a
+Gaussian sphere centered on the particle, as a function of the radius r
+of the sphere. The scale of the vertical axis is set by &s$5.0(
+105 N?m2/C.What are (a) the charge of the central particle and the
+net charges of (b) shell Aand (c) shell B?
+••21 An isolated conductor has net charge "10 ( 10'6 C and a cavity
+with a particle of charge q$"3.0 ( 10'6 C.What is the charge on
+(a) the cavity wall and (b) the outer surface?
+Module 23-4 Applying Gauss’ Law: Cylindrical Symmetry
+•22 An electron is released 9.0 cm from a very long nonconducting
+rod with a uniform 6.0 mC/m. What is the magnitude of the
+electron’s initial acceleration?
+•23 (a) The drum of a photocopying machine has a length of 42 cm
+and a diameter of 12 cm.The electric field just above the drum’s surface
+is 2.3 ( 105 N/C.What is the total charge on the drum? (b) The
+manufacturer wishes to produce a desktop version of the machine.
+This requires reducing the drum length to 28 cm and the diameter to
+8.0 cm.The electric field at the drum surface must not change.What
+must be the charge on this new drum?
+Figure 23-37 Problem 14.
+Φs
+–Φs
+0
+Φ(105 N • m2/C)
+r
+A
+B
+(a) (b)
+••26 Figure 23-41a shows a narrow charged solid cylinder that is
+coaxial with a larger charged cylindrical shell. Both are noncon-
+Module 23-3 A Charged Isolated Conductor
+•17 A uniformly charged conducting sphere of 1.2 m diameter
+has surface charge density 8.1 mC/m2. Find (a) the net charge
+on the sphere and (b) the total electric flux leaving the surface.
+•18 The electric field just above the surface of the charged conducting
+drum of a photocopying machine has a magnitude E of
+2.3 ( 105 N/C.What is the surface charge density on the drum?
+•19 Space vehicles traveling through Earth’s radiation belts can
+intercept a significant number of electrons. The resulting charge
+buildup can damage electronic components and disrupt operations.
+Suppose a spherical metal satellite 1.3 m in diameter accumulates
+2.4 mC of charge in one orbital revolution. (a) Find the resulting surface
+charge density. (b) Calculate the magnitude of the electric field
+just outside the surface of the satellite, due to the surface charge.
+SSM
+R
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++ +
++ +
++
++
+Figure 23-40 Problem 24.
+•24 Figure 23-40 shows a section of a
+long, thin-walled metal tube of radius
+R $ 3.00 cm, with a charge per unit
+length of l $ 2.00 ( 10'8 C/m. What
+is the magnitude E of the electric field
+at radial distance (a) r $ R/2.00 and
+(b) r $ 2.00R? (c) Graph E versus r
+for the range r $ 0 to 2.00R.
+•25 SSM An infinite line of charge
+produces a field of magnitude 4.5 (
+104 N/C at distance 2.0 m. Find the
+linear charge density.
+PROBLEMS 681
+•35 Figure 23-46a shows three plastic sheets that are large, parallel,
+and uniformly charged. Figure 23-46b gives the component of the
+net electric field along an x axis through the sheets. The scale of the
+vertical axis is set by Es$6.0(105 N/C.What is the ratio of the charge
+density on sheet 3 to that on sheet 2?
+ducting and thin and have uniform surface charge densities on
+their outer surfaces. Figure 23-41b gives the radial component E of
+the electric field versus radial distance r from the common axis,
+and Es$3.0(103 N/C.What is the shell’s linear charge density?
+••27 A long, straight wire has fixed negative charge with a linear
+charge density of magnitude 3.6 nC/m. The wire is to be enclosed
+by a coaxial, thin-walled nonconducting cylindrical shell of
+radius 1.5 cm.The shell is to have positive charge on its outside surface
+with a surface charge density s that makes the net external
+electric field zero. Calculate s.
+••28 A charge of uniform linear density 2.0 nC/m is distributed
+along a long, thin, nonconducting rod.The rod is coaxial with a long
+conducting cylindrical shell (inner radius $ 5.0 cm, outer radius $
+10 cm). The net charge on the shell is zero. (a) What is the magnitude
+of the electric field 15 cm from the axis of the shell? What is
+the surface charge density on the (b) inner and (c) outer surface of
+the shell?
+••29 SSM WWW Figure 23-42 is
+the plates have excess surface charge densities of opposite signs and
+magnitude 7.00 ( 10'22 C/m2. In unit-vector notation, what is the
+electric field at points (a) to the left of the plates, (b) to the right of
+them, and (c) between them?
+•34 In Fig. 23-45, a small circular hole of radius R $ 1.80 cm has
+been cut in the middle of an infinite, flat, nonconducting surface
+that has uniform charge density s $ 4.50 pC/m2. A z axis, with its
+origin at the hole’s center, is perpendicular to the surface. In unitvector
+notation, what is the electric field at point P at z $ 2.56 cm?
+(Hint: See Eq. 22-26 and use superposition.)
+•36 Figure 23-47 shows cross sections
+through two large, parallel, nonconducting
+sheets with identical distributions
+of positive charge with surface
+charge density s $ 1.77 ( 10'22 C/m2.
+In unit-vector notation, what is at
+points (a) above the sheets, (b) between
+them, and (c) below them?
+•37 SSM WWW A square metal plate of edge length 8.0 cm and
+E:
+a section of a conducting rod of radius
+R1 $ 1.30 mm and length L $
+11.00 m inside a thin-walled coaxial
+conducting cylindrical shell of
+radius R2 $ 10.0R1 and the (same)
+length L.The net charge on the rod
+is Q1$"3.40 ( 10'12 C; that on
+the shell is Q2$'2.00Q1. What
+are the (a) magnitude E and (b) direction
+(radially inward or outward)
+of the electric field at radial
+R1
+R2
+Q1
+Q2
+Figure 23-42 Problem 29.
+distance r $ 2.00R2? What are (c) E and (d) the direction at r $
+5.00R1? What is the charge on the (e) interior and (f) exterior surface
+of the shell?
+••30 In Fig. 23-43, short sections of
+two very long parallel lines of
+charge are shown, fixed in place,
+separated by L $ 8.0 cm. The uniform
+linear charge densities are
+"6.0 mC/m for line 1 and '2.0
+mC/m for line 2.Where along the x
+axis shown is the net electric field
+from the two lines zero?
+••31 Two long, charged,
+thin-walled, concentric cylindrical shells have radii of 3.0 and
+6.0 cm. The charge per unit length is 5.0 ( 10'6 C/m on the inner
+shell and '7.0 ( 10'6 C/m on the outer shell. What are the (a)
+magnitude E and (b) direction (radially inward or outward) of the
+electric field at radial distance r $ 4.0 cm? What are (c) E and
+(d) the direction at r $ 8.0 cm?
+•••32 A long, nonconducting, solid cylinder of radius 4.0 cm has a
+nonuniform volume charge density r that is a function of radial distance
+r from the cylinder axis: r $
+Ar2. For A $ 2.5 mC/m5,what is the
+magnitude of the electric field at
+(a) r $ 3.0 cm and (b) r $ 5.0 cm?
+Module 23-5 Applying Gauss’
+Law: Planar Symmetry
+•33 In Fig. 23-44, two large, thin
+metal plates are parallel and close
+to each other. On their inner faces,
+ILW
+Figure 23-43 Problem 30.
+Line 1 Line 2
+x
+y
+L/2 L/2
+–––––––––
++++++++++
+x
+Figure 23-44 Problem 33.
++ + + + + + + + + +
++ + + + + + + + + +
++ + + + + + + + + +
++ + + + + + + +
++ + + + + + + + + +
++ + + + + + + + + +
++ + + + + + + + + +
+P
+z
+R
+Figure 23-45 Problem 34.
+(a)
+(b)
+x
+x
+Es
+0
+E (105 N/C)
+1 2 3
+Figure 23-46 Problem 35.
++++++++++++
++++++++++++
+y
+x
+Figure 23-47
+Problem 36.
+negligible thickness has a total charge of 6.0 ( 10'6 C. (a) Estimate
+the magnitude E of the electric field just off the center of the plate (at,
+say, a distance of 0.50 mm from the center) by assuming that the
+charge is spread uniformly over the two faces of the plate. (b)
+Estimate E at a distance of 30 m (large relative to the plate size) by assuming
+that the plate is a charged particle.
+682 CHAPTER 23 GAUSS’ LAW
+E (107 N/C)
+Es
+0 1 2
+r (cm)
+3 4 5
+Figure 23-53 Problem 48.
+a b
+c
+Figure 23-54 Problem 49.
+••38 In Fig. 23-48a, an electron is shot directly away from a uni- Module 23-6 Applying Gauss’ Law: Spherical Symmetry
+•44 Figure 23-52 gives the magnitude
+of the electric field inside and
+outside a sphere with a positive charge
+distributed uniformly throughout its
+volume.The scale of the vertical axis is
+set by Es$5.0(107 N/C.What is the
+charge on the sphere?
+•45 Two charged concentric spherical
+shells have radii 10.0 cm and 15.0 cm. The charge on the inner
+shell is 4.00 ( 10'8 C, and that on the outer shell is 2.00 ( 10'8 C.
+Find the electric field (a) at r $ 12.0 cm and (b) at r $ 20.0 cm.
+•46 Assume that a ball of charged particles has a uniformly
+distributed negative charge density except for a narrow radial
+tunnel through its center, from the surface on one side to the
+surface on the opposite side. Also assume that we can position a
+proton anywhere along the tunnel or outside the ball. Let FR be
+the magnitude of the electrostatic force on the proton when it is
+located at the ball’s surface, at radius R. As a multiple of R, how
+far from the surface is there a point where the force magnitude is
+0.50FR if we move the proton (a) away from the ball and (b) into
+the tunnel?
+•47 An unknown charge sits on a conducting solid sphere of
+radius 10 cm. If the electric field 15 cm from the center of the
+sphere has the magnitude 3.0 ( 103 N/C and is directed radially inward,
+what is the net charge on the sphere?
+••48 A charged particle is held at the center of a spherical
+shell. Figure 23-53 gives the magnitude E of the electric field versus
+radial distance r. The scale of the vertical axis is set by Es$
+10.0 ( 107 N/C. Approximately, what is the net charge on the
+shell?
+SSM
+Both are fixed in place. If d $ 0.200 m,
+at what (a) positive and (b) negative
+coordinate on the x axis (other than infinity)
+is the net electric field E of :
+net
+3 6
+t (ps)
+9
+12
+vs
+0
+–vs
+v (105 m/s)
++ + + + + + + +
+–e
+(a) (b)
+••49 In Fig. 23-54, a solid sphere of
+radius a $ 2.00 cm is concentric with a
+spherical conducting shell of inner radius
+b $ 2.00a and outer radius c $
+2.40a. The sphere has a net uniform
+charge q1$"5.00 fC; the shell has a
+net charge q2$'q1.What is the magnitude
+of the electric field at radial
+distances (a) r $ 0, (b) r $ a/2.00, (c)
+r $ a, (d) r $ 1.50a, (e) r $ 2.30a, and
+(f) r $ 3.50a? What is the net charge
+on the (g) inner and (h) outer surface
+of the shell?
+Figure 23-48 Problem 38.
+formly charged plastic sheet, at speed vs $ 2.0 ( 105 m/s.The sheet is
+nonconducting, flat, and very large. Figure 23-48b gives the electron’s
+vertical velocity component v versus time t until the return to the
+launch point.What is the sheet’s surface charge density?
+••39 In Fig. 23-49, a small, nonconducting SSM +++++++++++++
+m, q
+θ
+σ
+Figure 23-49
+Problem 39.
+ball of mass m $ 1.0 mg and charge q $ 2.0 (
+10'8 C (distributed uniformly through its volume)
+hangs from an insulating thread that makes
+an angle u $ 30° with a vertical, uniformly
+charged nonconducting sheet (shown in cross section).
+Considering the gravitational force on the
+ball and assuming the sheet extends far vertically
+and into and out of the page, calculate the surface
+charge density s of the sheet.
+••40 Figure 23-50 shows a very large nonconducting
+sheet that has a uniform surface charge density
+of s$'2.00 mC/m2; it also shows a particle of
+charge Q $ 6.00 mC, at distance d from the sheet.
+y
+x
+Q
+σ
+d
+Figure 23-50 Problem 40.
+the sheet and particle zero? (c) If d $
+0.800 m, at what coordinate on the x
+axis is
+••41 An electron is shot directly
+toward the center of a large metal
+E:
+net $ 0?
+plate that has surface charge density '2.0 ( 10'6 C/m2. If the initial
+kinetic energy of the electron is 1.60 ( 10'17 J and if the electron is to
+stop (due to electrostatic repulsion from the plate) just as it reaches
+the plate,how far from the plate must the launch point be?
+••42 Two large metal plates of area 1.0 m2 face each other, 5.0
+cm apart, with equal charge magnitudes but opposite signs.
+The field magnitude E between them (neglect fringing) is 55 N/C.
+Find .
+•••43 Figure 23-51 shows a cross section
+through a very large nonconducting
+slab of thickness d $ 9.40 mm and uniform
+volume charge density r $ 5.80
+fC/m3. The origin of an x axis is at the
+slab’s center. What is the magnitude of
+the slab’s electric field at an x coordinate
+of (a) 0, (b) 2.00 mm, (c) 4.70 mm,
+and (d) 26.0 mm?
+! q !
+! q !
+d/2
+d
+x
+0
+Figure 23-51
+Problem 43.
+E (107 N/C)
+Es
+0 2
+r (cm)
+4
+Figure 23-52 Problem 44.
+PROBLEMS 683
+••50 Figure 23-55 shows two nonconducting
+spherical shells fixed in
+place on an x axis. Shell 1 has uniform
+surface charge density "4.0 mC/m2
+on its outer surface and radius 0.50
+cm, and shell 2 has uniform surface
+charge density '2.0 mC/m2 on its
+outer surface and radius 2.0 cm; the
+centers are separated by L$6.0 cm.
+57 A thin-walled metal spherical shell has radius 25.0 cm and
+charge 2.00 ( 10'7 C. Find E for a point (a) inside the shell, (b)
+just outside it, and (c) 3.00 m from the center.
+58 A uniform surface charge of density 8.0 nC/m2 is distributed over
+the entire xy plane. What is the electric flux through a spherical
+Gaussian surface centered on the origin and having a radius of 5.0 cm?
+59 Charge of uniform volume density r $ 1.2 nC/m3 fills an infinite
+slab between x$'5.0 cm and x$"5.0 cm.What is the magnitude
+of the electric field at any point with the coordinate (a) x $
+4.0 cm and (b) x $ 6.0 cm?
+60 The chocolate crumb mystery. Explosions ignited by
+electrostatic discharges (sparks) constitute a serious danger in facilities
+handling grain or powder. Such an explosion occurred in
+chocolate crumb powder at a biscuit factory in the 1970s.Workers
+usually emptied newly delivered sacks of the powder into a loading
+bin, from which it was blown through electrically grounded plastic
+pipes to a silo for storage. Somewhere along this route, two conditions
+for an explosion were met: (1) The magnitude of an electric
+field became 3.0 ( 106 N/C or greater, so that electrical breakdown
+and thus sparking could occur. (2) The energy of a spark was
+150 mJ or greater so that it could ignite the powder explosively. Let
+us check for the first condition in the powder flow through the
+plastic pipes.
+Suppose a stream of negatively charged powder was blown
+through a cylindrical pipe of radius R $ 5.0 cm. Assume that the
+powder and its charge were spread uniformly through the pipe
+with a volume charge density r. (a) Using Gauss’ law, find an expression
+for the magnitude of the electric field in the pipe as a
+function of radial distance r from the pipe center. (b) Does E increase
+or decrease with increasing r? (c) Is directed radially inward
+or outward? (d) For r $ 1.1 ( 10'3 C/m3 (a typical value at
+the factory), find the maximum E and determine where that maximum
+field occurs. (e) Could sparking occur, and if so, where? (The
+story continues with Problem 70 in Chapter 24.)
+61 A thin-walled metal spherical shell of radius a has a charge
+qa. Concentric with it is a thin-walled metal spherical shell of radius
+b + a and charge qb. Find the electric field at points a distance r from
+the common center, where (a) r , a, (b) a , r , b, and (c) r + b.
+(d) Discuss the criterion you would use to determine how the charges
+are distributed on the inner and outer surfaces of the shells.
+62 A particle of charge q $ 1.0 ( 10'7 C is at the center of a
+spherical cavity of radius 3.0 cm in a chunk of metal.Find the electric
+field (a) 1.5 cm from the cavity center and (b) anyplace in the metal.
+63 A proton at speed v$3.00(105 m/s orbits at radius r$1.00 cm
+outside a charged sphere. Find the sphere’s charge.
+64 Equation 23-11 (E $ s/´0) gives the electric field at points near a
+charged conducting surface. Apply this equation to a conducting
+sphere of radius r and charge q,and show that the electric field outside
+the sphere is the same as the field of a charged particle located at the
+center of the sphere.
+65 Charge Q is uniformly distributed in a sphere of radius R. (a)
+What fraction of the charge is contained within the radius
+r $ R/2.00? (b) What is the ratio of the electric field magnitude at
+r $ R/2.00 to that on the surface of the sphere?
+66 A charged particle causes an electric flux of '750 N?m2/C to
+pass through a spherical Gaussian surface of 10.0 cm radius centered
+on the charge. (a) If the radius of the Gaussian surface were
+SSM
+E:
+E:
+Other than at x $0, where on the x
+axis is the net electric field equal to
+zero?
+••51 In Fig. 23-56, a
+nonconducting spherical shell of inner
+radius a$2.00 cm and outer radius
+b$2.40 cm has (within its thickness)
+a positive volume charge
+density r $A/r,where Ais a constant
+and r is the distance from the center
+of the shell. In addition, a small ball of
+charge q$45.0 fC is located at that
+center.What value should A have if
+SSM WWW
+x
+Shell
+1
+Shell
+2
+y
+L
+Figure 23-55 Problem 50.
+b
+a
+q +
+Figure 23-56 Problem 51.
+a
+Figure 23-57 Problem 52.
+of radius R $ 5.60 cm varies with radial distance r as given by r $
+(14.1 pC/m3)r/R. (a) What is the sphere’s total charge? What is the
+field magnitude E at (b) r $ 0, (c) r $ R/2.00, and (d) r $ R? (e)
+the electric field in the shell (a/r/
+b) is to be uniform?
+••52 Figure 23-57 shows a spherical
+shell with uniform volume charge
+density r $1.84 nC/m3, inner radius
+a$10.0 cm, and outer radius b$
+2.00a. What is the magnitude of the
+electric field at radial distances (a) r$
+0; (b) r$a/2.00, (c) r$a, (d) r$
+1.50a, (e) r$b,and (f) r$3.00b?
+•••53 The volume charge density
+of a solid nonconducting sphere
+ILW
+R R
+P
+1 2
+Figure 23-58 Problem 54.
+Graph E versus r.
+•••54 Figure 23-58 shows, in cross
+section, two solid spheres with uniformly
+distributed charge throughout
+their volumes. Each has radius
+R. Point P lies on a line connecting
+the centers of the spheres, at radial
+distance R/2.00 from the center of sphere 1. If the net electric field
+at point P is zero, what is the ratio q2/q1 of the total charges?
+•••55 A charge distribution that is spherically symmetric but not
+uniform radially produces an electric field of magnitude E $ Kr4,
+directed radially outward from the center of the sphere. Here r is
+the radial distance from that center, and K is a constant.What is
+the volume density r of the charge distribution?
+Additional Problems
+56 The electric field in a particular space is N/C,
+with x in meters. Consider a cylindrical Gaussian surface of radius
+20 cm that is coaxial with the x axis. One end of the cylinder is at
+x $ 0. (a) What is the magnitude of the electric flux through the
+other end of the cylinder at x $ 2.0 m? (b) What net charge is enclosed
+within the cylinder?
+E: $ (x " 2)iˆ
+684 CHAPTER 23 GAUSS’ LAW
+doubled, how much flux would pass through the surface? (b) What
+is the charge of the particle?
+67 The electric field at point P just outside the outer surface
+of a hollow spherical conductor of inner radius 10 cm and
+outer radius 20 cm has magnitude 450 N/C and is directed outward.
+When a particle of unknown charge Q is introduced into the center
+of the sphere, the electric field at P is still directed outward but is
+now 180 N/C. (a) What was the net charge enclosed by the outer
+surface before Q was introduced? (b)What is charge Q? After Q is
+introduced, what is the charge on the (c) inner and (d) outer surface
+of the conductor?
+68 The net electric flux through each face of a die (singular of
+dice) has a magnitude in units of 103 N?m2/C that is exactly equal
+to the number of spots N on the face (1 through 6). The flux is inward
+for N odd and outward for N even.What is the net charge inside
+the die?
+69 Figure 23-59 shows, in
+cross section, three infinitely
+large nonconducting sheets on
+which charge is uniformly
+spread. The surface charge
+densities are s1$"2.00
+mC/m2, s2$ "4.00 mC/m2,
+and s3$'5.00 mC/m2, and
+distance L$1.50 cm. In unitvector
+notation,what is the net
+electric field at point P?
+70 Charge of uniform volume
+density r $ 3.2 mC/m3 fills a nonconducting solid sphere of
+radius 5.0 cm.What is the magnitude of the electric field (a) 3.5
+cm and (b) 8.0 cm from the sphere’s center?
+71 A Gaussian surface in the form of a hemisphere of radius R $
+5.68 cm lies in a uniform electric field of magnitude E $ 2.50 N/C.
+The surface encloses no net charge. At the (flat) base of the surface,
+the field is perpendicular to the surface and directed into the
+surface.What is the flux through (a) the base and (b) the curved
+portion of the surface?
+72 What net charge is enclosed by the Gaussian cube of
+Problem 2?
+73 A nonconducting solid sphere has a uniform
+volume charge density r. Let be the
+vector from the center of the sphere to a general
+point P within the sphere. (a) Show that
+the electric field at P is given by
+(Note that the result is independent of the radius
+of the sphere.) (b) A spherical cavity is
+hollowed out of the sphere, as shown in Fig. 23-
+60. Using superposition concepts, show that
+the electric field at all points within the cavity
+is uniform and equal to where is the position vector
+from the center of the sphere to the center of the cavity.
+74 A uniform charge density of 500 nC/m3 is distributed throughout
+a spherical volume of radius 6.00 cm. Consider a cubical
+Gaussian surface with its center at the center of the sphere.What is
+the electric flux through this cubical surface if its edge length is
+(a) 4.00 cm and (b) 14.0 cm?
+75 Figure 23-61 shows a Geiger counter, a device used to detect
+ionizing radiation, which causes ionization of atoms. A thin, posi-
+E a: : $ ra:/3´0,
+E: $ rr:/3´0.
+r:
+SSM
+tively charged central wire is surrounded
+by a concentric, circular, conducting
+cylindrical shell with an equal
+negative charge, creating a strong radial
+electric field. The shell contains a
+low-pressure inert gas.A particle of radiation
+entering the device through
+the shell wall ionizes a few of the gas
+atoms. The resulting free electrons (e)
+are drawn to the positive wire.
+However, the electric field is so intense
+that, between collisions with gas
+atoms, the free electrons gain energy
+sufficient to ionize these atoms also.
+More free electrons are thereby created,
+and the process is repeated until
+the electrons reach the wire. The resulting
+“avalanche” of electrons is collected
+by the wire, generating a signal that is used to record the
+passage of the original particle of radiation. Suppose that the radius
+of the central wire is 25 mm, the inner radius of the shell 1.4
+cm, and the length of the shell 16 cm. If the electric field at the
+shell’s inner wall is 2.9 ( 104 N/C, what is the total positive charge
+on the central wire?
+76 Charge is distributed uniformly throughout the volume of an infinitely
+long solid cylinder of radius R. (a) Show that, at a distance r ,
+R from the cylinder axis,
+where r is the volume charge density. (b) Write an expression for E
+when r + R.
+77 A spherical conducting shell has a charge of '14 mC on
+its outer surface and a charged particle in its hollow. If the net
+charge on the shell is '10 mC, what is the charge (a) on the inner
+surface of the shell and (b) of the particle?
+78 A charge of 6.00 pC is spread uniformly throughout the volume
+of a sphere of radius r$4.00 cm.What is the magnitude of the electric
+field at a radial distance of (a) 6.00 cm and (b) 3.00 cm?
+79 Water in an irrigation ditch of width w $ 3.22 m and depth d $
+1.04 m flows with a speed of 0.207 m/s.The mass flux of the flowing
+water through an imaginary surface is the product of the water’s
+density (1000 kg/m3) and its volume flux through that surface. Find
+the mass flux through the following imaginary surfaces: (a) a surface
+of area wd, entirely in the water, perpendicular to the flow;
+(b) a surface with area 3wd/2, of which wd is in the water, perpendicular
+to the flow; (c) a surface of area wd/2, entirely in the water, perpendicular
+to the flow; (d) a surface of area wd, half in the water and
+half out, perpendicular to the flow; (e) a surface of area wd, entirely in
+the water, with its normal 34.0° from the direction of flow.
+80 Charge of uniform surface density 8.00 nC/m2 is distributed
+over an entire xy plane; charge of uniform surface density 3.00 nC/m2
+is distributed over the parallel plane defined by z $ 2.00 m.
+Determine the magnitude of the electric field at any point having a z
+coordinate of (a) 1.00 m and (b) 3.00 m.
+81 A spherical ball of charged particles has a uniform charge
+density. In terms of the ball’s radius R, at what radial distances
+(a) inside and (b) outside the ball is the magnitude of the ball’s
+electric field equal to of the maximum magnitude of that field? 14
+SSM
+E $
+rr
+2´0
+,
+2L
+L/2
+L
+
+
+
+
+Electric Potential The electric potential V at a point P in the
+electric field of a charged object is
+(24-2)
+where is the work that would be done by the electric force on a
+positive test charge were it brought from an infinite distance to P,
+and U is the potential energy that would then be stored in the test
+charge–object system.
+Electric Potential Energy If a particle with charge q is
+placed at a point where the electric potential of a charged object is
+V, the electric potential energy U of the particle–object system is
+U $ qV. (24-3)
+W0
+V $
+'W0
+q0
+$
+U
+q0
+,
+Review & Summary
+If the particle moves through a potential difference !V, the change
+in the electric potential energy is
+!U $ q !V $ q(Vf ' Vi). (24-4)
+Mechanical Energy If a particle moves through a change !V
+in electric potential without an applied force acting on it, applying
+the conservation of mechanical energy gives the change in kinetic
+energy as
+!K$'q !V. (24-9)
+If, instead, an applied force acts on the particle, doing work Wapp,
+the change in kinetic energy is
+!K$'q !V "Wapp. (24-11)
+In the special case when !K $ 0, the work of an applied force
+708 CHAPTER 24 ELECTRIC POTENTIAL
+20 V
+40
+60
+80
+100
+–140 V
+–120
+–100
+–10 V
+–30
+–50
+(1) (2) (3)
+Figure 24-25 Question 2.
+1 Figure 24-24 shows eight particles
+that form a square, with distance
+d between adjacent particles.
+What is the net electric potential at
+point P at the center of the square
+if we take the electric potential to
+be zero at infinity?
+2 Figure 24-25 shows three sets of
+cross sections of equipotential surfaces
+in uniform electric fields; all
+three cover the same size region of
+space. The electric potential is indi-
+Questions
+Figure 24-24 Question 1.
+–4q
++5q
+–q
++q
+–5q
+–2q +4q
+–2q
+P
+d
+involves only the motion of the particle through a potential
+difference:
+Wapp $ q !V (for Ki $ Kf). (24-12)
+Equipotential Surfaces The points on an equipotential surface
+all have the same electric potential. The work done on a test
+charge in moving it from one such surface to another is independent
+of the locations of the initial and final points on these surfaces and of
+the path that joins the points.The electric field is always directed
+perpendicularly to corresponding equipotential surfaces.
+Finding V from The electric potential difference between
+two points i and f is
+(24-18)
+where the integral is taken over any path connecting the points. If the
+integration is difficult along any particular path,we can choose a different
+path along which the integration might be easier. If we choose Vi $
+0,we have, for the potential at a particular point,
+(24-19)
+In the special case of a uniform field of magnitude E, the potential
+change between two adjacent (parallel) equipotential lines
+separated by distance !x is
+!V$'E !x. (24-21)
+Potential Due to a Charged Particle The electric potential
+due to a single charged particle at a distance r from that particle is
+(24-26)
+where V has the same sign as q.The potential due to a collection of
+charged particles is
+(24-27)
+Potential Due to an Electric Dipole At a distance r from
+an electric dipole with dipole moment magnitude p $ qd, the electric
+potential of the dipole is
+V $'n
+i$1
+Vi
+$
+1
+4p´0 'n
+i$1
+qi
+ri
+.
+V $
+1
+4p´0
+q
+r
+,
+V $ '"f
+i
+E:
+" ds:.
+Vf 'Vi $ '"f
+i
+E:
+" ds:,
+E:
+E:
+(24-30)
+for ; the angle u is defined in Fig. 24-13.
+Potential Due to a Continuous Charge Distribution
+For a continuous distribution of charge,Eq. 24-27 becomes
+(24-32)
+in which the integral is taken over the entire distribution.
+Calculating from V The component of in any direction
+is the negative of the rate at which the potential changes with distance
+in that direction:
+(24-40)
+The x, y, and z components of may be found from
+(24-41)
+When is uniform,Eq. 24-40 reduces to
+(24-42)
+where s is perpendicular to the equipotential surfaces.
+Electric Potential Energy of a System of Charged
+Particles The electric potential energy of a system of charged
+particles is equal to the work needed to assemble the system with
+the particles initially at rest and infinitely distant from each other.
+For two particles at separation r,
+(24-46)
+Potential of a Charged Conductor An excess charge placed
+on a conductor will, in the equilibrium state, be located entirely on
+the outer surface of the conductor.The charge will distribute itself so
+that the following occur: (1) The entire conductor, including interior
+points, is at a uniform potential. (2) At every internal point, the electric
+field due to the charge cancels the external electric field that otherwise
+would have been there. (3) The net electric field at every
+point on the surface is perpendicular to the surface.
+U $ W $
+
+
+
+A particular 12 V car battery can send a total charge of
+Electric
+field
+line
+Equipotentials
+A
+B
+C
+Figure 24-34 Problem 6.
+Figure 24-35 Problem 8.
+Ex (N/C)
+–Exs
+Exs
+0
+x (m)
+1 2 3 4 5 6
+••15 A spherical drop of water carrying a charge of 30
+pC has a potential of 500 V at its surface (with V 0 at infinity).
+(a) What is the radius of the drop? (b) If two such drops of the
+same charge and radius combine to form a single spherical drop,
+what is the potential at the surface
+of the new drop?
+••16 Figure 24-37 shows a rectangular
+array of charged particles
+fixed in place, with distance a 39.0
+cm and the charges shown as integer
+multiples of q1 $ 3.40 pC and q2 $
+6.00 pC.With V $ 0 at infinity, what
+$
+$
+SSM ILW
+a
+a
+a
+a
+a a
+–q1 +4q2 +2q1
++2q1 +4q2 –3q1
+Figure 24-37 Problem 16.
+origin is 10 V, (a) what is the electric
+potential at x 2.0 m, (b) what is
+the greatest positive value of the electric
+potential for points on the x axis
+for which 0 / x / 6.0 m, and (c) for
+what value of x is the electric potential
+zero?
+$
+PROBLEMS 711
+an electric dipole, on the positive side of the dipole. (The origin of z
+is at the center of the dipole.) The particle is then moved along a
+circular path around the dipole center until it is at coordinate z $
+'20 nm, on the negative side of the dipole axis. Figure 24-41b gives
+the work Wa done by the force moving the particle versus the angle u
+that locates the particle relative to the positive direction of the z
+axis.The scale of the vertical axis is set by Was $ 4.0 ( 10'30 J.What
+is the magnitude of the dipole moment?
+Module 24-5 Potential Due to a Continuous
+Charge Distribution
+•23 (a) Figure 24-42a shows a nonconducting rod of length L $
+6.00 cm and uniform linear charge density l$"3.68 pC/m.Assume
+that the electric potential is defined to be V $ 0 at infinity.What is V
+at point P at distance d $ 8.00 cm along the rod’s perpendicular bisector?
+(b) Figure 24-42b shows an identical rod except that one half
+is now negatively charged. Both halves have a linear charge density
+of magnitude 3.68 pC/m.With V $ 0 at infinity, what is V at P?
+is the net electric potential at the
+rectangle’s center? (Hint: Thoughtful
+examination of the arrangement
+can reduce the calculation.)
+••17 In Fig. 24-38, what is the net
+electric potential at point P due to
+the four particles if V 0 at infinity,
+q 5.00 fC, and d 4.00 cm?
+••18 Two charged particles are
+shown in Fig. 24-39a. Particle 1, with
+charge q1, is fixed in place at distance d. Particle 2, with charge q2,
+can be moved along the x axis. Figure 24-39b gives the net electric
+potential V at the origin due to the two particles as a function of
+the x coordinate of particle 2. The scale of the x axis is set by xs
+16.0 cm.The plot has an asymptote of V $ 5.76 ( 10'7 V as x:0.
+What is q2 in terms of e?
+$
+$ $
+$
+d
+d
+d
+d
++q
+P
++q
+–q
+–q
++
++
+Figure 24-38 Problem 17.
+Figure 24-39 Problem 18.
+x (cm)
+xs
+4
+0
+–10
+V (10–7 V)
+1 2
+y
+x
+d
+(a) (b)
+Figure 24-40 Problems 19
+and 20.
+••19 In Fig. 24-40, particles with
+the charges q1$"5e and q2$'15e
+are fixed in place with a separation of
+d $ 24.0 cm. With electric potential
+defined to be V 0 at infinity, what
+are the finite (a) positive and (b) negative
+values of x at which the net electric
+potential on the x axis is zero?
+$
+Figure 24-41 Problem 22.
+Figure 24-42 Problem 23.
++ + + + + + + + + + + + +
+L/2 L/2
+P
+d
++ + + + + + + – – – – – – –
+L/2 L/2
+P
+d
+(a) (b )
+Q
+φ
+P R
+Figure 24-43
+Problem 24.
+q1
+d
+x
+y
+q2
+(a) (b)
+0
+–Was
+θ θ Wa (
+10–30 J)
+z
++–
++e
+•24 In Fig. 24-43, a plastic rod having a uniformly
+distributed charge Q$'25.6 pC
+has been bent into a circular arc of radius
+R $ 3.71 cm and central angle f $ 120%.With
+V $ 0 at infinity, what is the electric potential
+at P, the center of curvature of the rod?
+•25 A plastic rod has been bent into a circle
+of radius R $ 8.20 cm. It has a charge Q1 $
+"4.20 pC uniformly distributed along onequarter
+of its circumference and a charge
+Q2 $'6Q1 uniformly distributed along the
+rest of the circumference (Fig. 24-44). With
+••20 Two particles, of charges q1 and q2, are separated by distance
+d in Fig. 24-40. The net electric field due to the particles is zero at
+x $ d/4.With V $ 0 at infinity, locate (in terms of d) any point on
+the x axis (other than at infinity) at which the electric potential due
+to the two particles is zero.
+Module 24-4 Potential Due to an Electric Dipole
+•21 The ammonia molecule NH3 has a permanent electric
+dipole moment equal to 1.47 D, where 1 D 1 debye unit
+3.34 10'30 C#m. Calculate the electric potential due to an ammonia
+molecule at a point 52.0 nm away along the axis of the
+dipole. (Set V $ 0 at infinity.)
+(
+$ $
+ILW
+••22 In Fig. 24-41a, a particle of elementary charge "e is initially
+at coordinate z $ 20 nm on the dipole axis (here a z axis) through
+V $ 0 at infinity, what is the electric potential at (a) the center C of
+the circle and (b) point P, on the central axis of the circle at distance
+D $ 6.71 cm from the center?
+••26 Figure 24-45 shows a thin
+rod with a uniform charge density
+of 2.00 mC/m. Evaluate the electric
+potential at point P if d D$
+L/4.00. Assume that the potential is
+zero at infinity.
+$
+C
+D
+P
+Q2
+R
+Q1
+Figure 24-44 Problem 25.
+d
+D
+L
+P
+x
+Rod
+Figure 24-45 Problem 26.
+712 CHAPTER 24 ELECTRIC POTENTIAL
+••30 The smiling face of Fig. 24-
+49 consists of three items:
+1. a thin rod of charge '3.0 mC that
+forms a full circle of radius 6.0 cm;
+2. a second thin rod of charge 2.0 mC
+that forms a circular arc of radius
+4.0 cm, subtending an angle of 90%
+about the center of the full circle;
+3. an electric dipole with a dipole Figure 24-49 Problem 30.
+y
+x
+Q1
+Q3
+Q2
+R 2.00R
+R
+θ
+Figure 24-48 Problem 29.
+Figure 24-47 Problems 28, 33,
+38, and 40.
+0.2 0.4
+!2Vs
+x (m)
+V (V)
+Vs
+0
+0.2 0.4
+y (m)
+V (V)
+!Vs
+0
+Figure 24-51 Problem 39.
+••27 In Fig. 24-46, three thin plastic
+rods form quarter-circles with a
+common center of curvature at the
+origin. The uniform charges on the
+three rods are Q1$"30 nC, Q2 $
+"3.0Q1, and Q3$'8.0Q1. What is
+the net electric potential at the origin
+due to the rods?
+••28 Figure 24-47 shows a thin
+plastic rod of length L 12.0 cm
+and uniform positive charge Q
+56.1 fC lying on an x axis.With V $ 0
+at infinity, find the electric potential
+at point P1 on the axis, at distance
+d $ 2.50 cm from the rod.
+••29 In Fig. 24-48, what is the net
+electric potential at the origin due
+to the circular arc of charge Q1 $
+"7.21 pC and the two particles of
+$
+$
+x (cm)
+y (cm)
+4.0
+2.0
+1.0
+Q2
+Q3
+Q1
+Figure 24-46 Problem 27.
+charges Q2 $ 4.00Q1 and Q3$'2.00Q1? The arc’s center of curvature
+is at the origin and its radius is R $ 2.00 m; the angle indicated
+is u $ 20.0%.
+•••32 A nonuniform linear charge distribution given by l $
+bx, where b is a constant, is located along an x axis from x 0 to
+x 0.20 m. If b $ 20 nC/m2 and V $ 0 at infinity, what is the
+electric potential at (a) the origin and (b) the point y $ 0.15 m
+on the y axis?
+•••33 The thin plastic rod shown in Fig. 24-47 has length L
+12.0 cm and a nonuniform linear charge density l cx, where
+c 28.9 pC/m2.With V $ 0 at infinity, find the electric potential
+at point P1 on the axis, at distance d $ 3.00 cm from one end.
+Module 24-6 Calculating the Field from the Potential
+•34 Two large parallel metal plates are 1.5 cm apart and have
+charges of equal magnitudes but opposite signs on their facing surfaces.
+Take the potential of the negative plate to be zero. If the
+potential halfway between the plates is then "5.0 V, what is the
+electric field in the region between the plates?
+•35 The electric potential at points in an xy plane is given by
+V $ (2.0 V/m2)x2 ' (3.0 V/m2)y2. In unit-vector notation, what is
+the electric field at the point (3.0 m, 2.0 m)?
+•36 The electric potential V in the space between two flat parallel
+plates 1 and 2 is given (in volts) by V $ 1500x2, where x (in meters)
+is the perpendicular distance from plate 1. At x $ 1.3 cm, (a) what
+is the magnitude of the electric field and (b) is the field directed toward
+or away from plate 1?
+••37 What is the magnitude of the electric field at the point
+if the electric potential in the region is
+given by V 2.00xyz2, where V is in volts and coordinates x, y,
+and z are in meters?
+••38 Figure 24-47 shows a thin plastic rod of length L $ 13.5 cm
+and uniform charge 43.6 fC. (a) In terms of distance d, find an expression
+for the electric potential at point P1. (b) Next, substitute
+variable x for d and find an expression for the magnitude of the
+component Ex of the electric field at P1. (c) What is the direction of
+Ex relative to the positive direction of the x axis? (d) What is the
+value of Ex at P1 for x $ d $ 6.20 cm? (e) From the symmetry in
+Fig. 24-47, determine Ey at P1.
+••39 An electron is placed in an xy plane where the electric potential
+depends on x and y as shown, for the coordinate axes, in
+Fig. 24-51 (the potential does not depend on z). The scale of the
+vertical axis is set by Vs 500 V. In unit-vector notation, what is
+the electric force on the electron?
+$
+$
+(3.00iˆ ' 2.00jˆ " 4.00kˆ ) m
+SSM
+$
+$
+$
+$
+$
+moment that is perpendicular to a
+radial line and has a magnitude of
+1.28 ( 10'21 C#m.
+What is the net electric potential at
+the center?
+••31 A plastic disk of
+radius R 64.0 cm is charged on
+one side with a uniform surface
+charge density s 7.73 fC/m2,
+and then three quadrants of the disk
+$
+$
+SSM WWW
+D
+P
+R
+Figure 24-50 Problem 31.
++ + + + + + + + + +
+L
+x
+P2
+D
+y
+d
+P1
+are removed.The remaining quadrant is shown in Fig. 24-50.With
+V $ 0 at infinity, what is the potential due to the remaining quadrant
+at point P, which is on the central axis of the original disk at
+distance D $ 25.9 cm from the original center?
+•••40 The thin plastic rod of length L $ 10.0 cm in Fig. 24-47
+has a nonuniform linear charge density l cx, where c
+49.9 pC/m2. (a) With V $ 0 at infinity, find the electric potential at
+point P2 on the y axis at y $ D $ 3.56 cm. (b) Find the electric field
+component Ey at P2. (c) Why cannot the field component Ex at P2
+be found using the result of (a)?
+$ $
+PROBLEMS 713
+infinity to the indicated point near
+two fixed particles of charges q1 $
+"4e and q2$'q1/2? Distance d $
+1.40 cm, u1 $ 43%, and u2 $ 60%.
+••51 In the rectangle of Fig. 24-
+55, the sides have lengths 5.0 cm and
+15 cm, q1$'5.0 mC, and q2$"2.0
+mC.With V $ 0 at infinity, what is the
+electric potential at (a) corner A and
+(b) corner B? (c) How much work is
+required to move a charge q3$"3.0
+mC from B to A along a diagonal of
+the rectangle? (d) Does this work increase
+or decrease the electric potential
+energy of the three-charge
+system? Is more, less, or the same
+work required if q3 is moved along a
+path that is (e) inside the rectangle but not on a diagonal and (f)
+outside the rectangle?
+••52 Figure 24-56a shows an
+electron moving along an electric
+dipole axis toward the negative
+side of the dipole. The dipole is
+fixed in place. The electron was
+initially very far from the dipole,
+with kinetic energy 100 eV. Figure
+24-56b gives the kinetic energy K
+of the electron versus its distance
+r from the dipole center. The
+scale of the horizontal axis is set
+by rs $ 0.10 m.What is the magnitude
+of the dipole moment?
+••53 Two tiny metal spheres A and B, mass mA $ 5.00 g and mB $
+10.0 g, have equal positive charge q $ 5.00 mC.The spheres are connected
+by a massless nonconducting string of length d $ 1.00 m,
+which is much greater than the radii of the spheres. (a) What is the
+electric potential energy of the system? (b) Suppose you cut
+the string.At that instant, what is the acceleration of each sphere? (c)
+A long time after you cut the string, what is the speed of each sphere?
+••54 A positron (charge "e,
+mass equal to the electron mass) is
+moving at 1.0 107 m/s in the positive
+direction of an x axis when, at
+x $ 0, it encounters an electric field
+directed along the x axis.The electric
+potential V associated with the field
+is given in Fig. 24-57.The scale of the
+vertical axis is set by Vs $ 500.0 V.
+(a) Does the positron emerge from
+the field at x $ 0 (which means its motion is reversed) or at x $ 0.50
+m (which means its motion is not reversed)? (b) What is its speed
+when it emerges?
+••55 An electron is projected with an initial speed of 3.2 ( 105 m/s
+directly toward a proton that is fixed in place. If the electron is initially
+a great distance from the proton, at what distance from the
+proton is the speed of the electron instantaneously equal to twice
+the initial value?
+••56 Particle 1 (with a charge of "5.0 mC) and particle 2 (with
+a charge of "3.0 mC) are fixed in place with separation d $ 4.0 cm
+(
+Module 24-7 Electric Potential Energy of a System
+of Charged Particles
+•41 A particle of charge "7.5 mC is released from rest at the
+point x $ 60 cm on an x axis. The particle begins to move due to
+the presence of a charge Q that remains fixed at the origin.What is
+the kinetic energy of the particle at the instant it has moved 40 cm
+if (a) Q$"20 mC and (b) Q$'20 mC?
+•42 (a) What is the electric potential energy of two electrons
+separated by 2.00 nm? (b) If the separation increases, does the potential
+energy increase or decrease?
+•43 How much work is
+required to set up the arrangement of
+Fig. 24-52 if q 2.30 pC, a 64.0 cm, and
+the particles are initially infinitely far apart
+and at rest?
+•44 In Fig. 24-53, seven charged particles are
+fixed in place to form a square with an edge
+length of 4.0 cm. How much work must we do
+to bring a particle of charge "6e initially at
+rest from an infinite distance to the center of
+the square?
+$ $
+SSM ILW WWW
+–q +q
+a
++q –q
+a
+a a
++
++
+Figure 24-52
+Problem 43.
+Figure 24-54 Problem 50.
+2.00d
+q1 Q
+q2
+d
+1
+∞
++ +
+θ θ 2
+B
+A
+q1
+q2
++
+Figure 24-55 Problem 51.
+Figure 24-56 Problem 52.
+rs
++ – –e
+100
+50
+0
+r (m)
+K (eV) (
+a)
+(b)
+Figure 24-53 Problem 44.
+x
+–e
++3e
+–3e
++e
++3e
+–2e
++2e
+y
+••45 A particle of charge q is fixed at point P, and a second
+particle of mass m and the same charge q is initially held a distance
+r1 from P.The second particle is then released.Determine its speed
+when it is a distance r2 from P. Let q $ 3.1 mC, m $ 20 mg, r1 $
+0.90 mm,and r2 $ 2.5 mm.
+••46 A charge of '9.0 nC is uniformly distributed around a thin
+plastic ring lying in a yz plane with the ring center at the origin.A
+'6.0 pC particle is located on the x axis at x $ 3.0 m. For a ring radius
+of 1.5 m, how much work must an external force do on the
+particle to move it to the origin?
+••47 What is the escape speed for an electron initially at rest on
+the surface of a sphere with a radius of 1.0 cm and a uniformly distributed
+charge of 1.6 ( 10'15 C? That is, what initial speed must
+the electron have in order to reach an infinite distance from the
+sphere and have zero kinetic energy when it gets there?
+••48 A thin, spherical, conducting shell of radius R is mounted
+on an isolating support and charged to a potential of '125 V. An
+electron is then fired directly toward the center of the shell, from
+point P at distance r from the center of the shell .What initial
+speed v0 is needed for the electron to just reach the shell before
+reversing direction?
+••49 Two electrons are fixed 2.0 cm apart.Another electron is
+shot from infinity and stops midway between the two.What is its
+initial speed?
+••50 In Fig. 24-54, how much work must we do to bring a particle,
+of charge Q$"16e and initially at rest, along the dashed line from
+(r 2 R)
+ILW
+Vs
+V (V)
+0 20 50
+x (cm)
+Figure 24-57 Problem 54.
+714 CHAPTER 24 ELECTRIC POTENTIAL
+on the x axis shown in Fig. 24-58a. Particle 3 can be moved along
+the x axis to the right of particle 2. Figure 24-58b gives the electric
+potential energy U of the three-particle system as a function of the
+x coordinate of particle 3. The scale of the vertical axis is set by
+Us $ 5.0 J.What is the charge of particle 3?
+the circle. (b) With that addition of the electron to the system of 12
+charged particles, what is the change in the electric potential energy
+of the system?
+••57 SSM Identical 50 mC charges are fixed on an x axis at
+x (cm)
+Us
+0
+–Us
+U (J)
+10 20
+d
+y
+x
+1 2 3
+(a) (b)
+Figure 24-58 Problem 56.
+–e –e
+Q
+R
+(a) (b)
+Figure 24-61 Problem 60.
+x!"3.0 m.A particle of charge q!#15 mC is then released from
+rest at a point on the positive part of the y axis. Due to the symmetry
+of the situation, the particle moves along the y axis and has kinetic
+energy 1.2 J as it passes through the point x ! 0, y ! 4.0 m.
+(a) What is the kinetic energy of the particle as it passes through
+the origin? (b) At what negative value of y will the particle momentarily
+stop?
+••58 Proton in a
+well. Figure 24-59
+shows electric potential
+V along an x axis.
+The scale of the vertical
+axis is set by
+Vs 10.0 V. A proton
+is to be released
+at x ! 3.5 cm with
+initial kinetic energy 4.00 eV. (a) If it is initially moving in the negative
+direction of the axis, does it reach a turning point (if so, what
+is the x coordinate of that point) or does it escape from the plotted
+region (if so, what is its speed at x ! 0)? (b) If it is initially moving
+in the positive direction of the axis, does it reach a turning point (if
+so, what is the x coordinate of that point) or does it escape from the
+plotted region (if so, what is its speed at x ! 6.0 cm)? What are the
+(c) magnitude F and (d) direction (positive or negative direction of
+the x axis) of the electric force on the proton if the proton moves
+just to the left of x 3.0 cm? What are (e) F and (f) the direction if
+the proton moves just to the right of x ! 5.0 cm?
+!
+!
+••59 In Fig. 24-60, a charged particle
+(either an electron or a proton) is moving
+rightward between two parallel charged
+plates separated by distance d ! 2.00 mm.
+The plate potentials are V1!#70.0 V and
+V2!#50.0 V. The particle is slowing from
+an initial speed of 90.0 km/s at the left
+plate. (a) Is the particle an electron or a
+proton? (b) What is its speed just as it
+reaches plate 2?
+••60 In Fig. 24-61a, we move an electron from an infinite distance
+to a point at distance R ! 8.00 cm from a tiny charged ball. The
+move requires work W ! 2.16 $ 10#13 J by us. (a) What is the
+charge Q on the ball? In Fig. 24-61b, the ball has been sliced up and
+the slices spread out so that an equal amount of charge is at the
+hour positions on a circular clock face of radius R ! 8.00 cm. Now
+the electron is brought from an infinite distance to the center of
+d
+V1 V2
+Figure 24-60
+Problem 59.
+V (V)
+Vs
+0 1 2 3 4 5 6 7
+x (cm)
+Figure 24-59 Problem 58.
+•••61 Suppose N electrons can be placed in either of two
+configurations. In configuration 1, they are all placed on the circumference
+of a narrow ring of radius R and are uniformly distributed
+so that the distance between adjacent electrons is the same
+everywhere. In configuration 2, N # 1 electrons are uniformly
+distributed on the ring and one electron is placed in the center of the
+ring. (a) What is the smallest value of N for which the second configuration
+is less energetic than the first? (b) For that value of N, consider
+any one circumference electron—call it e0. How many other
+circumference electrons are closer to e0 than the central electron is?
+Module 24-8 Potential of a Charged Isolated Conductor
+•62 Sphere 1 with radius R1 has positive charge q. Sphere 2 with
+radius 2.00R1 is far from sphere 1 and initially uncharged.After the
+separated spheres are connected with a wire thin enough to retain
+only negligible charge, (a) is potential V1 of sphere 1 greater than,
+less than, or equal to potential V2 of sphere 2? What fraction of q
+ends up on (b) sphere 1 and (c) sphere 2? (d) What is the ratio
+s1/s2 of the surface charge densities of the spheres?
+•63 Two metal spheres, each of radius 3.0 cm, have a
+center-to-center separation of 2.0 m. Sphere 1 has charge 1.0
+10#8 C; sphere 2 has charge #3.0 $ 10#8 C. Assume that the separation
+is large enough for us to say that the charge on each sphere
+is uniformly distributed (the spheres do not affect each other).
+With V ! 0 at infinity, calculate (a) the potential at the point
+halfway between the centers and the potential on the surface of
+(b) sphere 1 and (c) sphere 2.
+•64 A hollow metal sphere has a potential of %400 V with respect
+to ground (defined to be at V ! 0) and a charge of 5.0$ 10#9 C.Find
+the electric potential at the center of the sphere.
+•65 What is the excess charge on a conducting sphere of
+radius r 0.15 m if the potential of the sphere is 1500 V and
+V 0 at infinity?
+••66 Two isolated, concentric, conducting spherical shells have
+radii R1 ! 0.500 m and R2 ! 1.00 m, uniform charges q1!%2.00 mC
+and q2!%1.00 mC, and negligible thicknesses.What is the magnitude
+of the electric field E at radial distance (a) r ! 4.00 m, (b) r !
+0.700 m, and (c) r ! 0.200 m? With V ! 0 at infinity, what is V at
+(d) r ! 4.00 m, (e) r ! 1.00 m, (f) r ! 0.700 m, (g) r ! 0.500 m,
+(h) r ! 0.200 m, and (i) r ! 0? ( j) Sketch E(r) and V(r).
+••67 A metal sphere of radius 15 cm has a net charge of 3.0 $
+10#8 C. (a) What is the electric field at the sphere’s surface? (b) If
+V ! 0 at infinity, what is the electric potential at the sphere’s surface?
+(c) At what distance from the sphere’s surface has the electric
+potential decreased by 500 V?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current An electric current i in a conductor is defined by
+(26-1)
+Here dq is the amount of (positive) charge that passes in time dt
+through a hypothetical surface that cuts across the conductor. By
+convention, the direction of electric current is taken as the direction
+in which positive charge carriers would move. The SI unit of
+electric current is the ampere (A): 1 A ! 1 C/s.
+Current Density Current (a scalar) is related to current
+density (a vector) by
+(26-4)
+where is a vector perpendicular to a surface element of area dA
+and the integral is taken over any surface cutting across the conductor.
+has the same direction as the velocity of the moving charges if
+they are positive and the opposite direction if they are negative.
+J: dA:
+i ! " J:
+" dA:,
+J:
+i !
+dq
+dt
+.
+Review & Summary
+Drift Speed of the Charge Carriers When an electric field
+is established in a conductor, the charge carriers (assumed positive)
+acquire a drift speed vd in the direction of the velocity is
+related to the current density by
+(26-7)
+where ne is the carrier charge density.
+Resistance of a Conductor The resistance R of a conductor
+is defined as
+(definition of R), (26-8)
+where V is the potential difference across the conductor and i is the
+current.The SI unit of resistance is the ohm (0): 1 0!1V/A.Similar
+equations define the resistivity r and conductivity s of a material:
+r ! (definitions of r and s), (26-12, 26-10)
+
+possible to derive an expression for the resistivity of a metal:
+(26-22)
+Here n is the number of free electrons per unit volume and t is the
+mean time between the collisions of an electron with the atoms of
+the metal.We can explain why metals obey Ohm’s law by pointing
+out that t is essentially independent of the magnitude E of any
+electric field applied to a metal.
+Power The power P, or rate of energy transfer, in an electrical
+device across which a potential difference V is maintained is
+P ! iV (rate of electrical energy transfer). (26-26)
+Resistive Dissipation If the device is a resistor, we can write
+Eq. 26-26 as
+(resistive dissipation). (26-27, 26-28)
+In a resistor, electric potential energy is converted to internal thermal
+energy via collisions between charge carriers and atoms.
+Semiconductors Semiconductors are materials that have few
+conduction electrons but can become conductors when they are
+doped with other atoms that contribute charge carriers.
+Superconductors Superconductors are materials that lose all
+electrical resistance at low temperatures. Some materials are superconducting
+at surprisingly high temperatures.
+P ! i2R !
+
+
+During the 4.0 min a 5.0 A current is set up in a wire, how
+many (a) coulombs and (b) electrons pass through any cross section
+across the wire’s width?
+••2 An isolated conducting sphere has a 10 cm radius. One wire
+carries a current of 1.000 002 0 A into it. Another wire carries a
+current of 1.000 000 0 A out of it. How long would it take for the
+sphere to increase in potential by 1000 V?
+••3 A charged belt, 50 cm wide, travels at 30 m/s between a source of
+charge and a sphere.The belt carries charge into the sphere at a rate corresponding
+to 100 mA. Compute the surface charge density on the belt.
+Module 26-2 Current Density
+•4 The (United States) National Electric Code, which sets maximum
+safe currents for insulated copper wires of various diameters,
+is given (in part) in the table. Plot the safe current density as a
+function of diameter.Which wire gauge has the maximum safe current
+density? (“Gauge” is a way of identifying wire diameters, and
+1 mil ! 10#3 in.)
+Gauge 4 6 8 10 12 14 16 18
+Diameter, mils 204 162 129 102 81 64 51 40
+Safe current,A 70 50 35 25 20 15 6 3
+•5 A beam contains 2.0 $ 108 doubly charged positive
+ions per cubic centimeter, all of which are moving north with
+a speed of 1.0 $ 105 m/s.What are the (a) magnitude and (b) direction
+of the current density (c) What additional quantity do you
+need to calculate the total current i in this ion beam?
+•6 A certain cylindrical
+wire carries current.We draw
+a circle of radius r around its
+central axis in Fig. 26-24a to
+determine the current i
+within the circle. Figure 26-
+24b shows current i as a function
+of r2.The vertical scale is
+set by is ! 4.0 mA, and the
+J:
+?
+SSM WWW
+Figure 26-24 Problem 6.
+r
+is
+0
+r 2 (mm2)
+rs
+2
+i (mA)
+(a)
+(b)
+766 CHAPTER 26 CURRENT AND RESISTANCE
+horizontal scale is set by ! 4.0 mm2. (a) Is the current density uniform?
+(b) If so, what is its magnitude?
+•7 A fuse in an electric circuit is a wire that is designed to melt,
+and thereby open the circuit, if the current exceeds a predetermined
+value. Suppose that the material to be used in a fuse melts
+when the current density rises to 440 A/cm2. What diameter of
+cylindrical wire should be used to make a fuse that will limit the
+current to 0.50 A?
+•8 A small but measurable current of 1.2 $ 10#10 A exists in a
+copper wire whose diameter is 2.5 mm.The number of charge carriers
+per unit volume is 8.49 $ 1028 m#3.Assuming the current is uniform,
+calculate the (a) current density and (b) electron drift speed.
+••9 The magnitude J(r) of the current density in a certain cylindrical
+wire is given as a function of radial distance from the center
+of the wire’s cross section as J(r) ! Br, where r is in meters, J is in
+amperes per square meter, and B ! 2.00 $ 105 A/m3.This function
+applies out to the wire’s radius of 2.00 mm. How much current is
+contained within the width of a thin ring concentric with the wire if
+the ring has a radial width of 10.0 mm and is at a radial distance of
+1.20 mm?
+••10 The magnitude J of the current density in a certain lab
+wire with a circular cross section of radius R ! 2.00 mm is given by
+J ! (3.00 $ 108)r2, with J in amperes per square meter and radial
+distance r in meters.What is the current through the outer section
+bounded by r ! 0.900R and r ! R?
+••11 What is the current in a wire of radius R ! 3.40 mm if the
+magnitude of the current density is given by (a) Ja ! J0r/R and
+(b) Jb ! J0(1 # r/R), in which r is the radial distance and J0 !
+5.50 $ 104 A/m2? (c) Which function maximizes the current
+density near the wire’s surface?
+••12 Near Earth, the density of protons in the solar wind
+(a stream of particles from the Sun) is 8.70 cm#3, and their speed
+is 470 km/s. (a) Find the current density of these protons. (b) If
+Earth’s magnetic field did not deflect the protons, what total current
+would Earth receive?
+••13 How long does it take electrons to get from a car
+battery to the starting motor? Assume the current is 300 A and the
+electrons travel through a copper wire with cross-sectional area
+0.21 cm2 and length 0.85 m.The number of charge carriers per unit
+volume is 8.49 $ 1028 m#3.
+Module 26-3 Resistance and Resistivity
+•14 A human being can be electrocuted if a current as
+small as 50 mA passes near the heart. An electrician working
+with sweaty hands makes good contact with the two conductors
+he is holding, one in each hand. If his resistance is 2000 0, what
+might the fatal voltage be?
+•15 A coil is formed by winding 250 turns of insulated
+16-gauge copper wire (diameter 1.3 mm) in a single layer
+on a cylindrical form of radius 12 cm. What is the resistance
+of the coil? Neglect the thickness of the insulation. (Use Table 26-1.)
+•16 Copper and aluminum are being considered for a
+high-voltage transmission line that must carry a current of 60.0 A.
+The resistance per unit length is to be 0.150 0/km.The densities of
+copper and aluminum are 8960 and 2600 kg/m3, respectively.
+Compute (a) the magnitude J of the current density and (b) the
+mass per unit length l for a copper cable and (c) J and (d) l for an
+aluminum cable.
+!
+SSM
+ILW
+r2s
+•17 A wire of Nichrome (a nickel –chromium– iron alloy commonly
+used in heating elements) is 1.0 m long and 1.0 mm2 in
+cross-sectional area. It carries a current of 4.0 A when a 2.0 V
+potential difference is applied between its ends. Calculate the
+conductivity s of Nichrome.
+•18 A wire 4.00 m long and 6.00 mm in diameter has a resistance
+of 15.0 m0.A potential difference of 23.0 V is applied between the
+ends. (a) What is the current in the wire? (b) What is the magnitude
+of the current density? (c) Calculate the resistivity of the wire material.
+(d) Using Table 26-1, identify the material.
+•19 What is the resistivity of a wire of 1.0 mm diameter, 2.0 m
+length, and 50 m resistance?
+•20 A certain wire has a resistance R.What is the resistance of a
+second wire, made of the same material, that is half as long and has
+half the diameter?
+••21 A common flashlight bulb is rated at 0.30 A and 2.9 V
+(the values of the current and voltage under operating conditions).
+If the resistance of the tungsten bulb filament at room temperature
+(20/C) is 1.1 0, what is the temperature of the filament when the
+bulb is on?
+••22 Kiting during a storm. The legend that Benjamin
+Franklin flew a kite as a storm approached is only a legend—he
+was neither stupid nor suicidal. Suppose a kite string of radius
+2.00 mm extends directly upward by 0.800 km and is coated with a
+0.500 mm layer of water having resistivity 150 0&m. If the potential
+difference between the two ends of the string is 160 MV, what is the
+current through the water layer? The danger is not this current but
+the chance that the string draws a lightning strike, which can have a
+current as large as 500 000 A (way beyond just being lethal).
+••23 When 115 V is applied across a wire that is 10 m long and
+has a 0.30 mm radius, the magnitude of the current density is 1.4 $
+108A/m2. Find the resistivity of the wire.
+••24 Figure 26-25a gives the magnitude E(x) of the electric
+fields that have been set up by a battery along a resistive rod of
+length 9.00 mm (Fig. 26-25b).The vertical scale is set by Es ! 4.00 $
+103 V/m.The rod consists of three sections of the same material but
+with different radii. (The schematic diagram of Fig. 26-25b does not
+indicate the different radii.) The radius of section 3 is 2.00 mm.
+What is the radius of (a) section 1 and (b) section 2?
+ILW
+0
+SSM
+x = 0
+x = 9 mm
+V
+E (103 V/m)
+Es
+0 3
+x (mm)
+6 9
+1 2 3
+(a) (b)
+Figure 26-25 Problem 24.
+••25 A wire with a resistance of 6.0 0 is drawn out
+through a die so that its new length is three times its original
+length. Find the resistance of the longer wire, assuming that the resistivity
+and density of the material are unchanged.
+••26 In Fig. 26-26a, a 9.00 V battery is connected to a resistive
+strip that consists of three sections with the same cross-sectional
+areas but different conductivities. Figure 26-26b gives the electric
+SSM ILW
+PROBLEMS 767
+electric field strength is 120 V/m and the field is directed vertically
+down.This field causes singly charged positive ions, at a density
+of 620 cm#3, to drift downward and singly charged negative
+ions, at a density of 550 cm#3, to drift upward (Fig. 26-28). The
+measured conductivity of the air in that region is 2.70 $ 10#14
+(0&m)#1. Calculate (a) the magnitude of the current density and
+(b) the ion drift speed, assumed to be the same for positive and
+negative ions.
+••33 A block in the shape of a rectangular solid has a crosssectional
+area of 3.50 cm2 across its width, a front-to-rear length
+of 15.8 cm, and a resistance of 935 0. The block’s material contains
+5.33 $ 1022 conduction electrons/m3. A potential difference
+of 35.8 V is maintained between its front and rear faces. (a) What
+is the current in the block? (b) If the current density is uniform,
+what is its magnitude? What are (c) the drift velocity of the conduction
+electrons and (d) the magnitude
+of the electric field in the
+block?
+•••34 Figure 26-29 shows wire
+section 1 of diameter D1 4.00R
+and wire section 2 of diameter D2!
+2.00R, connected by a tapered section.
+The wire is copper and carries a current. Assume that the current
+is uniformly distributed across any cross-sectional area
+through the wire’s width.The electric potential change V along the
+length L ! 2.00 m shown in section 2 is 10.0 mV. The number of
+charge carriers per unit volume is 8.49 $ 1028 m#3.What is the drift
+speed of the conduction electrons in section 1?
+•••35 In Fig. 26-30, current is set up through a truncated right
+circular cone of resistivity 731 , left radius a 2.00 mm, right
+radius b ! 2.30 mm, and length L ! 1.94 cm. Assume that the current
+density is uniform across any cross section taken perpendicular
+to the length.What is the resistance of the cone?
+0 & m !
+!
+Figure 26-26 Problem 26.
+x = 0
+x = xs
+V
+(a) (b)
+V (V)
+8
+6
+4
+2
+0
+x (mm)
+xs
+1
+2 3
++ +
++
++
++ +
++
+E
+Figure 26-28 Problem 32.
+•••36 Swimming during a
+storm. Figure 26-31 shows a swimmer
+at distance D 35.0 m from a
+lightning strike to the water, with
+current I 78 kA. The water has
+resistivity 30 0&m, the width of
+the swimmer along a radial line from
+the strike is 0.70 m, and his resistance
+across that width is 4.00 k0.
+Assume that the current spreads
+through the water over a hemisphere
+centered on the strike point.What is the current through the
+swimmer?
+Module 26-4 Ohm’s Law
+••37 Show that, according to the free-electron model of electrical
+conduction in metals and classical physics, the resistivity of metals
+should be proportional to where T is the temperature in
+kelvins. (See Eq. 19-31.)
+1T,
+!
+!
+potential V(x) versus position x along the strip. The horizontal
+scale is set by xs 8.00 mm. Section 3 has conductivity 3.00
+107 (0&m)#1.What is the conductivity of section (a) 1 and (b) 2?
+! $
+••27 Two conductors are made of the same material
+and have the same length. Conductor A is a solid wire of diameter
+1.0 mm. Conductor B is a hollow tube of outside diameter 2.0 mm
+and inside diameter 1.0 mm. What is the resistance ratio RA/RB,
+measured between their ends?
+••28 Figure 26-27 gives the
+electric potential V(x) along a copper
+wire carrying uniform current,
+from a point of higher potential
+Vs ! 12.0 mV at x ! 0 to a point of
+zero potential at xs ! 3.00 m. The
+wire has a radius of 2.00 mm.What
+is the current in the wire?
+••29 A potential difference of
+3.00 nV is set up across a 2.00 cm
+length of copper wire that has a radius of 2.00 mm. How much
+charge drifts through a cross section in 3.00 ms?
+••30 If the gauge number of a wire is increased by 6, the diameter
+is halved; if a gauge number is increased by 1, the diameter
+decreases by the factor 21/6 (see the table in Problem 4). Knowing
+this, and knowing that 1000 ft of 10-gauge copper wire has a resistance
+of approximately 1.00 0, estimate the resistance of 25 ft of
+22-gauge copper wire.
+••31 An electrical cable consists of 125 strands of fine wire, each
+having 2.65 m0 resistance. The same potential difference is
+applied between the ends of all the strands and results in a total
+current of 0.750 A. (a) What is the current in each strand?
+(b) What is the applied potential difference? (c) What is the
+resistance of the cable?
+••32 Earth’s lower atmosphere contains negative and positive
+ions that are produced by radioactive elements in the soil
+and cosmic rays from space. In a certain region, the atmospheric
+SSM WWW
+V (μ V)
+Vs
+0
+x (m)
+xs
+Figure 26-27 Problem 28.
+D1
+L
+(1)
+(2)
+D2
+Figure 26-29 Problem 34.
+Figure 26-30 Problem 35.
+L
+i i
+a b
+Figure 26-31 Problem 36.
+D
+Δr
+768 CHAPTER 26 CURRENT AND RESISTANCE
+Module 26-5 Power, Semiconductors, Superconductors
+•38 In Fig. 26-32a, a 20 0 resistor is connected to a battery.
+Figure 26-32b shows the increase of thermal energy Eth in the
+resistor as a function of time t. The vertical scale is set by Eth,s !
+2.50 mJ, and the horizontal scale is set by ts ! 4.0 s.What is the
+electric potential across the battery?
+has a 2.60 $ 10#6 m2 cross section. Nichrome has a resistivity of
+5.00 $ 10#7 0&m. (a) If the element dissipates 5000 W, what is its
+length? (b) If 100 V is used to obtain the same dissipation rate,
+what should the length be?
+••48 Exploding shoes. The rain-soaked shoes of a person
+may explode if ground current from nearby lightning vaporizes
+the water. The sudden conversion of water to water vapor
+causes a dramatic expansion that can rip apart shoes.Water has
+density 1000 kg/m3 and requires 2256 kJ/kg to be vaporized. If
+horizontal current lasts 2.00 ms and encounters water with resistivity
+150 0&m, length 12.0 cm, and vertical cross-sectional area
+15 $ 10#5 m2, what average current is required to vaporize the
+water?
+••49 A 100 W lightbulb is plugged into a standard 120 V outlet.
+(a) How much does it cost per 31-day month to leave the light
+turned on continuously? Assume electrical energy costs
+US$0.06/kW &h. (b) What is the resistance of the bulb? (c) What
+is the current in the bulb?
+••50 The current through the battery and resistors 1 and 2 in
+Fig. 26-34a is 2.00 A. Energy is transferred from the current to
+thermal energy Eth in both resistors. Curves 1 and 2 in Fig. 26-34b
+give that thermal energy Eth for resistors 1 and 2, respectively, as
+a function of time t. The vertical scale is set by Eth,s 40.0 mJ,
+and the horizontal scale is set by ts 5.00 s.What is the power of
+the battery?
+!
+!
+•39 A certain brand of hot-dog cooker works by applying a
+potential difference of 120 V across opposite ends of a hot dog
+and allowing it to cook by means of the thermal energy
+produced. The current is 10.0 A, and the energy required to
+cook one hot dog is 60.0 kJ. If the rate at which energy is
+supplied is unchanged, how long will it take to cook three hot
+dogs simultaneously?
+•40 Thermal energy is produced in a resistor at a rate of 100 W
+when the current is 3.00 A.What is the resistance?
+•41 A 120 V potential difference is applied to a space heater
+whose resistance is 14 when hot. (a) At what rate is electrical energy
+transferred to thermal energy? (b) What is the cost for 5.0 h at
+US$0.05/kW&h?
+•42 In Fig. 26-33, a battery of potential difference
+V ! 12 V is connected to a resistive
+strip of resistance R ! 6.0 0.When an electron
+moves through the strip from one end
+to the other, (a) in which direction in the figure
+does the electron move, (b) how much
+work is done on the electron by the electric
+field in the strip, and (c) how much energy is transferred to the
+thermal energy of the strip by the electron?
+•43 An unknown resistor is connected between the terminals
+of a 3.00 V battery. Energy is dissipated in the resistor
+at the rate of 0.540 W. The same resistor is then connected
+between the terminals of a 1.50 V battery. At what rate is energy
+now dissipated?
+•44 A student kept his 9.0 V, 7.0 W radio turned on at full volume
+from 9:00 P.M. until 2:00 A.M. How much charge went through it?
+•45 A 1250 W radiant heater is constructed to operate
+at 115 V. (a) What is the current in the heater when the unit is operating?
+(b) What is the resistance of the heating coil? (c) How much
+thermal energy is produced in 1.0 h?
+••46 A copper wire of cross-sectional area 2.00 $ 10#6 m2 and
+length 4.00 m has a current of 2.00 A uniformly distributed across
+that area. (a) What is the magnitude of the electric field along the
+wire? (b) How much electrical energy is transferred to thermal
+energy in 30 min?
+••47 A heating element is made by maintaining a potential
+difference of 75.0 V across the length of a Nichrome wire that
+SSM ILW
+ILW
+0
+SSM
+V R
+Figure 26-33
+Problem 42.
+Figure 26-34 Problem 50.
+R1
+R2
+Eth,s
+0
+t (s)
+ts
+Eth (mJ)
+1
+(a) 2
+(b)
+Figure 26-32 Problem 38.
+R
+(a) (b)
+Eth (mJ)
+Eth,s
+0 ts
+t (s)
+••51 Wire C and
+wire D are made from different
+materials and have length LC ! LD
+! 1.0 m.The resistivity and diameter
+of wire C are 2.0 $ 10#6 0&m
+and 1.00 mm, and those of wire D
+are 1.0 $ 10#6 0&m and 0.50 mm.
+The wires are joined as shown in Fig. 26-35, and a current of 2.0
+A is set up in them.What is the electric potential difference between
+(a) points 1 and 2 and (b) points 2 and 3? What is the rate
+at which energy is dissipated between (c) points 1 and 2 and
+(d) points 2 and 3?
+••52 The current-density magnitude in a certain circular wire is
+J (2.75 1010 A/m4)r2, where r is the radial distance out to the
+wire’s radius of 3.00 mm.The potential applied to the wire (end to
+end) is 60.0 V. How much energy is converted to thermal energy in
+1.00 h?
+••53 A 120 V potential difference is applied to a space heater that
+dissipates 500 W during operation. (a) What is its resistance during
+operation? (b) At what rate do electrons flow through any cross
+section of the heater element?
+! $
+SSM WWW
+Figure 26-35 Problem 51.
+C
+D
+LC LD
+1 2 3
+PROBLEMS 769
+•••54 Figure 26-36a shows a rod
+of resistive material. The resistance
+per unit length of the rod increases
+in the positive direction of the x axis.
+At any position x along the rod, the
+resistance dR of a narrow (differential)
+section of width dx is given by
+dR ! 5.00x dx, where dR is in ohms
+and x is in meters. Figure 26-36b
+shows such a narrow section. You are to slice off a length of the rod
+between x 0 and some position x Land then connect that length
+to a battery with potential difference V 5.0 V (Fig. 26-36c). You
+want the current in the length to transfer energy to thermal energy
+at the rate of 200W. At what position x ! L should you cut the rod?
+
+
+Emf An emf device does work on charges to maintain a potential
+difference between its output terminals. If dW is the work the device
+does to force positive charge dq from the negative to the positive terminal,
+then the emf (work per unit charge) of the device is
+(definition of #). (27-1)
+The volt is the SI unit of emf as well as of potential difference.An ideal
+emf device is one that lacks any internal resistance.The potential difference
+between its terminals is equal to the emf. A real emf device
+has internal resistance.The potential difference between its terminals
+is equal to the emf only if there is no current through the device.
+Analyzing Circuits The change in potential in traversing a
+resistance R in the direction of the current is #iR; in the opposite
+direction it is %iR (resistance rule).The change in potential in traversing
+an ideal emf device in the direction of the emf arrow is %#;
+in the opposite direction it is ## (emf rule). Conservation of
+energy leads to the loop rule:
+Loop Rule. The algebraic sum of the changes in potential encountered
+in a complete traversal of any loop of a circuit must be zero.
+Conservation of charge gives us the junction rule:
+Junction Rule. The sum of the currents entering any junction
+must be equal to the sum of the currents leaving that junction.
+Single-Loop Circuits The current in a single-loop circuit containing
+a single resistance R and an emf device with emf # and internal
+resistance r is
+(27-4)
+which reduces to i ! #/R for an ideal emf device with r ! 0.
+Power When a real battery of emf # and internal resistance r
+does work on the charge carriers in a current i through the battery,
+the rate P of energy transfer to the charge carriers is
+P ! iV, (27-14)
+i !
+#
+R % r
+,
+# !
+dW
+dq
+Review & Summary
+where V is the potential across the terminals of the battery.The rate
+Pr at which energy is dissipated as thermal energy in the battery is
+Pr ! i2r. (27-16)
+The rate Pemf at which the chemical energy in the battery changes is
+Pemf ! i#. (27-17)
+Series Resistances When resistances are in series, they have
+the same current. The equivalent resistance that can replace a series
+combination of resistances is
+(n resistances in series). (27-7)
+Parallel Resistances When resistances are in parallel,
+they have the same potential difference. The equivalent resistance
+that can replace a parallel combination of resistances is given by
+(n resistances in parallel). (27-24)
+RC Circuits When an emf # is applied to a resistance R and capacitance
+C in series, as in Fig. 27-15 with the switch at a, the charge
+on the capacitor increases according to
+q ! C#(1 # e#t/RC) (charging a capacitor), (27-33)
+in which C#!q0 is the equilibrium (final) charge and RC!t is the capacitive
+time constant of the circuit. During the charging, the current is
+(charging a capacitor). (27-34)
+When a capacitor discharges through a resistance R, the charge on
+the capacitor decays according to
+q ! q0e#t/RC (discharging a capacitor). (27-39)
+During the discharging, the current is
+i ! (discharging a capacitor). (27-40)
+
+
+
+In Fig. 27-25, the ideal
+batteries have emfs V and
+V. What are (a) the current,
+the dissipation rate in (b) resistor 1 (4.0
+) and (c) resistor 2 (8.0 0), and the energy
+transfer rate in (d) battery 1 and
+(e) battery 2? Is energy being supplied
+or absorbed by (f) battery 1 and (g) battery
+2?
+•2 In Fig. 27-26, the ideal batteries
+have emfs #1 ! 150 V and #2 ! 50 V
+and the resistances are R1 ! 3.0 0 and
+R2 ! 2.0 0. If the potential at P is 100 V,
+what is it at Q?
+•3 A car battery with a 12 V emf
+and an internal resistance of 0.040 is
+being charged with a current of 50 A.
+What are (a) the potential difference V across the terminals, (b)
+the rate Pr of energy dissipation inside the battery, and (c) the rate
+Pemf of energy conversion to chemical form? When the battery is
+used to supply 50 A to the starter motor, what are (d) V and (e) Pr?
+•4 Figure 27-27 shows a circuit of four resistors that are connected
+to a larger circuit. The graph below the circuit shows the
+electric potential V(x) as a function of position x along the lower
+branch of the circuit, through resistor 4; the potential VA is 12.0 V.
+The graph above the circuit shows the electric potential V(x)
+versus position x along the upper branch of the circuit, through
+resistors 1, 2, and 3; the potential differences are 'VB ! 2.00 V and
+'VC ! 5.00 V. Resistor 3 has a resistance of 200 0. What is the
+resistance of (a) resistor 1 and (b) resistor 2?
+0
+ILW
+0
+#2 ! 6.0
+#1 ! 12
+SSM WWW
+–
++
+– +
+1
+2
+R1
+R2
+Figure 27-25
+Problem 1.
+–
++
+–
++
+Q
+P
+R1
+R2
+1 2
+Figure 27-26 Problem 2.
+•6 A standard flashlight battery can deliver about 2.0W&h of
+energy before it runs down. (a) If a battery costs US$0.80, what is
+the cost of operating a 100 W lamp for 8.0 h using batteries?
+(b)What is the cost if energy is provided at the rate of US$0.06 per
+kilowatt-hour?
+•7 A wire of resistance 5.0 0 is connected to a battery whose emf
+# is 2.0 V and whose internal resistance is 1.0 0. In 2.0min, how
+much energy is (a) transferred from chemical form in the battery,
+(b) dissipated as thermal energy in the wire, and (c) dissipated as
+thermal energy in the battery?
+•8 A certain car battery with a 12.0 V emf has an initial charge of
+120 A&h. Assuming that the potential across the terminals stays
+constant until the battery is completely discharged, for how many
+hours can it deliver energy at the rate of 100 W?
+•9 (a) In electron-volts, how much work does an ideal battery
+with a 12.0 V emf do on an electron that passes through the battery
+from the positive to the negative terminal? (b) If 3.40 $ 1018 electrons
+pass through each second, what is the power of the battery in
+watts?
+••10 (a) In Fig. 27-28, what value
+must R have if the current in the
+circuit is to be 1.0 mA? Take #1! 2.0
+V, #2 ! 3.0 V, and r1 ! r2 ! 3.0 0. (b)
+What is the rate at which thermal energy
+appears in R?
+••11 In Fig. 27-29, circuit section
+AB absorbs energy at a rate of
+50 W when current i ! 1.0 A
+through it is in the indicated
+direction. Resistance R ! 2.0 0. (a)
+What is the potential difference between
+A and B? Emf device X lacks
+internal resistance. (b) What is its
+emf? (c) Is point B connected to the positive terminal of X or to
+the negative terminal?
+••12 Figure 27-30 shows a resistor of resistance
+R ! 6.00 0 connected to an ideal battery
+of emf # ! 12.0 V by means of two copper
+wires. Each wire has length 20.0 cm and radius
+1.00 mm. In dealing with such circuits in this
+chapter, we generally neglect the potential
+differences along the wires and the transfer of
+energy to thermal energy in them. Check
+the validity of this neglect for the circuit of
+Fig. 27-30: What is the potential difference
+across (a) the resistor and (b) each of the two sections of wire?
+At what rate is energy lost to thermal energy in (c) the resistor
+and (d) each section of wire?
+••13 A 10-km-long underground cable extends east to west and
+consists of two parallel wires, each of which has resistance 13 /km.
+An electrical short develops at distance x from the west end when
+0
+SSM
+–
++
+r1
+1 –
++
+r2
+2
+R
+Figure 27-28 Problem 10.
+X
+i
+A R B
+Figure 27-29 Problem 11.
+Wire 1
+Wire 2
+R
+Figure 27-30
+Problem 12.
+•21 Four 18.0 0 resistors are connected
+in parallel across a 25.0 V
+ideal battery. What is the current
+through the battery?
+•22 Figure 27-34 shows five 5.00 0
+resistors. Find the equivalent resistance
+between points (a) F and H and
+(b) F and G. (Hint: For each pair of
+points, imagine that a battery is connected
+across the pair.)
+•23 In Fig. 27-35, R1 ! 100 0, R2 !
+50 0, and the ideal batteries have
+emfs #1 ! 6.0 V, #2 ! 5.0 V, and
+#3 ! 4.0 V. Find (a) the current in resistor
+1, (b) the current in resistor 2,
+and (c) the potential difference between
+points a and b.
+•24 In Fig. 27-36, R1 ! R2 ! 4.00 0
+and R3 ! 2.50 0. Find the equivalent
+resistance between points D and E.
+(Hint: Imagine that a battery is connected
+across those points.)
+•25 Nine copper wires of length
+l and diameter d are connected in parallel
+to form a single composite conductor
+of resistance R. What must be
+the diameter D of a single copper wire
+of length l if it is to have the same resistance?
+••26 Figure 27-37 shows a battery
+connected across a uniform resistor
+R0.A sliding contact can move across
+the resistor from x ! 0 at the left to
+x ! 10 cm at the right. Moving
+the contact changes how much resistance
+is to the left of the contact and
+how much is to the right. Find the
+rate at which energy is dissipated in
+resistor R as a function of x. Plot the
+function for # ! 50 V, R ! 2000 0,
+and R0 ! 100 0.
+••27 Side flash. Figure 27-38
+indicates one reason no one should
+stand under a tree during a lightning
+storm. If lightning comes down the
+side of the tree, a portion can jump
+over to the person, especially if the
+current on the tree reaches a dry region
+on the bark and thereafter must
+travel through air to reach the
+ground. In the figure, part of the lightning jumps through distance
+d in air and then travels through the person (who has negligible
+resistance relative to that of air because of the highly conducting
+salty fluids within the body).The rest of the current travels through
+air alongside the tree, for a distance h. If d/h ! 0.400 and the total
+current is I ! 5000 A, what is the current through the person?
+••28 The ideal battery in Fig. 27-39a has emf # ! 6.0 V. Plot 1 in
+Fig. 27-39b gives the electric potential difference V that can appear
+across resistor 1 versus the current i in that resistor when the resistor
+SSM
+a conducting path of resistance R
+connects the wires (Fig. 27-31). The
+resistance of the wires and the short
+is then 100 0 when measured from
+the east end and 200 0 when measured
+from the west end. What are
+(a) x and (b) R?
+••14 In Fig. 27-32a, both batteries have emf # ! 1.20 V and the
+external resistance R is a variable resistor. Figure 27-32b gives the
+electric potentials V between the terminals of each battery as functions
+of R: Curve 1 corresponds to battery 1, and curve 2 corresponds
+to battery 2.The horizontal scale is set by Rs ! 0.20 0.What
+is the internal resistance of (a) battery 1 and (b) battery 2?
+796 CHAPTER 27 CIRCUITS
+R
+1
+2
+1
+2
+Rs
+R (Ω)
+0.5
+0
+–0.3
+V (V)
+(a) (b)
+–
++
+–
++
+Figure 27-32 Problem 14.
+West East
+Conducting
+path
+x
+Figure 27-31 Problem 13.
+x
++ –
+R
+R0
+Sliding
+contact
+Figure 27-37 Problem 26.
+G
+F H
+R R
+R
+R R
+Figure 27-34 Problem 22.
+R2
++ –
+1
+R1
++ – + –
+2 3
+a b
+Figure 27-35 Problem 23.
+R2 R3
+D
+E
+R1
+Figure 27-36 Problem 24.
+h
+d
+I
+Lightning
+current
+Figure 27-38 Problem 27.
+••15 The current in a single-loop circuit with one resistance R
+is 5.0 A.When an additional resistance of 2.0 is inserted in series
+with R, the current drops to 4.0 A.What is R?
+•••16 A solar cell generates a potential difference of 0.10 V when
+a 500 0 resistor is connected across it, and a potential difference of
+0.15 V when a 1000 0 resistor is substituted.What are the (a) internal
+resistance and (b) emf of the solar cell? (c) The area of the cell is
+5.0 cm2, and the rate per unit area at which it receives energy from
+light is 2.0 mW/cm2.What is the efficiency of the cell for converting
+light energy to thermal energy in the 1000 0 external resistor?
+•••17 In Fig. 27-33, battery 1 has emf
+V and internal resistance r1
+0.016 and battery 2 has emf V
+and internal resistance r2 0.012 . The
+batteries are connected in series with an external
+resistance R. (a) What R value makes
+the terminal-to-terminal potential difference
+of one of the batteries zero? (b) Which
+battery is that?
+Module 27-2 Multiloop Circuits
+•18 In Fig. 27-9, what is the potential difference Vd # Vc between
+points d and c if #1 ! 4.0 V, #2 ! 1.0 V, R1 ! R2 ! 10 0, and R3 !
+5.0 0, and the battery is ideal?
+•19 A total resistance of 3.00 0 is to be produced by connecting
+an unknown resistance to a 12.0 0 resistance. (a) What must be the
+value of the unknown resistance, and (b) should it be connected in
+series or in parallel?
+•20 When resistors 1 and 2 are connected in series, the equivalent
+resistance is 16.0 0. When they are connected in parallel, the
+equivalent resistance is 3.0 0.What are (a) the smaller resistance
+and (b) the larger resistance of these two resistors?
+! 0
+0 #2 ! 12.0
+#1 ! 12.0 !
+SSM
+0
+ILW
+R
+r1
+r2
+–
++
+–
++
+1
+2
+Figure 27-33
+Problem 17.
+PROBLEMS 797
+battery is opposite the direction of that battery’s emf.What are (a)
+emf #1, (b) resistance R1, and (c) resistance R2?
+••33 In Fig. 27-44, the current in resistance 6 is i6 ! 1.40 A
+and the resistances are R1 R2 R3 2.00 , R4 16.0 , R5
+8.00 0, and R6 ! 4.00 0.What is the emf of the ideal battery?
+! ! ! 0 ! 0 !
+is individually tested by putting a variable potential across it. The
+scale of the V axis is set by Vs ! 18.0 V, and the scale of the i axis is
+set by is ! 3.00 m1. Plots 2 and 3 are similar plots for resistors 2
+and 3, respectively, when they are individually tested by putting a
+variable potential across them.What is the current in resistor 2 in
+the circuit of Fig. 27-39a?
+••34 The resistances in Figs. 27-45a and b are all 6.0 0, and the batteries
+are ideal 12 V batteries. (a) When switch S in Fig. 27-45a is closed,
+what is the change in the electric potential V1 across resistor 1, or does
+V1 remain the same? (b) When switch S in Fig. 27-45b is closed, what is
+the change in V1 across resistor 1, or does V1 remain the same?
+••35 In Fig. 27-46, # ! 12.0 V,
+R1 2000 , R2 3000 , and
+R3 4000 .What are the potential
+differences (a) VA VB, (b) VB # VC,
+(c) VC # VD, and (d) VA # VC?
+••36 In Fig. 27-47, V,
+V, R1 100 ,
+and R3 300 . One point of the circuit
+is grounded (V ! 0). What are
+the (a) size and (b) direction (up or
+down) of the current through resistance
+1, the (c) size and (d) direction
+(left or right) of the current through
+resistance 2, and the (e) size and
+(f) direction of the current through
+resistance 3? (g) What is the electric
+potential at point A?
+••37 In Fig. 27-48, the resistances
+are R1 ! 2.00 0, R2 ! 5.00 0, and the
+battery is ideal. What value of R3
+maximizes the dissipation rate in
+resistance 3?
+••38 Figure 27-49 shows a section of
+a circuit. The resistances are R1 ! 2.0
+0,R2 ! 4.0 0, and R3 ! 6.0 0, and the
+indicated current is i ! 6.0 A.
+The electric potential difference between
+points A and B that connect
+the section to the rest of the circuit is
+VA # VB ! 78 V. (a) Is the device represented
+by “Box” absorbing or providing
+energy to the circuit, and (b) at
+what rate?
+! 0
+#2 ! 12.0 ! 0 R2 ! 200 0,
+#1 ! 6.00
+#
+! 0
+! 0 ! 0
+V (V)
+Vs
+0
+1
+i (mA)
+2
+is
+3
+(b)
+R1 R2
+R3
+(a)
++
+–
+Figure 27-39 Problem 28.
+2 (V)
+Current (A)
+is
+0
+–is
+5 10
+(b)
+2
+1
+R2
+R1
+(a)
++–+–
+Figure 27-43 Problem 32.
+i1
+R1
+R2
+R2
+R2
++ –
+Figure 27-40 Problem 29.
+Figure 27-42 Problem 31.
++–
+2 R3
++–
+1
+R1 R2
+Figure 27-41 Problems 30, 41,
+and 88.
+V2 V1
+1
++
+–
+2
++
+–
+••29 In Fig. 27-40, R1 ! 6.00 0,
+R2 ! 18.0 0, and the ideal battery
+has emf # ! 12.0 V. What are the
+(a) size and (b) direction (left or
+right) of current i1? (c) How much
+energy is dissipated by all four resistors
+in 1.00 min?
+••30 In Fig. 27-41, the ideal
+batteries have emfs V and
+2 0.500 1, and the resistances are
+each 4.00 . What is the current in
+(a) resistance 2 and (b) resistance 3?
+••31 In Fig. 27-42, the
+ideal batteries have emfs 1 5.0 V
+and V, the resistances are
+each 2.0 , and the potential is defined
+to be zero at the grounded
+point of the circuit.What are potentials
+(a) V1 and (b) V2 at the indicated
+points?
+••32 Both batteries in Fig. 27-43a
+are ideal. Emf #1 of battery 1 has a
+fixed value, but emf #2 of battery 2
+can be varied between 1.0 V and 10
+V. The plots in Fig. 27-43b give the
+currents through the two batteries as
+a function of #2. The vertical scale is
+set by is ! 0.20 A. You must decide
+0
+#2 ! 12
+# !
+SSM
+0
+# ! #
+#1 ! 10.0
+which plot corresponds to which battery, but for both plots, a negative
+current occurs when the direction of the current through the
+(a) (b)
+R1 R2
+S
+R1 R2
+R3
+S
++–
++–
+R1 R2 R5
+R3 R4 i6 R6
++–
+Figure 27-44 Problem 33.
+Figure 27-45 Problem 34.
+R1
+R1
+R3
+R2
+R2
+A
+B
+D
+C
++
+–
+1 R1 2
+R2 R3
+A
++
+–
++
+–
+Figure 27-46 Problem 35.
+Figure 27-47 Problem 36.
++–
+R2 R3
+R1
+Figure 27-48 Problems 37
+and 98.
+Box
+A B
+i
+R1
+R2
+R3
+Figure 27-49 Problem 38.
+•••47 SSM A copper wire of radius a ! 0.250 mm has an alu-
+798 CHAPTER 27 CIRCUITS
+through the battery as a function of R3. The horizontal scale is
+set by R3s ! 20 0.The curve has an asymptote of 2.0 mA as R3:
+,.What are (a) resistance R1 and (b) resistance R2?
+••39 In Fig. 27-50, two batteries with an
+emf V and an internal resistance
+r ! 0.300 0 are connected in parallel across
+a resistance R. (a) For what value of R is the
+dissipation rate in the resistor a maximum?
+(b)What is that maximum?
+••40 Two identical batteries of emf # !
+12.0 V and internal resistance r 0.200 are
+to be connected to an external resistance R,
+either in parallel (Fig. 27-50) or in series
+(Fig. 27-51). If R ! 2.00r, what is the current i
+in the external resistance in the (a) parallel
+and (b) series arrangements? (c) For which
+arrangement is i greater? If R !
+r/2.00, what is i in the external resistance
+in the (d) parallel arrangement
+and (e) series arrangement? (f) For
+which arrangement is i greater now?
+••41 In Fig. 27-41, #1 ! 3.00 V, #2 !
+1.00 V, R1 ! 4.00 0, R2 ! 2.00 0, R3 !
+5.00 0, and both batteries are ideal.
+What is the rate at which energy is dissipated
+in (a) R1, (b) R2, and (c) R3? What is the power of (d) battery
+1 and (e) battery 2?
+••42 In Fig. 27-52, an array of n parallel
+resistors is connected in series to
+a resistor and an ideal battery. All the
+resistors have the same resistance. If
+an identical resistor were added in
+parallel to the parallel array, the current
+through the battery would
+change by 1.25%. What is the value
+of n?
+••43 You are given a number of 10 0 resistors, each capable of
+dissipating only 1.0 W without being destroyed.What is the minimum
+number of such resistors that you need to combine in series
+or in parallel to make a 10 0 resistance
+that is capable of dissipating at
+least 5.0 W?
+••44 In Fig. 27-53, R1 100 ,
+R2 R3 50.0 , R4 75.0 , and
+the ideal battery has emf # ! 6.00 V.
+(a) What is the equivalent resistance?
+What is i in (b) resistance 1, (c) resistance
+2, (d) resistance 3, and (e) resistance
+4?
+••45 In Fig. 27-54, the resistances
+are R1 1.0 and R2 2.0 ,
+and the ideal batteries have emfs
+#1 ! 2.0 V and #2 ! #3 ! 4.0 V.What
+are the (a) size and (b) direction (up
+or down) of the current in battery 1,
+the (c) size and (d) direction of the
+current in battery 2, and the (e) size
+and (f) direction of the current in battery 3? (g) What is the potential
+difference Va # Vb?
+••46 In Fig. 27-55a, resistor 3 is a variable resistor and the ideal
+battery has emf # ! 12 V. Figure 27-55b gives the current i
+! 0 ! 0
+ILW
+! ! 0 ! 0
+! 0
+! 0
+# ! 12.0
++ –
++ –
+r
+r
+R
+Figure 27-50
+Problems 39
+and 40.
++ – + –
+r r
+R
+R R
+R
+n resistors
+in parallel
+R2 R3
+R1
+i (mA)
+6
+4
+2
+0
+R3 (Ω)
+R3s
+(a) (b)
++–
++–
+3
+R1 +–
+2
+R2 +–
+1
+R1 R1
+R1
+a
+b
+R2
++–
+R1
+R3
+R4
+Figure 27-53
+Problems 44 and 48.
+Figure 27-51 Problem 40.
+Figure 27-52 Problem 42.
+Figure 27-54 Problem 45.
+Figure 27-55 Problem 46.
+minum jacket of outer radius b 0.380 mm.There is a current i !
+2.00 A in the composite wire. Using Table 26-1, calculate the current
+in (a) the copper and (b) the aluminum. (c) If a potential difference
+V ! 12.0 V between the ends maintains the current, what
+is the length of the composite wire?
+•••48 In Fig. 27-53, the resistors have the values R1 ! 7.00 0,
+!
+R2 12.0 , and R3 4.00 , and the ideal battery’s emf is
+# ! 24.0 V. For what value of R4 will the rate at which the battery
+transfers energy to the resistors equal (a) 60.0W, (b) the maximum
+possible rate Pmax, and (c) the minimum possible rate Pmin? What
+are (d) Pmax and (e) Pmin?
+Module 27-3 The Ammeter and
+the Voltmeter
+••49 (a) In Fig. 27-56, what current
+does the ammeter read if
+5.0 V (ideal battery), R1 ! 2.0 0, R2 !
+4.0 0, and R3 ! 6.0 0? (b) The ammeter
+and battery are now interchanged.
+Show that the ammeter
+reading is unchanged.
+••50 In Fig. 27-57, R1 2.00R, the
+ammeter resistance is zero, and the
+battery is ideal.What multiple of #/R
+gives the current in the ammeter?
+••51 In Fig. 27-58, a voltmeter of
+resistance RV ! 300 0 and an ammeter
+of resistance RA ! 3.00 0 are
+being used to measure a resistance
+R in a circuit that also contains a resistance
+R0 ! 100 0 and an ideal
+battery with an emf of # ! 12.0 V.
+Resistance R is given by R ! V/i,
+where V is the potential across R
+and i is the ammeter reading. The
+voltmeter reading is V-, which is
+V plus the potential difference
+across the ammeter. Thus, the ratio
+of the two meter readings is not R but only an apparent resistance
+R- ! V-/i. If R ! 85.0 0, what are (a) the ammeter reading,
+(b) the voltmeter reading, and (c) R-? (d) If RA is decreased,
+does the difference between R- and R increase, decrease, or
+remain the same?
+••52 A simple ohmmeter is made by connecting a 1.50 V flashlight
+battery in series with a resistance R and an ammeter that
+!
+# !
+ILW
+! 0 ! 0
++–
+R3
+A
+R2
+R1
+Figure 27-56 Problem 49.
++–
+R
+A
+R
+R
+R1
+Figure 27-57 Problem 50.
++ –
+R
+R0
+V
+A
+Figure 27-58 Problem 51.
+PROBLEMS 799
+Module 27-4 RC Circuits
+•57 Switch S in Fig. 27-63 is closed at
+time t ! 0, to begin charging an initially
+uncharged capacitor of capacitance C !
+15.0 mF through a resistor of resistance
+R ! 20.0 0. At what time is the potential
+across the capacitor equal to that across
+the resistor?
+•58 In an RC series circuit, emf # ! 12.0 V, resistance R !
+1.40 M0, and capacitance C ! 1.80 mF. (a) Calculate the time constant.
+(b) Find the maximum charge that will appear on the capacitor
+during charging. (c) How long does it take for the charge to
+build up to 16.0 mC?
+•59 What multiple of the time constant t gives the time
+taken by an initially uncharged capacitor in an RC series circuit to
+be charged to 99.0% of its final charge?
+•60 A capacitor with initial charge q0 is discharged through a
+resistor. What multiple of the time constant t gives the time the
+capacitor takes to lose (a) the first one-third of its charge and
+(b) two-thirds of its charge?
+•61 A 15.0 k0 resistor and a capacitor are connected in series,
+and then a 12.0 V potential difference is suddenly applied
+across them. The potential difference across the capacitor rises to
+5.00 V in 1.30 ms. (a) Calculate the time constant of the circuit.
+(b) Find the capacitance of the capacitor.
+••62 Figure 27-64 shows the circuit of
+a flashing lamp, like those attached to
+barrels at highway construction sites.
+The fluorescent lamp L (of negligible
+capacitance) is connected in parallel
+across the capacitor C of an RC circuit.
+There is a current through the lamp
+only when the potential difference
+across it reaches the breakdown voltage
+VL; then the capacitor discharges completely through the lamp
+and the lamp flashes briefly. For a lamp with breakdown voltage
+VL ! 72.0 V, wired to a 95.0 V ideal battery and a 0.150 mF capacitor,
+what resistance R is needed for two flashes per second?
+••63 SSM WWW In the circuit of Fig.
+ILW
+SSM
+reads from 0 to 1.00 mA, as shown in
+Fig. 27-59. Resistance R is adjusted
+so that when the clip leads are
+shorted together, the meter deflects
+to its full-scale value of 1.00 mA.
+What external resistance across the
+leads results in a deflection of (a)
+10.0%, (b) 50.0%, and (c) 90.0% of full scale? (d) If the ammeter
+has a resistance of 20.0 0 and the internal resistance of the battery
+is negligible, what is the value of R?
+••53 In Fig. 27-14, assume that # ! 3.0 V, r ! 100 0, R1 ! 250 0,
+and R2 ! 300 0. If the voltmeter resistance RV is 5.0 k0, what percent
+error does it introduce into the measurement of the potential
+difference across R1? Ignore the presence of the ammeter.
+••54 When the lights of a car are
+switched on, an ammeter in series with
+them reads 10.0 A and a voltmeter
+connected across them reads 12.0 V (Fig.
+27-60).When the electric starting motor is
+turned on, the ammeter reading drops to
+8.00 A and the lights dim somewhat. If the
+internal resistance of the battery is 0.0500
+0 and that of the ammeter is negligible,
+what are (a) the emf of the battery and (b)
+the current through the starting motor
+when the lights are on?
+••55 In Fig. 27-61, Rs is to be adjusted in
+value by moving the sliding contact across
+it until points a and b are brought to the
+same potential. (One tests for this condition by momentarily connecting
+a sensitive ammeter between
+a and b; if these points are at
+the same potential, the ammeter
+will not deflect.) Show that when
+this adjustment is made, the following
+relation holds: Rx ! RsR2/R1.
+An unknown resistance (Rx) can be
+measured in terms of a standard
+(Rs) using this device, which is
+called a Wheatstone bridge.
+••56 In Fig. 27-62, a voltmeter of
+resistance RV ! 300 0 and an ammeter
+of resistance RA ! 3.00 0
+are being used to measure a resistance
+R in a circuit that also contains
+a resistance R0 ! 100 0 and
+an ideal battery of emf # ! 12.0 V.
+Resistance R is given by R ! V/i,
+where V is the voltmeter reading
+and i is the current in resistance R.
+However, the ammeter reading is
+not i but rather i-, which is i plus the
+current through the voltmeter.
+Thus, the ratio of the two meter
+readings is not R but only an appar-
+Figure 27-59 Problem 52.
++ –
+0–1.00
+mA
+R
+V
++
+–
+S
+S
+Starting
+motor
+Lights
+A
+r
+Figure 27-60
+Problem 54.
++ – R0
+b
+a
+Rs Rx
+R1 R2
+Sliding contact
+Figure 27-61 Problem 55.
++ –
+R
+R0
+V
+A
+Figure 27-62 Problem 56.
+ent resistance R- ! V/i-. If R ! 85.0 0, what are (a) the ammeter
+reading, (b) the voltmeter reading, and (c) R-? (d) If RV is increased,
+does the difference between R- and R increase, decrease,
+or remain the same?
+C
+R
+S
++–
+Figure 27-63 Problems
+57 and 96.
++–
+R
+C L
+Figure 27-64
+Problem 62.
+C
++
+–
+S
+R3
+R2
+R1
+Figure 27-65 Problem 63.
+27-65, kV, C 6.5 mF, R1 !
+R2 ! R3 ! 0.73 M0. With C completely
+uncharged, switch S is suddenly closed
+(at t ! 0). At t ! 0, what are (a) current
+i1 in resistor 1, (b) current i2 in resistor 2,
+and (c) current i3 in resistor 3? At t!,
+(that is, after many time constants),
+# ! 1.2 !
+what are (d) i1, (e) i2, and (f) i3? What is the potential difference V2
+across resistor 2 at (g) t ! 0 and (h) t!,? (i) Sketch V2 versus t between
+these two extreme times.
+••64 A capacitor with an initial potential difference of 100 V is discharged
+through a resistor when a switch between them is closed at
+t ! 0.At t ! 10.0 s, the potential difference
+across the capacitor is 1.00 V. (a)
+What is the time constant of the
+circuit? (b)What is the potential difference
+across the capacitor at t ! 17.0 s?
+••65 In Fig. 27-66, R1 ! 10.0 k0,
+R2 ! 15.0 k0, C ! 0.400 mF, and the
++
+– R2
+R1
+C
+Figure 27-66
+Problems 65 and 99.
+800 CHAPTER 27 CIRCUITS
+73 Wires A and B, having equal lengths of 40.0m and equal
+diameters of 2.60 mm, are connected in series. A potential
+difference of 60.0 V is applied between the ends of the composite
+wire. The resistances are RA ! 0.127 0 and RB ! 0.729 0. For wire
+A, what are (a) magnitude J of the current density and (b) potential
+difference V? (c) Of what type material is wire A made (see
+Table 26-1)? For wire B, what are (d) J and (e) V? (f) Of what type
+material is B made?
+74 What are the (a) size and (b) direction (up or down) of current
+i in Fig. 27-71, where all resistances are 4.0 0 and all batteries
+are ideal and have an emf of 10 V? (Hint: This can be answered using
+only mental calculation.)
+ideal battery has emf V. First, the switch is closed a long SSM
+time so that the steady state is reached. Then the switch is opened
+at time t ! 0.What is the current in resistor 2 at t ! 4.00 ms?
+••66 Figure 27-67 displays two circuits
+with a charged capacitor that
+is to be discharged through a resistor
+when a switch is closed. In Fig.
+27-67a, R1 ! 20.0 0 and C1 ! 5.00
+mF. In Fig. 27-67b, R2 ! 10.0 0 and
+C2 ! 8.00 mF. The ratio of the initial
+charges on the two capacitors is
+q02/q01 ! 1.50. At time t ! 0, both switches are closed. At what
+time t do the two capacitors have the same charge?
+••67 The potential difference between the plates of a leaky
+(meaning that charge leaks from one plate to the other) 2.0 mF
+capacitor drops to one-fourth its initial value in 2.0 s. What is the
+equivalent resistance between the capacitor plates?
+••68 A 1.0 mF capacitor with an initial stored energy of 0.50 J is
+discharged through a 1.0 M0 resistor. (a) What is the initial charge
+on the capacitor? (b) What is the current through the resistor when
+the discharge starts? Find an expression that gives, as a function of
+time t, (c) the potential difference VC across the capacitor, (d) the
+potential difference VR across the resistor, and (e) the rate at which
+thermal energy is produced in the resistor.
+•••69 A 3.00 M0 resistor and a 1.00 mF capacitor are
+connected in series with an ideal battery of emf V.At 1.00 s
+after the connection is made, what is the rate at which (a) the
+charge of the capacitor is increasing, (b) energy is being stored in
+the capacitor, (c) thermal energy is appearing in the resistor, and
+(d) energy is being delivered by the battery?
+
+
+
+
+
+
+
+
+
