@@ -2,6 +2,21 @@
 
 totalsInEachSection = {}
 
+
+def getQuestion(number):
+    return {
+        0: "A potential difference of 1.20 V will be applied to a 33.0 m length of 18-gauge copper wire (diameter ! 0.0400 in.). Calculate (a) the current, (b) the magnitude of the current density, (c) the magnitude of the electric field within the wire, and (d) the rate at which thermal energy will appear in the wire.",
+        1: "(a) What is the electric potential energy of two electrons separated by 2.00 nm? (b) If the separation increases, does the potential energy increase or decrease?",
+        2: "Suppose that you intercept 5.0 ' 10$3 of the energy radiated by a hot sphere that has a radius of 0.020 m, an emissivity of 0.80, and a surface temperature of 500 K. How much energy do you intercept in 2.0 min?",
+        3: "An object of mass 6.00 kg falls through a height of 50.0 m and, by means of a mechanical linkage, rotates a paddle wheel that stirs 0.600 kg of water. Assume that the initial gravitational potential energy of the object is fully transferred to thermal energy of the water, which is initially at 15.0 C. What is the temperature rise of the water?",
+        4: "A horizontal force of magnitude 35.0 N pushes a block of mass 4.00 kg across a floor where the coefficient of kinetic friction is 0.600. (a) How much work is done by that applied force on the block–floor system when the block slides through a displacement of 3.00 m across the floor? (b) During that displacement, the thermal energy of the block increases by 40.0 J.What is the increase in thermal energy of the floor? (c) What is the increase in the kinetic energy of the block?",
+        5: "A large fake cookie sliding on a horizontal surface is attached to one end of a horizontal spring with spring constant k ! 400 N/m; the other end of the spring is fixed in place. The cookie has a kinetic energy of 20.0 J as it passes through the spring’s equilibrium position. As the cookie slides, a frictional force of magnitude 10.0 N acts on it. (a) How far will the cookie slide from the equilibrium position before coming momentarily to rest? (b) What will be the kinetic energy of the cookie as it slides back through the equilibrium position?",
+        6: "The floor of a railroad flatcar is loaded with loose crates having a coefficient of static friction of 0.25 with the floor. If the train is initially moving at a speed of 48 km/h, in how short a distance can the train be stopped at constant acceleration without causing the crates to slide over the floor?",
+        7: "The velocity of a 3.00 kg particle is given by  (8.00t + 3.00t2 ) m/s, with time t in seconds. At the instant the net force on the particle has a magnitude of 35.0 N, what are the direction (relative to the positive direction of the x axis) of (a) the net force and (b) the particle’s direction of travel?"
+        
+    }.get(number, "")
+
+
 #Gets name of textfile that contains physics info, separated by sections
 #parameter 'x' has to be string-ed number such as "1", not 1
 def chapterName(x):

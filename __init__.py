@@ -7,19 +7,19 @@ from pyt import getImportantKeys
 
 app = Flask(__name__)
 
-def getSectionLink(i):
+def getSectionLink(name):
     return {
-        1: "https://www.khanacademy.org/science/physics/forces-newtons-laws",
-        2: "https://www.khanacademy.org/science/physics/work-and-energy",
-        3: "https://www.khanacademy.org/science/physics/thermodynamics"
-    }.get(i, "https://www.google.com")
+        'a': "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+        'b': "https://www.khanacademy.org/science/physics/work-and-energy",
+        'c': "https://www.khanacademy.org/science/physics/thermodynamics"
+    }.get(name, "https://www.google.com")
 
-def getSectionName(i):
+def getSectionName(name):
     return {
-        1: "Force/Motion",
-        2: "Energy",
-        3: "Thermodynamics"
-    }.get(i, "Force/Motion")
+        'a': "Force/Motion",
+        'b': "Energy",
+        'c': "Thermodynamics"
+    }.get(name, "Force/Motion")
 
 
 def getKeyWords():
@@ -64,7 +64,7 @@ def submit():
     
     
     # getSection with machine learning
-    section = 2
+    section = 'b'
     
     return render_template('element.html', message = getSectionName(section), link = getSectionLink(section))
 

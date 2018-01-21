@@ -6,7 +6,7 @@ signs of charge attract each other. An object with equal amounts of
 the two kinds of charge is electrically neutral, whereas one with an
 imbalance is electrically charged and has an excess charge.
 Conductors are materials in which a significant number of
-electrons are free to move.The charged particles in nonconductors
+electrons are free to move. The charged particles in nonconductors
 (insulators) are not free to move.
 Electric current i is the rate dq/dt at which charge passes a point:
 (electric current). (21-3)
@@ -20,15 +20,7 @@ where is the permittivity constant. The
 ratio 1/4p´0 is often replaced with the electrostatic constant (or
 Coulomb constant) k # 8.99 ' 109N9m2/C2.
 ´0 # 8.85 ' 10$12C2/N9m2
-F #
-1
-4p´0
-!q1! !q2!
-r2
-i #
-dq
-dt
-Review & Summary
+
 The electrostatic force vector acting on a charged particle due
 to a second charged particle is either directly toward the second
 particle (opposite signs of charge) or directly away from it (same
