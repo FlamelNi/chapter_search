@@ -13,7 +13,7 @@ Hidden layer with 12 neurons
 """  
   
 # Preparing neural network parameters (weights and bias) using TensorFlow Variables  
-weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[6,12], dtype=tf.float32))  
+weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[4,12], dtype=tf.float32))  
 bias_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[1,12], dtype=tf.float32))  
   
 # Preparing inputs of the activation function  
@@ -65,7 +65,7 @@ for step in range(10):
     trainOp, err, prediction = sess.run(fetches=[train_op, prediction_error, predictions],
                                         feed_dict={training_inputs: training_inputs_data,  
                                                    training_outputs: training_outputs_data}) 
-    pass
+    # pass
     print(str(step), ": ", err)  
 
 #--------------------------------------------------------------------------
