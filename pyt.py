@@ -8,9 +8,20 @@ def chapterName(x):
         '2': "2_Energy.txt"
     }.get(x, "1_ForceMotion.txt")    # default if x not found
 
+
+#gets list of string as parameter and returns the same but all strings in lowercase
+def lowerStringList(stringList):
+    newList = []
+    for single in stringList:
+        newlist.append(single.lower())
+    return newList
+
+
 # Parameter "content" is list that contains multiple sentences.
 # This function will break content into multiple parts and build one list of words
 def breakToWords(content = []):
+    
+    content = lowerStringList(content)
 
     newContent = []
     newList = []
