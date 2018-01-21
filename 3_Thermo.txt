@@ -1,0 +1,1797 @@
+Temperature; Thermometers Temperature is an SI base
+quantity related to our sense of hot and cold. It is measured with a
+thermometer, which contains a working substance with a measurable
+property, such as length or pressure, that changes in a regular
+way as the substance becomes hotter or colder.
+Zeroth Law of Thermodynamics When a thermometer and
+some other object are placed in contact with each other, they eventually
+reach thermal equilibrium.The reading of the thermometer is
+then taken to be the temperature of the other object. The process
+provides consistent and useful temperature measurements because
+of the zeroth law of thermodynamics: If bodies A and B are each in
+thermal equilibrium with a third body C (the thermometer), then A
+and B are in thermal equilibrium with each other.
+The Kelvin Temperature Scale In the SI system, temperature
+is measured on the Kelvin scale, which is based on the triple
+point of water (273.16 K). Other temperatures are then defined by
+Review & Summary
+use of a constant-volume gas thermometer, in which a sample of gas
+is maintained at constant volume so its pressure is proportional to
+its temperature.We define the temperature T as measured with a
+gas thermometer to be
+(18-6)
+Here T is in kelvins, and p3 and p are the pressures of the gas at
+273.16 K and the measured temperature, respectively.
+Celsius and Fahrenheit Scales The Celsius temperature
+scale is defined by
+TC # T $ 273.15-, (18-7)
+with T in kelvins.The Fahrenheit temperature scale is defined by
+TF # (18-8) 95
+TC " 32-.
+T # (273.16 K) # lim
+gas:0
+p
+p3 $.
+REVIEW & SUMMARY 539
+Thermal Expansion All objects change size with changes in temperature.
+For a temperature change %T, a change %L in any linear
+dimensionLis given by
+%L # La %T, (18-9)
+in which a is the coefficient of linear expansion. The change %V in
+the volume V of a solid or liquid is
+%V # Vb %T. (18-10)
+Here b # 3a is the material’s coefficient of volume expansion.
+Heat Heat Q is energy that is transferred between a system and
+its environment because of a temperature difference between
+them. It can be measured in joules (J), calories (cal), kilocalories
+(Cal or kcal), or British thermal units (Btu), with
+1 cal # 3.968 ' 10$3 Btu # 4.1868 J. (18-12)
+Heat Capacity and Specific Heat If heat Q is absorbed by
+an object, the object’s temperature change Tf $ Ti is related to Qby
+Q # C(Tf $ Ti), (18-13)
+in which C is the heat capacity of the object. If the object has mass
+m, then
+Q # cm(Tf $ Ti), (18-14)
+where c is the specific heat of the material making up the object.
+The molar specific heat of a material is the heat capacity
+per mole, which means per 6.02 ' 1023 elementary units of the
+material.
+Heat of Transformation Matter can exist in three common
+states: solid, liquid, and vapor. Heat absorbed by a material may
+change the material’s physical state—for example, from solid to liquid
+or from liquid to gas.The amount of energy required per unit mass
+to change the state (but not the temperature) of a particular material
+is its heat of transformationL.Thus,
+Q # Lm. (18-16)
+The heat of vaporization LV is the amount of energy per unit mass
+that must be added to vaporize a liquid or that must be removed to
+condense a gas. The heat of fusion LF is the amount of energy per
+unit mass that must be added to melt a solid or that must be removed
+to freeze a liquid.
+Work Associated with Volume Change A gas may
+exchange energy with its surroundings through work. The amount
+of work W done by a gas as it expands or contracts from an initial
+volume Vi to a final volume Vf is given by
+W # (18-25) "dW # "Vf
+Vi
+p dV.
+The integration is necessary because the pressure p may vary during
+the volume change.
+First Law of Thermodynamics The principle of conservation
+of energy for a thermodynamic process is expressed in the
+first law of thermodynamics, which may assume either of the
+forms
+%Eint # Eint,f $ Eint,i # Q $ W (first law) (18-26)
+or dEint # dQ $ dW (first law). (18-27)
+Eint represents the internal energy of the material, which depends
+only on the material’s state (temperature, pressure, and volume).
+Q represents the energy exchanged as heat between the system
+and its surroundings; Q is positive if the system absorbs heat and
+negative if the system loses heat. W is the work done by the system;
+W is positive if the system expands against an external force
+from the surroundings and negative if the system contracts because
+of an external force. Q and W are path dependent; %Eint is
+path independent.
+Applications of the First Law The first law of thermodynamics
+finds application in several special cases:
+adiabatic processes: Q # 0, %Eint#$W
+constant-volume processes: W # 0, %Eint # Q
+cyclical processes: %Eint # 0, Q # W
+free expansions: Q # W#%Eint # 0
+Conduction, Convection, and Radiation The rate Pcond at
+which energy is conducted through a slab for which one face is
+maintained at the higher temperature TH and the other face is
+maintained at the lower temperature TC is
+(18-32)
+Here each face of the slab has area A, the length of the slab (the
+distance between the faces) is L, and k is the thermal conductivity
+of the material.
+Convection occurs when temperature differences cause an energy
+transfer by motion within a fluid.
+Radiation is an energy transfer via the emission of electromagnetic
+energy. The rate Prad at which an object emits energy via thermal
+radiation is
+Prad # s´AT4, (18-38)
+where s (# 5.6704 ' 10$8 W/m2 9K4) is the Stefan – Boltzmann
+constant, ´ is the emissivity of the object’s surface, A is its surface
+area, and T is its surface temperature (in kelvins). The rate Pabs at
+which an object absorbs energy via thermal radiation from its environment,
+which is at the uniform temperature Tenv (in kelvins), is
+Pabs # s´AT4
+env. (18-39)
+Pcond #
+Q
+t
+# kA
+TH $ TC
+L
+
+
+
+
+
+Suppose the temperature of a gas is 373.15 K when it is at the
+boiling point of water.What then is the limiting value of the ratio
+of the pressure of the gas at that boiling point to its pressure at the
+triple point of water? (Assume the volume of the gas is the same at
+both temperatures.)
+•2 Two constant-volume gas thermometers are assembled, one
+with nitrogen and the other with hydrogen. Both contain enough
+gas so that p3 # 80 kPa. (a) What is the difference between the
+pressures in the two thermometers if both bulbs are in boiling
+water? (Hint: See Fig. 18-6.) (b) Which gas is at higher pressure?
+•3 A gas thermometer is constructed
+of two gas-containing bulbs,
+each in a water bath, as shown in
+Fig. 18-30.The pressure difference between
+the two bulbs is measured by
+a mercury manometer as shown.
+Appropriate reservoirs, not shown in
+the diagram, maintain constant gas volume in the two bulbs.There is
+no difference in pressure when both baths are at the triple point of
+water. The pressure difference is 120 torr when one bath is at the
+triple point and the other is at the boiling point of water. It is 90.0 torr
+when one bath is at the triple point and the other is at an unknown
+temperature to be measured.What is the unknown temperature?
+Module 18-2 The Celsius and Fahrenheit Scales
+•4 (a) In 1964, the temperature in the Siberian village of
+Oymyakon reached $71-C. What temperature is this on the
+Fahrenheit scale? (b) The highest officially recorded temperature in
+the continental United States was 134-F in Death Valley, California.
+What is this temperature on the Celsius scale?
+•5 At what temperature is the Fahrenheit scale reading equal to
+(a) twice that of the Celsius scale and (b) half that of the Celsius scale?
+••6 On a linear X temperature scale, water freezes at $125.0-X and
+boils at 375.0-X. On a linear Y temperature scale, water freezes at
+$70.00-Y and boils at $30.00-Y. A temperature of 50.00-Y corresponds
+to what temperature on the X scale?
+••7 ILW Suppose that on a linear temperature scale X, water boils
+Figure 18-30 Problem 3.
+at $53.5-X and freezes at $170-X.What is a temperature of 340 K
+on the X scale? (Approximate water’s boiling point as 373 K.)
+Module 18-3 Thermal Expansion
+•8 At 20-C, a brass cube has edge length 30 cm.What is the increase
+in the surface area when it is heated from 20-C to 75-C?
+•9 ILW A circular hole in an aluminum plate is 2.725 cm in
+diameter at 0.000-C.What is its diameter when the temperature of
+the plate is raised to 100.0-C?
+•10 An aluminum flagpole is 33 m high. By how much does its
+length increase as the temperature increases by 15 C-?
+•11 What is the volume of a lead ball at 30.00-C if the ball’s volume
+at 60.00-C is 50.00 cm3?
+pletely filled with glycerin at 22-C. How much glycerin, if any, will
+spill out of the cup if the temperature of both the cup and the glycerin
+is increased to 28-C? (The coefficient of volume expansion of
+glycerin is 5.1 ' 10$4/C-.)
+••18 At 20-C, a rod is exactly 20.05 cm long on a steel
+ruler. Both are placed in an oven at 270-C, where the rod now
+measures 20.11 cm on the same ruler.What is the coefficient of
+linear expansion for the material of which the rod is made?
+••19 A vertical glass tube of length L # 1.280 000 m is half
+filled with a liquid at 20.000 000-C. How much will the height of
+the liquid column change when the tube and liquid are heated to
+30.000 000-C? Use coefficients aglass # 1.000 000 ' 10$5/K and
+bliquid # 4.000 000 ' 10$5/K.
+has an interior diameter of 2.992 cm at 25.00-C. At what common
+temperature will the ring just slide onto the rod?
+••16 When the temperature of a metal cylinder is raised from 0.0-C
+to 100-C, its length increases by 0.23%. (a) Find the percent change in
+density. (b) What is the metal? Use Table 18-2.
+••17 SSM WWW An aluminum cup of 100 cm3 capacity is com-
+Radioactive
+source
+Electric
+heater
+Clamp
+d
+Figure 18-31 Problem 20.
+Figure 18-32 Problem 21.
+initial radius of 10 cm when the sphere is heated from 0.0-C to 100-C.
+••14 When the temperature of a copper coin is raised by 100 C-,
+its diameter increases by 0.18%.To two significant figures, give the
+percent increase in (a) the area of a face, (b) the thickness, (c) the
+volume, and (d) the mass of the coin. (e) Calculate the coefficient
+of linear expansion of the coin.
+••15 ILW A steel rod is 3.000 cm in diameter at 25.00-C.A brass ring
+L0
+L0
+x
+••20 In a certain experiment, a
+small radioactive source must
+move at selected, extremely slow
+speeds. This motion is accomplished
+by fastening the source to
+one end of an aluminum rod and
+heating the central section of the
+rod in a controlled way. If the effective heated section of the rod
+in Fig. 18-31 has length d # 2.00 cm, at what constant rate must
+the temperature of the rod be changed if the source is to move at
+a constant speed of 100 nm/s?
+•••21 As a result of a
+temperature rise of 32 , a bar
+with a crack at its center buckles
+upward (Fig. 18-32). The fixed distance
+L0 is 3.77 m and the coefficient
+of linear expansion of the bar
+is 25 ' 10$6/ .Find the rise x of
+the center.
+C-
+C-
+SSM ILW
+542 CHAPTER 18 TEMPERATURE, HEAT, AND THE FIRST LAW OF THERMODYNAMICS
+Module 18-4 Absorption of Heat
+•22 One way to keep the contents of a garage from becoming
+too cold on a night when a severe subfreezing temperature is forecast
+is to put a tub of water in the garage. If the mass of the water is 125 kg
+and its initial temperature is 20 C, (a) how much energy must the water
+transfer to its surroundings in order to freeze completely and
+(b) what is the lowest possible temperature of the water and its surroundings
+until that happens?
+•23 A small electric immersion heater is used to heat 100 g
+of water for a cup of instant coffee. The heater is labeled
+“200 watts” (it converts electrical energy to thermal energy at this
+rate). Calculate the time required to bring all this water from
+23.0 C to 100 C, ignoring any heat losses.
+•24 A certain substance has a mass per mole of 50.0 g/mol.When
+314 J is added as heat to a 30.0 g sample, the sample’s temperature
+rises from 25.0 C to 45.0 C. What are the (a) specific heat and
+(b) molar specific heat of this substance? (c) How many moles are
+in the sample?
+•25 A certain diet doctor encourages people to diet by drinking
+ice water. His theory is that the body must burn off enough fat to
+raise the temperature of the water from 0.00-C to the body temperature
+of 37.0-C. How many liters of ice water would have to be
+consumed to burn off 454 g (about 1 lb) of fat, assuming that burning
+this much fat requires 3500 Cal be transferred to the ice water?
+Why is it not advisable to follow this diet? (One liter # 103 cm3.
+The density of water is 1.00 g/cm3.)
+•26 What mass of butter, which has a usable energy content of
+6.0 Cal/g (# 6000 cal/g), would be equivalent to the change in gravitational
+potential energy of a 73.0 kg man who ascends from sea
+level to the top of Mt. Everest, at elevation 8.84 km? Assume that
+the average g for the ascent is 9.80 m/s2.
+•27 Calculate the minimum amount of energy, in joules,
+required to completely melt 130 g of silver initially at 15.0 C.
+•28 How much water remains unfrozen after 50.2 kJ is transferred
+as heat from 260 g of liquid water initially at its freezing
+point?
+••29 In a solar water heater, energy from the Sun is gathered by
+water that circulates through tubes in a rooftop collector.The solar
+radiation enters the collector through a transparent cover and
+warms the water in the tubes; this water is pumped into a holding
+tank. Assume that the efficiency of the overall system is 20%
+(that is, 80% of the incident solar energy is lost from the system).
+What collector area is necessary to raise the temperature of 200
+L of water in the tank from 20-C to 40°C in 1.0 h when the intensity
+of incident sunlight is 700 W/m2?
+••30 A 0.400 kg sample is placed in a cooling apparatus that removes
+energy as heat at a constant
+rate. Figure 18-33 gives
+the temperature T of the sample
+versus time t; the horizontal
+scale is set by ts# 80.0 min.
+The sample freezes during the
+energy removal. The specific
+heat of the sample in its initial
+liquid phase is 3000 J/kg 9K.
+What are (a) the sample’s heat
+of fusion and (b) its specific
+heat in the frozen phase?
+-
+SSM
+- -
+- -
+SSM
+-
+••31 What mass of steam at 100 C must be mixed with 150 g
+of ice at its melting point, in a thermally insulated container, to
+produce liquid water at 50 C?
+••32 The specific heat of a substance varies with temperature according
+to the function c # 0.20 " 0.14T " 0.023T2, with T in C
+and c in cal/g 9K. Find the energy required to raise the temperature
+of 2.0 g of this substance from 5.0 C to 15 C.
+••33 Nonmetric version: (a) How long does a 2.0 ' 105 Btu/h water
+heater take to raise the temperature of 40 gal of water from 70 F to
+100°F? Metric version: (b) How long does a 59 kW water heater take
+to raise the temperature of 150 L of water from 21-C to 38-C?
+••34 Samples A and B are at different initial temperatures
+when they are placed in a thermally insulated container and allowed
+to come to thermal equilibrium. Figure 18-34a gives their
+temperatures T versus time t. Sample A has a mass of 5.0 kg; sample
+B has a mass of 1.5 kg. Figure 18-34b is a general plot for
+the material of sample B. It shows the temperature change %T that
+the material undergoes when energy is transferred to it as heat Q.
+The change %T is plotted versus the energy Q per unit mass of the
+material, and the scale of the vertical axis is set by %Ts # 4.0 C .
+What is the specific heat of sample A?
+-
+-
+- -
+-
+-
+ILW -
+Figure 18-33 Problem 30.
+T (K)
+300
+270
+250
+0
+t (min)
+ts
+T (°C)
+100
+60
+20
+0 10
+t (min)
+20
+A
+B
+ΔT (C°)
+ΔTs
+0 8
+Q /m (kJ/kg)
+16
+(a) (b)
+Figure 18-34 Problem 34.
+••35 An insulated Thermos contains 130 cm3 of hot coffee at
+80.0 C.You put in a 12.0 g ice cube at its melting point to cool the
+coffee. By how many degrees has your coffee cooled once the ice
+has melted and equilibrium is reached? Treat the coffee as
+though it were pure water and neglect energy exchanges with the
+environment.
+••36 A 150 g copper bowl contains 220 g of water, both at 20.0 C.A
+very hot 300 g copper cylinder is dropped into the water, causing the
+water to boil, with 5.00 g being converted to steam. The final temperature
+of the system is 100 C. Neglect energy transfers with the
+environment. (a) How much energy (in calories) is transferred to
+the water as heat? (b) How much to the bowl? (c) What is the original
+temperature of the cylinder?
+••37 A person makes a quantity of iced tea by mixing 500 g of hot
+tea (essentially water) with an equal mass of ice at its melting
+point.Assume the mixture has negligible energy exchanges with its
+environment. If the tea’s initial temperature is Ti # 90 C, when
+thermal equilibrium is reached what are (a) the mixture’s temperature
+Tf and (b) the remaining mass mf of ice? If Ti # 70 C, when
+thermal equilibrium is reached what are (c) Tf and (d) mf?
+••38 A 0.530 kg sample of liquid water and a sample of ice are
+placed in a thermally insulated container.The container also contains
+a device that transfers energy as heat from the liquid water
+to the ice at a constant rate P, until thermal equilibrium is
+-
+-
+-
+-
+-
+PROBLEMS 543
+point of $114 C, a heat of vaporization of 879 kJ/kg, a heat of fusion
+of 109 kJ/kg, and a specific heat of 2.43 kJ/kg9K. How much
+energy must be removed from 0.510 kg of ethyl alcohol that is initially
+a gas at 78.0 C so that it becomes a solid at $114 C?
+••40 Calculate the specific heat of a metal from the following
+data. A container made of the metal has a mass of 3.6 kg and contains
+14 kg of water. A 1.8 kg piece of the metal initially at a temperature
+of 180 C is dropped into the water. The container and
+water initially have a temperature of 16.0 C, and the final temperature
+of the entire (insulated) system is 18.0 C.
+•••41 (a) Two 50 g ice cubes are dropped into 200 g
+of water in a thermally insulated container. If the water is initially
+at 25 C, and the ice comes directly from a freezer at $15 C, what is
+the final temperature at thermal equilibrium? (b) What is the final
+temperature if only one ice cube is used?
+- -
+SSM WWW
+-
+-
+-
+- -
+-
+reached. The temperatures T of the liquid water and the ice are
+given in Fig. 18-35 as functions of time t; the horizontal scale is set
+by ts# 80.0 min. (a)What is rate P? (b) What is the initial mass of
+the ice in the container? (c) When thermal equilibrium is
+reached, what is the mass of the ice produced in this process?
+state C, and then back to A, as shown in the p-V diagram of Fig. 18-
+38a. The vertical scale is set by ps#40 Pa, and the horizontal scale
+is set by Vs#4.0 m3. (a)–(g) Complete the table in Fig. 18-38b by
+inserting a plus sign, a minus sign, or a zero in each indicated cell.
+(h) What is the net work done by the system as it moves once
+through the cycle ABCA?
+Pressure (Pa)
+ps
+Vs
+C
+A B
+Volume (m3)
+0
+A B
+B C
+C A
+Q W Δ Eint
++
+(e) (f)
+(a) (b)
+(g)
+(c) (d)
++
+(a) (b)
+Figure 18-36 Problem 42.
+Al
+d
+D
+Cu
+Pressure (Pa)
+p0
+V0 4.0V0
+C B
+A
+Volume (m3)
+0
+Figure 18-37 Problem 43.
+••39 Ethyl alcohol has a boiling point of 78.0-C, a freezing Figure 18-38 Problem 44.
+•45 A gas within a
+closed chamber undergoes the
+cycle shown in the p-V diagram
+of Fig. 18-39. The horizontal
+scale is set by Vs # 4.0 m3.
+Calculate the net energy added
+to the system as heat during
+one complete cycle.
+•46 Suppose 200 J of work is
+done on a system and 70.0 cal is
+extracted from the system as
+heat. In the sense of the first law
+of thermodynamics, what are
+the values (including algebraic signs) of (a) W, (b) Q, and (c) %Eint?
+••47 SSM WWW When a system is taken from state i to state f
+SSM ILW
+along path iaf in Fig. 18-40, Q # 50 cal and W # 20 cal. Along path
+ibf, Q # 36 cal. (a) What is W along path ibf? (b) If W#$13 cal
+for the return path fi, what is Q for this path? (c) If Eint,i # 10 cal,
+what is Eint, f? If Eint,b # 22 cal, what is Q for (d) path ib and (e)
+path bf ?
+40
+20
+0
+–20
+0
+t (min)
+ts
+T (°C)
+Figure 18-35 Problem 38.
+•••42 A 20.0 g copper ring at
+0.000 C has an inner diameter of
+D # 2.54000 cm. An aluminum
+sphere at 100.0 C has a diameter
+of d # 2.545 08 cm. The sphere is
+put on top of the ring (Fig. 18-36),
+and the two are allowed to come
+to thermal equilibrium, with no
+heat lost to the surroundings. The
+sphere just passes through the
+ring at the equilibrium temperature.
+What is the mass of the
+sphere?
+Module 18-5 The First Law of
+Thermodynamics
+•43 In Fig. 18-37, a gas sample expands
+from V0 to 4.0V0 while its
+pressure decreases from p0 to
+p0/4.0. If V0#1.0 m3 and p0#40
+Pa, how much work is done by the
+gas if its pressure changes with volume
+via (a) path A, (b) path B, and
+(c) path C?
+•44 A thermodynamic system
+is taken from state A to state B to
+-
+-
+Pressure (N/m2)
+40
+30
+20
+10
+Vs
+C B
+Volume (m3)
+0
+A
+Figure 18-39 Problem 45.
+a
+i
+f
+b
+Pressure
+0 Volume
+Figure 18-40 Problem 47.
+••48 As a gas is held within a
+closed chamber, it passes through the
+cycle shown in Fig. 18-41. Determine
+the energy transferred by the system
+as heat during constant-pressure
+process CA if the energy added as heat
+QAB during constant-volume process
+AB is 20.0 J, no energy is transferred
+as heat during adiabatic process BC,
+and the net work done during the cycle
+is 15.0 J.
+A C
+B
+0 Volume
+Pressure
+Figure 18-41 Problem 48.
+544 CHAPTER 18 TEMPERATURE, HEAT, AND THE FIRST LAW OF THERMODYNAMICS
+••49 Figure 18-42 represents a
+closed cycle for a gas (the figure is not
+drawn to scale).The change in the internal
+energy of the gas as it moves from a
+to c along the path abc is $200 J.
+As it moves from c to d, 180 J must be
+transferred to it as heat. An additional
+transfer of 80 J to it as heat is needed as
+it moves from d to a.How much work is
+done on the gas as it moves from c to d?
+••50 A lab sample of gas is taken
+through cycle abca shown in the p-V
+diagram of Fig. 18-43. The net work
+done is "1.2 J. Along path ab, the
+change in the internal energy is "3.0 J
+and the magnitude of the work done
+is 5.0 J. Along path ca, the energy
+transferred to the gas as heat is "2.5
+J. How much energy is transferred as
+heat along (a) path ab and (b) path bc?
+a beehive, several hundred of the bees quickly form a compact
+ball around the hornet to stop it. They don’t sting, bite, crush, or
+suffocate it. Rather they overheat it by quickly raising their body
+temperatures from the normal 35 C to 47 C or 48 C, which is
+lethal to the hornet but not to the bees (Fig. 18-44). Assume the
+following: 500 bees form a ball of radius R#2.0 cm for a time t#
+20 min, the primary loss of energy by the ball is by thermal radiation,
+the ball’s surface has emissivity ´#0.80, and the ball has a
+uniform temperature. On average, how much additional energy
+must each bee produce during the 20 min to maintain 47 C?
+••57 (a) What is the rate of energy loss in watts per square meter
+through a glass window 3.0 mm thick if the outside temperature is
+$20 F and the inside temperature is "72 F? (b) A storm window
+having the same thickness of glass is installed parallel to the first
+window, with an air gap of 7.5 cm between the two windows.What
+now is the rate of energy loss if conduction is the only important
+energy-loss mechanism?
+••58 A solid cylinder of radius r1 # 2.5 cm, length h1 # 5.0 cm,
+emissivity 0.85, and temperature 30 C is suspended in an environment
+of temperature 50 C. (a) What is the cylinder’s net thermal
+radiation transfer rate P1? (b) If the cylinder is stretched until its
+radius is r2 # 0.50 cm, its net thermal radiation transfer rate becomes
+P2.What is the ratio P2 /P1?
+-
+-
+- -
+-
+- - -
+p
+V
+c
+a b
+Figure 18-43 Problem 50.
+(a)
+(b)
+T1
+T1
+T2
+T2
+Figure 18-45 Problem 59.
+Figure 18-44
+Problem 56. © Dr. Masato Ono, Tamagawa University
+Module 18-6 Heat Transfer Mechanisms
+•51 A sphere of radius 0.500 m, temperature 27.0 C, and emissivity
+0.850 is located in an environment of temperature 77.0 C. At
+what rate does the sphere (a) emit and (b) absorb thermal radiation?
+(c) What is the sphere’s net rate of energy exchange?
+•52 The ceiling of a single-family dwelling in a cold climate
+should have an R-value of 30. To give such insulation, how thick
+would a layer of (a) polyurethane foam and (b) silver have to be?
+•53 SSM Consider the slab shown in Fig. 18-18. Suppose that
+-
+-
+p
+V
+b
+c d
+a
+Figure 18-42 Problem 49.
+TH TC
+k1 k2 k3
+L1 L2 L3
+Figure 18-46 Problem 60.
+Air
+Ice
+Water
+Figure 18-47 Problem 61.
+L # 25.0 cm, A # 90.0 cm2, and the material is copper. If TH #
+125 C, TC # 10.0 C, and a steady state is reached, find the conduction
+rate through the slab.
+•54 If you were to walk briefly in space without a spacesuit
+while far from the Sun (as an astronaut does in the movie 2001,A
+Space Odyssey), you would feel the cold of space—while you radiated
+energy, you would absorb almost none from your environment.
+(a) At what rate would you lose energy? (b) How much energy
+would you lose in 30 s? Assume that your emissivity is 0.90,
+and estimate other data needed in the calculations.
+•55 A cylindrical copper rod of length 1.2 m and cross-sectional
+area 4.8 cm2 is insulated along its side.The ends are held at a temperature
+difference of 100 C by having one end in a water–ice mixture
+and the other in a mixture of boiling water and steam. At what rate
+(a) is energy conducted by the rod and (b) does the ice melt?
+••56 The giant hornet Vespa mandarinia japonica preys on
+Japanese bees. However, if one of the hornets attempts to invade
+-
+ILW
+- -
+••59 In Fig. 18-45a, two identical rectangular
+rods of metal are welded end
+to end, with a temperature of T1 # 0 C
+on the left side and a temperature
+of T2 # 100 C on the right side. In
+2.0 min, 10 J is conducted at a constant
+rate from the right side to the left side.
+How much time would be required to
+conduct 10 J if the rods were welded
+side to side as in Fig. 18-45b?
+••60 Figure 18-46 shows the cross
+section of a wall made of three layers.
+The layer thicknesses are L1, L2 #
+0.700L1, and L3 # 0.350L1. The thermal
+conductivities are k1, k2 #
+0.900k1, and k3 0.800k1. The temperatures
+at the left side and right side of
+the wall are TH # 30.0-C and TC #
+#
+-
+-
+$15.0 C, respectively. Thermal
+conduction is steady. (a) What is
+the temperature difference %T2
+across layer 2 (between the left and
+right sides of the layer)? If k2 were,
+instead, equal to 1.1k1, (b) would
+the rate at which energy is conducted
+through the wall be greater
+than, less than, or the same as previously,
+and (c) what would be the
+value of %T2?
+••61 A 5.0 cm slab has formed
+on an outdoor tank of water (Fig.
+18-47).The air is at $10-C. Find the
+rate of ice formation (centimeters
+per hour).The ice has thermal conductivity
+0.0040 cal/s 9cm9C and
+density 0.92 g/cm3.Assume there is
+-
+SSM
+-
+no energy transfer through the walls or bottom.
+temperature of 100-C.Water has density r#1000 kg/m3, and the
+skillet has a constant temperature Ts#300-C and the drop has a
+utes, an effect named after an early investigator.The longer lifetime
+is due to the support of a thin layer of air and water vapor that separates
+the drop from the metal (by distance L in Fig. 18-48). Let L#
+0.100 mm, and assume that the drop is flat with height h#1.50 mm
+and bottom face area A#4.00'10$6 m2. Also assume that the
+••62 Leidenfrost effect. A
+water drop will last about 1 s on a
+hot skillet with a temperature
+between 100 C and about 200 C.
+However, if the skillet is much hotter,
+the drop can last several min-
+- -
+Water drop
+Skillet
+h
+L
+Figure 18-48 Problem 62.
+PROBLEMS 545
+Figure 18-50 Problem 64.
+Alain Torterotot/Peter Arnold/Photolibrary
+T1 T T4 34
+L1 L2 L3 L4
+k1 k2 k3 k4
+T12 T23
+Figure 18-49 Problem 63.
+••64 Penguin huddling. To withstand the harsh weather of
+the Antarctic, emperor penguins huddle in groups (Fig. 18-50).
+Assume that a penguin is a circular cylinder with a top surface area
+a#0.34 m2 and height h#1.1 m. Let Pr be the rate at which an individual
+penguin radiates energy to the environment (through the
+top and the sides); thus NPr is the rate at which N identical, wellseparated
+penguins radiate. If the penguins huddle closely to form
+a huddled cylinder with top surface area Na and height h, the cylinder
+radiates at the rate Ph. If N#1000, (a) what is the value of the
+fraction Ph/NPr and (b) by what percentage does huddling reduce
+the total radiation loss?
+••65 Ice has formed on a shallow pond, and a steady state has
+been reached, with the air above the ice at $5.0 C and the bottom
+of the pond at 4.0 C. If the total depth of ice " water is 1.4 m, how
+thick is the ice? (Assume that the thermal conductivities of ice and
+water are 0.40 and 0.12 cal/m 9C 9s, respectively.)
+•••66 Evaporative cooling of beverages. A cold beverage
+can be kept cold even on a warm day if it is slipped into a porous
+ceramic container that has been soaked in water. Assume that energy
+lost to evaporation matches the net energy gained via the radiation
+exchange through the top and side surfaces. The container
+and beverage have temperature T#15 C, the environment has
+temperature Tenv#32 C, and the container is a cylinder with
+radius r#2.2 cm and height 10 cm. Approximate the emissivity as
+´ #1, and neglect other energy exchanges. At what rate dm/dt is
+the container losing water mass?
+
+supporting layer has thermal conductivity k#0.026 W/m9K. (a) At
+what rate is energy conducted from the skillet to the drop through
+the drop’s bottom surface? (b) If conduction is the primary way energy
+moves from the skillet to the drop, how long will the drop last?
+••63 Figure 18-49 shows (in cross section) a wall consisting of
+four layers, with thermal conductivities k1 0.060W/m9K, k3
+0.040 W/m9K, and k4 # 0.12 W/m9K (k2 is not known). The layer
+thicknesses are L1 # 1.5 cm, L3 # 2.8 cm, and L4 # 3.5 cm (L2 is
+not known). The known temperatures are T1 # 30 C, T12 # 25 C,
+and T4#$10 C. Energy transfer through the wall is steady. What
+is interface temperature T34?
+
+
+
+
+Kinetic Theory of Gases The kinetic theory of gases relates
+the macroscopic properties of gases (for example, pressure and
+temperature) to the microscopic properties of gas molecules (for
+example, speed and kinetic energy).
+Avogadro’s Number One mole of a substance contains
+NA (Avogadro’s number) elementary units (usually atoms or molecules),
+where NA is found experimentally to be
+NA # 6.02 ' 1023 mol$1 (Avogadro’s number). (19-1)
+Review & Summary
+One molar mass M of any substance is the mass of one mole of the
+substance. It is related to the mass m of the individual molecules of
+the substance by
+M # mNA. (19-4)
+The number of moles n contained in a sample of mass Msam,
+consisting of N molecules, is given by
+n # (19-2, 19-3)
+N
+NA
+#
+Msam
+M
+#
+Msam
+mNA
+
+
+Find the mass in kilograms of 7.50 ' 1024 atoms of arsenic,
+which has a molar mass of 74.9 g/mol.
+•2 Gold has a molar mass of 197 g/mol. (a) How many moles of
+gold are in a 2.50 g sample of pure gold? (b) How many atoms are
+in the sample?
+Module 19-2 Ideal Gases
+•3 SSM Oxygen gas having a volume of 1000 cm3 at 40.0-C and
+1.01 ' 105 Pa expands until its volume is 1500 cm3 and its pressure
+is 1.06 ' 105 Pa. Find (a) the number of moles of oxygen present
+and (b) the final temperature of the sample.
+•4 A quantity of ideal gas at 10.0-C and 100 kPa occupies a volume
+of 2.50 m3. (a) How many moles of the gas are present? (b) If the
+pressure is now raised to 300 kPa and the temperature is raised to
+30.0-C, how much volume does the gas occupy? Assume no leaks.
+•5 The best laboratory vacuum has a pressure of about 1.00 '
+10$18 atm, or 1.01 ' 10$13 Pa. How many gas molecules are there
+per cubic centimeter in such a vacuum at 293 K?
+in the internal energy of the gas when it is taken along the straight
+path from a to c?
+3 For a temperature increase of %T1, a certain amount of an ideal
+gas requires 30 J when heated at constant volume and 50 J when
+heated at constant pressure. How much work is done by the gas in
+the second situation?
+4 The dot in Fig. 19-18a represents the initial state of a gas, and
+the vertical line through the dot divides the p-V diagram into regions
+1 and 2. For the following processes, determine whether the
+work W done by the gas is positive, negative, or zero: (a) the gas
+moves up along the vertical line, (b) it moves down along the vertical
+line, (c) it moves to anywhere in region 1, and (d) it moves to
+anywhere in region 2.
+5 A certain amount of energy is to
+be transferred as heat to 1 mol of a
+monatomic gas (a) at constant pressure
+and (b) at constant volume, and
+to 1 mol of a diatomic gas (c) at constant
+pressure and (d) at constant
+volume. Figure 19-19 shows four
+paths from an initial point to four
+4
+2 3
+1
+V
+p
+Figure 19-19 Question 5.
+•••16 An air bubble of volume 20 cm3 is at the bottom of a lake
+40 m deep, where the temperature is 4.0-C.The bubble rises to the
+surface, which is at a temperature of 20-C.Take the temperature of
+the bubble’s air to be the same as that of the surrounding water.
+Just as the bubble reaches the surface, what is its volume?
+•••17 Container A in Fig. 19-22
+holds an ideal gas at a pressure of
+5.0 ' 105 Pa and a temperature of
+300 K. It is connected by a thin tube
+(and a closed valve) to container B,
+with four times the volume of A.
+Container B holds the same ideal
+gas at a pressure of 1.0 ' 105 Pa and
+a temperature of 400 K.The valve is
+opened to allow the pressures to equalize, but the temperature of
+each container is maintained.What then is the pressure?
+Module 19-3 Pressure, Temperature, and RMS Speed
+•18 The temperature and pressure in the Sun’s atmosphere are
+2.00 ' 106 K and 0.0300 Pa. Calculate the rms speed of free electrons
+(mass 9.11 ' 10$31 kg) there, assuming they are an ideal gas.
+•19 (a) Compute the rms speed of a nitrogen molecule at 20.0-C.
+The molar mass of nitrogen molecules (N2) is given in Table 19-1.
+At what temperatures will the rms speed be (b) half that value and
+(c) twice that value?
+•20 Calculate the rms speed of helium atoms at 1000 K. See
+Appendix F for the molar mass of helium atoms.
+•21 The lowest possible temperature in outer space is 2.7 K.
+What is the rms speed of hydrogen molecules at this temperature?
+(The molar mass is given in Table 19-1.)
+•22 Find the rms speed of argon atoms at 313 K. See Appendix F
+for the molar mass of argon atoms.
+••23 A beam of hydrogen molecules (H2) is directed toward a wall,
+at an angle of 55- with the normal to the wall. Each molecule in the
+beam has a speed of 1.0 km/s and a mass of 3.3 ' 10$24 g.The beam
+strikes the wall over an area of 2.0 cm2, at the rate of 1023 molecules
+per second.What is the beam’s pressure on the wall?
+••24 At 273 K and 1.00 ' 10$2 atm, the density of a gas is 1.24 '
+10$5 g/cm3. (a) Find vrms for the gas molecules. (b) Find the molar
+mass of the gas and (c) identify the gas. See Table 19-1.
+Module 19-4 Translational Kinetic Energy
+•25 Determine the average value of the translational kinetic energy
+of the molecules of an ideal gas at temperatures (a) 0.00-C
+SSM
+578 CHAPTER 19 THE KINETIC THEORY OF GASES
+pressure of the air in the tires when its temperature rises to 27.0-C
+and its volume increases to 1.67 ' 10$2 m3? Assume atmospheric
+pressure is 1.01 ' 105 Pa.
+•10 A container encloses 2 mol of an ideal gas that has molar
+mass M1 and 0.5 mol of a second ideal gas that has molar mass
+M2 # 3M1. What fraction of the total pressure on the container
+wall is attributable to the second gas? (The kinetic theory explanation
+of pressure leads to the experimentally discovered law of partial
+pressures for a mixture of gases that do not react chemically:
+The total pressure exerted by the mixture is equal to the sum of the
+pressures that the several gases would exert separately if each were
+to occupy the vessel alone. The molecule–vessel collisions of one
+type would not be altered by the presence of another type.)
+••11 Air that initially occupies 0.140 m3 at a
+gauge pressure of 103.0 kPa is expanded isothermally to a pressure
+of 101.3 kPa and then cooled at constant pressure until it reaches
+its initial volume. Compute the work done by the air. (Gauge pressure
+is the difference between the actual pressure and atmospheric
+pressure.)
+••12 Submarine rescue. When the U.S. submarine
+Squalus became disabled at a depth of 80 m, a cylindrical chamber
+was lowered from a ship to rescue the crew. The chamber
+had a radius of 1.00 m and a height of 4.00 m, was open at the
+bottom, and held two rescuers. It slid along a guide cable that a
+diver had attached to a hatch on the submarine. Once the chamber
+reached the hatch and clamped to the hull, the crew could escape
+into the chamber. During the descent, air was released from
+tanks to prevent water from flooding the chamber. Assume that
+the interior air pressure matched the water pressure at depth h
+as given by p0 "rgh, where p0#1.000 atm is the surface pressure
+and r#1024 kg/m3 is the density of seawater. Assume a surface
+temperature of 20.0-C and a submerged water temperature
+of $30.0-C. (a)What is the air volume in the chamber at the surface?
+(b) If air had not been released from the tanks, what would
+have been the air volume in the chamber at depth h#80.0 m?
+(c) How many moles of air were needed to be released to maintain
+the original air volume in the
+chamber?
+••13 A sample of an ideal gas is
+taken through the cyclic process abca
+shown in Fig. 19-20. The scale of the
+vertical axis is set by pb#7.5 kPa and
+pac#2.5 kPa. At point a, T # 200 K.
+(a) How many moles of gas are in the
+sample? What are (b) the temperature
+of the gas at point b, (c) the temperature
+of the gas at point c, and (d) the
+net energy added to the gas as heat
+during the cycle?
+••14 In the temperature range 310 K to 330 K, the pressure p of a
+certain nonideal gas is related to volume V and temperature T by
+How much work is done by the gas if its temperature is raised from
+315 K to 325 K while the pressure is held constant?
+••15 Suppose 0.825 mol of an ideal gas undergoes an isothermal
+expansion as energy is added to it as heat Q. If Fig. 19-21 shows the
+final volume Vf versus Q, what is the gas temperature? The scale of
+p # (24.9 J/K)
+T
+V
+$ (0.00662 J/K2)
+T2
+V
+.
+SSM ILW WWW
+the vertical axis is set by Vfs#0.30 m3, and the scale of the horizontal
+axis is set by Qs#1200 J.
+Figure 19-21 Problem 15.
+Vfs
+0
+Q (J)
+Qs
+Vf (m3)
+pb
+pac
+1.0 3.0
+Volume (m3)
+Pressure (kPa)
+b
+a c
+Figure 19-22 Problem 17.
+A
+B
+Figure 19-20 Problem 13.
+PROBLEMS 579
+and (b) 100-C.What is the translational kinetic energy per mole of
+an ideal gas at (c) 0.00-C and (d) 100-C?
+•26 What is the average translational kinetic energy of nitrogen
+molecules at 1600 K?
+••27 Water standing in the open at 32.0-C evaporates because
+of the escape of some of the surface molecules.The heat of vaporization
+(539 cal/g) is approximately equal to ´n, where ´ is the average
+energy of the escaping molecules and n is the number of
+molecules per gram. (a) Find ´. (b) What is the ratio of ´ to the
+average kinetic energy of H2O molecules, assuming the latter is related
+to temperature in the same way as it is for gases?
+Module 19-5 Mean Free Path
+•28 At what frequency would the wavelength of sound in air be
+equal to the mean free path of oxygen molecules at 1.0 atm pressure
+and 0.00-C? The molecular diameter is 3.0 ' 10$8 cm.
+•29 The atmospheric density at an altitude of 2500 km is
+about 1 molecule/cm3. (a) Assuming the molecular diameter of
+2.0 ' 10$8 cm, find the mean free path predicted by Eq. 19-25.
+(b) Explain whether the predicted value is meaningful.
+•30 The mean free path of nitrogen molecules at 0.0-C and
+1.0 atm is 0.80 ' 10$5 cm. At this temperature and pressure there
+are 2.7 ' 1019 molecules/cm3.What is the molecular diameter?
+••31 In a certain particle accelerator, protons travel around a circular
+path of diameter 23.0 m in an evacuated chamber, whose
+residual gas is at 295 K and 1.00 ' 10$6 torr pressure. (a) Calculate
+the number of gas molecules per cubic centimeter at this pressure.
+(b) What is the mean free path of the gas molecules if the molecular
+diameter is 2.00 ' 10$8 cm?
+••32 At 20-C and 750 torr pressure, the mean free paths for argon
+gas (Ar) and nitrogen gas (N2) are lAr # 9.9 ' 10$6 cm and lN2 #
+27.5 ' 10$6 cm. (a) Find the ratio of the diameter of an Ar atom
+to that of an N2 molecule.What is the mean free path of argon at
+(b) 20-C and 150 torr, and (c) $40-C and 750 torr?
+Module 19-6 The Distribution of Molecular Speeds
+•33 The speeds of 10 molecules are 2.0, 3.0, 4.0, . . . , 11 km/s.
+What are their (a) average speed and (b) rms speed?
+•34 The speeds of 22 particles are as follows (Ni represents the
+number of particles that have speed vi):
+Ni 2 4 6 8 2
+vi (cm/s) 1.0 2.0 3.0 4.0 5.0
+What are (a) vavg, (b) vrms, and (c) vP?
+•35 Ten particles are moving with the following speeds: four
+at 200 m/s, two at 500 m/s, and four at 600 m/s. Calculate their
+(a) average and (b) rms speeds. (c) Is vrms 4 vavg?
+••36 The most probable speed of the molecules in a gas at temperature
+T2 is equal to the rms speed of the molecules at temperature T1.
+Find T2 /T1.
+••37 Figure 19-23 shows a
+hypothetical speed distribution for a sample
+of N gas particles (note that P(v)#0
+for speed v42v0).What are the values of
+(a) av0, (b) vavg/v0, and (c) vrms/v0? (d)
+What fraction of the particles has a speed
+between 1.5v0 and 2.0v0?
+SSM WWW
+SSM
+SSM
+••38 Figure 19-24 gives the probability distribution for nitrogen
+gas.The scale of the horizontal axis is set by vs#1200 m/s.What are
+the (a) gas temperature and (b) rms speed of the molecules?
+v0
+Speed
+0 2v0
+a
+P(v)
+Figure 19-23 Problem 37.
+0 vs
+v (m/s)
+P(v)
+Figure 19-24 Problem 38.
+••39 At what temperature does the rms speed of (a) H2 (molecular
+hydrogen) and (b) O2 (molecular oxygen) equal the escape
+speed from Earth (Table 13-2)? At what temperature does the rms
+speed of (c) H2 and (d) O2 equal the escape speed from the Moon
+(where the gravitational acceleration at the surface has magnitude
+0.16g)? Considering the answers to parts (a) and (b), should there
+be much (e) hydrogen and (f) oxygen high in Earth’s upper atmosphere,
+where the temperature is about 1000 K?
+••40 Two containers are at the same temperature. The first contains
+gas with pressure p1, molecular mass m1, and rms speed vrms1.
+The second contains gas with pressure 2.0p1, molecular mass m2,
+and average speed vavg2 # 2.0vrms1. Find the mass ratio m1/m2.
+••41 A hydrogen molecule (diameter 1.0 ' 10$8 cm), traveling at
+the rms speed, escapes from a 4000 K furnace into a chamber containing
+cold argon atoms (diameter 3.0 ' 10$8 cm) at a density of
+4.0 ' 1019 atoms/cm3. (a) What is the speed of the hydrogen molecule?
+(b) If it collides with an argon atom, what is the closest their
+centers can be, considering each as spherical? (c) What is the initial
+number of collisions per second experienced by the hydrogen molecule?
+(Hint:Assume that the argon atoms are stationary.Then the
+mean free path of the hydrogen molecule is given by Eq. 19-26 and
+not Eq. 19-25.)
+Module 19-7 The Molar Specific Heats of an Ideal Gas
+•42 What is the internal energy of 1.0 mol of an ideal monatomic
+gas at 273 K?
+••43 The temperature of 3.00 mol of an ideal diatomic gas is increased
+by 40.0 C without the pressure of the gas changing. The
+molecules in the gas rotate but do not oscillate. (a) How much
+energy is transferred to the gas as heat? (b) What is the change in
+the internal energy of the gas? (c) How much work is done by the
+gas? (d) By how much does the rotational kinetic energy of the gas
+increase?
+••44 One mole of an ideal diatomic
+gas goes from a to c along the
+diagonal path in Fig. 19-25. The scale
+of the vertical axis is set by pab#
+5.0 kPa and pc#2.0 kPa, and the scale
+of the horizontal axis is set by Vbc#
+4.0 m3 and Va#2.0 m3. During the
+transition, (a) what is the change in internal
+energy of the gas, and (b) how
+-
+pab
+pc
+Va Vbc
+Volume (m3)
+Pressure (kPa)
+a b
+c
+Figure 19-25 Problem 44.
+580 CHAPTER 19 THE KINETIC THEORY OF GASES
+much energy is added to the gas as heat? (c) How much heat is required
+if the gas goes from a to c along the indirect path abc?
+••45 The mass of a gas molecule can be computed from its
+specific heat at constant volume cV. (Note that this is not CV.) Take
+cV # 0.075 cal/g 9C- for argon and calculate (a) the mass of an argon
+atom and (b) the molar mass of argon.
+••46 Under constant pressure, the temperature of 2.00 mol of an
+ideal monatomic gas is raised 15.0 K. What are (a) the work W
+done by the gas, (b) the energy transferred as heat Q, (c) the
+change %Eint in the internal energy of the gas, and (d) the change
+%K in the average kinetic energy per atom?
+••47 The temperature of 2.00 mol of an ideal monatomic gas is
+raised 15.0 K at constant volume.What are (a) the work Wdone by
+the gas, (b) the energy transferred as heat Q, (c) the change %Eint in
+the internal energy of the gas, and (d) the change %K in the average
+kinetic energy per atom?
+••48 When 20.9 J was added as heat to a particular ideal gas,
+the volume of the gas changed from 50.0 cm3 to 100 cm3 while the
+pressure remained at 1.00 atm. (a) By how much did the internal
+energy of the gas change? If the quantity of gas present was 2.00 '
+10$3 mol, find (b) Cp and (c) CV.
+••49 SSM A container holds a mixture of three nonreacting gases:
+ILW
+•56 Suppose 1.00 L of a gas with g # 1.30, initially at 273 K and
+1.00 atm, is suddenly compressed adiabatically to half its initial volume.
+Find its final (a) pressure and (b) temperature. (c) If the gas is
+then cooled to 273 K at constant pressure, what is its final volume?
+••57 The volume of an ideal gas is adiabatically reduced from
+200 L to 74.3 L. The initial pressure and temperature are 1.00 atm
+and 300 K.The final pressure is 4.00 atm. (a) Is the gas monatomic,
+diatomic, or polyatomic? (b) What is the final temperature?
+(c) How many moles are in the gas?
+••58 Opening champagne. In a bottle of champagne, the
+pocket of gas (primarily carbon dioxide) between the liquid and
+the cork is at pressure of pi#5.00 atm. When the cork is pulled
+from the bottle, the gas undergoes an adiabatic expansion until its
+pressure matches the ambient air pressure of 1.00 atm. Assume
+that the ratio of the molar specific heats is . If the gas has : # 43
+p
+V
+Path 1
+Isothermal
+Isothermal
+Path 2 Adiabatic
+f
+i
+Figure 19-26 Problem 59.
+2.40 mol of gas 1 with CV1 12.0 J/mol 9K, 1.50 mol of gas 2 with
+CV2 # 12.8 J/mol 9K, and 3.20 mol of gas 3 with CV3 # 20.0 J/mol 9K.
+What is CV of the mixture?
+Module 19-8 Degrees of Freedom and Molar Specific Heats
+•50 We give 70 J as heat to a diatomic gas, which then expands at
+constant pressure.The gas molecules rotate but do not oscillate. By
+how much does the internal energy of the gas increase?
+•51 When 1.0 mol of oxygen (O2) gas is heated at constant
+pressure starting at 0 C, how much energy must be added to the
+gas as heat to double its volume? (The molecules rotate but do not
+oscillate.)
+••52 Suppose 12.0 g of oxygen (O2) gas is heated at constant
+atmospheric pressure from 25.0 C to 125 C. (a) How many moles
+of oxygen are present? (See Table 19-1 for the molar mass.)
+(b) How much energy is transferred to the oxygen as heat? (The
+- -
+-
+ILW
+#
+molecules rotate but do not oscillate.) (c) What fraction of the heat
+is used to raise the internal energy of the oxygen?
+••53 Suppose 4.00 mol of an ideal diatomic gas, with
+molecular rotation but not oscillation, experienced a temperature
+increase of 60.0 K under constant-pressure conditions. What are
+(a) the energy transferred as heat Q, (b) the change %Eint in internal
+energy of the gas, (c) the work W done by the gas, and (d) the
+change %K in the total translational kinetic energy of the gas?
+Module 19-9 The Adiabatic Expansion of an Ideal Gas
+•54 We know that for an adiabatic process pVg # a constant.
+Evaluate “a constant” for an adiabatic process involving exactly
+2.0 mol of an ideal gas passing through the state having exactly
+p # 1.0 atm and T # 300 K. Assume a diatomic gas whose molecules
+rotate but do not oscillate.
+•55 A certain gas occupies a volume of 4.3 L at a pressure of
+1.2 atm and a temperature of 310 K. It is compressed adiabatically
+to a volume of 0.76 L. Determine (a) the final pressure and
+(b) the final temperature, assuming the gas to be an ideal gas for
+which g # 1.4.
+SSM WWW
+••60 Adiabatic wind. The normal airflow over the
+Rocky Mountains is west to east.The air loses much of its moisture
+content and is chilled as it climbs the western side of the mountains.
+When it descends on the eastern side, the increase in pressure
+toward lower altitudes causes the temperature to increase. The
+flow, then called a chinook wind, can rapidly raise the air temperature
+at the base of the mountains. Assume that the air pressure p
+depends on altitude y according to p p0 exp ($ay), where p0#
+1.00 atm and a 1.16 10$4 m$1. Also assume that the ratio of
+the molar specific heats is .A parcel of air with an initial temperature
+of .00 C descends adiabatically from y1 4267 m to
+y 1567 m.What is its temperature at the end of the descent?
+••61 A gas is to be expanded from initial state i to final state f
+along either path 1 or path 2 on a p-V diagram. Path 1 consists of
+three steps: an isothermal expansion (work is 40 J in magnitude),
+an adiabatic expansion (work is 20 J in magnitude), and another
+isothermal expansion (work is 30 J in magnitude). Path 2 consists
+of two steps: a pressure reduction at constant volume and an expansion
+at constant pressure.What is the change in the internal energy
+of the gas along path 2?
+•••62 An ideal diatomic gas, with rotation but no oscillation, undergoes
+an adiabatic compression. Its initial pressure and volume are
+#
+$5 - #
+g # 43
+# '
+#
+initial temperature Ti#5.00 C, what is its temperature at the end
+of the adiabatic expansion?
+••59 Figure 19-26 shows two paths that may be taken by a gas
+from an initial point i to a final point f. Path 1 consists of an isothermal
+expansion (work is 50 J in magnitude), an adiabatic expansion
+(work is 40 J in magnitude), an isothermal compression (work is
+30 J in magnitude), and then an adiabatic compression (work is 25 J
+in magnitude).What is the change in the internal energy of the gas
+if the gas goes from point i to point f along path 2?
+-
+PROBLEMS 581
+1.20 atm and 0.200m3. Its final pressure
+is 2.40 atm. How much work is done by
+the gas?
+•••63 Figure 19-27 shows a cycle undergone
+by 1.00 mol of an ideal
+monatomic gas. The temperatures are
+T1#300 K, T2#600 K, and T3#455
+K. For 1: 2, what are (a) heat Q,
+(b) the change in internal energy %Eint,
+and (c) the work done W? For 2 : 3,
+what are (d) Q, (e) %Eint, and (f) W?
+For 3 : 1, what are (g) Q, (h) %Eint,
+and (i) W? For the full cycle, what are (j) Q, (k) %Eint, and (l) W? The
+initial pressure at point 1 is 1.00 atm (#1.013 ' 105 Pa).What are the
+(m) volume and (n) pressure at point 2 and the (o) volume and (p)
+pressure at point 3?
+
+
+One-Way Processes An irreversible process is one that cannot
+be reversed by means of small changes in the environment.The
+direction in which an irreversible process proceeds is set by the
+change in entropy %S of the system undergoing the process.
+Entropy S is a state property (or state function) of the system; that
+is, it depends only on the state of the system and not on the way in
+which the system reached that state. The entropy postulate states (in
+part): If an irreversible process occurs in a closed system, the entropy
+of the system always increases.
+Calculating Entropy Change The entropy change %S for an
+irreversible process that takes a system from an initial state i to a
+final state f is exactly equal to the entropy change %S for any reversible
+process that takes the system between those same two
+states.We can compute the latter (but not the former) with
+(20-1)
+Here Q is the energy transferred as heat to or from the system during
+the process, and T is the temperature of the system in kelvins
+during the process.
+For a reversible isothermal process,Eq. 20-1 reduces to
+(20-2)
+When the temperature change %T of a system is small relative to
+the temperature (in kelvins) before and after the process, the entropy
+change can be approximated as
+(20-3)
+whereTavg is the system’s average temperature during the process.
+When an ideal gas changes reversibly from an initial state with
+temperature Ti and volume Vi to a final state with temperature Tf
+and volume Vf, the change %S in the entropy of the gas is
+%S # Sf $ Si # nR ln (20-4)
+Vf
+Vi
+" nCV ln
+Tf
+Ti
+.
+%S # Sf $ Si %
+Q
+Tavg
+,
+%S # Sf $ Si #
+Q
+T
+.
+%S # Sf $ Si # "f
+i
+dQ
+T
+.
+Review & Summary
+The Second Law of Thermodynamics This law, which is
+an extension of the entropy postulate, states: If a process occurs in
+a closed system, the entropy of the system increases for irreversible
+processes and remains constant for reversible processes. It never decreases.
+In equation form,
+%S 0 0. (20-5)
+Engines An engine is a device that, operating in a cycle, extracts
+energy as heat +QH+ from a high-temperature reservoir and does a certain
+amount of work +W+.The efficiency ´ of any engine is defined as
+(20-11)
+In an ideal engine, all processes are reversible and no wasteful energy
+transfers occur due to, say, friction and turbulence.A Carnot engine is
+an ideal engine that follows the cycle of Fig. 20-9. Its efficiency is
+(20-12, 20-13)
+in which TH and TL are the temperatures of the high- and lowtemperature
+reservoirs, respectively. Real engines always have an
+efficiency lower than that given by Eq. 20-13. Ideal engines that are
+not Carnot engines also have lower efficiencies.
+A perfect engine is an imaginary engine in which energy extracted
+as heat from the high-temperature reservoir is converted completely
+to work. Such an engine would violate the second law of thermodynamics,
+which can be restated as follows: No series of processes
+is possible whose sole result is the absorption of energy as heat from a
+thermal reservoir and the complete conversion of this energy to work.
+Refrigerators A refrigerator is a device that, operating in a cycle,
+has work W done on it as it extracts energy +QL+ as heat from a
+low-temperature reservoir. The coefficient of performance K of a
+refrigerator is defined as
+. (20-14)
+A Carnot refrigerator is a Carnot engine operating in reverse.
+K #
+what we want
+what we pay for
+#
+!QL!
+!W!
+´C # 1 $
+!QL !
+!QH ! # 1 $
+TL
+TH
+,
+´ #
+energy we get
+energy we pay for
+#
+!W!
+!QH !
+.
+
+
+
+For a Carnot refrigerator,Eq. 20-14 becomes
+(20-15, 20-16)
+A perfect refrigerator is an imaginary refrigerator in which
+energy extracted as heat from the low-temperature reservoir is converted
+completely to heat discharged to the high-temperature reservoir,
+without any need for work. Such a refrigerator would violate
+the second law of thermodynamics, which can be restated as follows:
+No series of processes is possible whose sole result is the transfer of
+energy as heat from a reservoir at a given temperature to a reservoir
+at a higher temperature.
+Entropy from a Statistical View The entropy of a system can
+be defined in terms of the possible distributions of its molecules. For
+identical molecules, each possible distribution of molecules is called a
+microstate of the system.All equivalent microstates are grouped into
+
+a configuration of the system.The number of microstates in a configuration
+is the multiplicityWof the configuration.
+For a system of N molecules that may be distributed between
+the two halves of a box, the multiplicity is given by
+(20-20)
+in which n1 is the number of molecules in one half of the box and n2 is
+the number in the other half. A basic assumption of statistical
+mechanics is that all the microstates are equally probable.Thus, configurations
+with a large multiplicity occur most often.
+The multiplicity W of a configuration of a system and the entropy
+S of the system in that configuration are related by
+Boltzmann’s entropy equation:
+S # k ln W, (20-21)
+where k # 1.38 ' 10$23 J/K is the Boltzmann constant.
+
+
+Suppose 4.00 mol of an ideal gas undergoes a reversible
+isothermal expansion from volume V1 to volume V2 # 2.00V1 at temperature
+T # 400 K. Find (a) the work done by the gas and (b) the
+entropy change of the gas. (c) If the expansion is reversible and adiabatic
+instead of isothermal, what is the entropy change of the gas?
+•2 An ideal gas undergoes a reversible isothermal expansion at
+77.0 C, increasing its volume from 1.30 L to 3.40 L. The entropy
+change of the gas is 22.0 J/K. How many moles of gas are present?
+•3 A 2.50 mol sample of an ideal gas expands reversibly and
+isothermally at 360 K until its volume is doubled.What is the increase
+in entropy of the gas?
+•4 How much energy must be transferred as heat for a reversible
+isothermal expansion of an ideal gas at 132 C if the entropy of the
+gas increases by 46.0 J/K?
+•5 Find (a) the energy absorbed as heat and (b) the change in
+entropy of a 2.00 kg block of copper whose temperature is increased
+reversibly from 25.0-C to 100-C. The specific heat of copper
+is 386 J/kg 9K.
+•6 (a) What is the entropy change of a 12.0 g ice cube that melts
+completely in a bucket of water whose temperature is just above
+the freezing point of water? (b) What is the entropy change of a
+5.00 g spoonful of water that evaporates completely on a hot plate
+whose temperature is slightly above the boiling point of water?
+••7 A 50.0 g block of copper whose temperature is 400 K is
+placed in an insulating box with a 100 g block of lead whose temperature
+is 200 K. (a) What is the equilibrium temperature of the twoblock
+system? (b) What is the change in the internal energy of the
+system between the initial state and the equilibrium state? (c)What
+is the change in the entropy of the system? (See Table 18-3.)
+••8 At very low temperatures, the molar specific heat CV of
+many solids is approximately CV # AT3, where A depends on the
+particular substance. For aluminum, J/mol 9K4.
+Find the entropy change for 4.00 mol of aluminum when its temperature
+is raised from 5.00 K to 10.0 K.
+••9 A 10 g ice cube at $10-C is placed in a lake whose
+temperature is 15-C. Calculate the change in entropy of the
+cube–lake system as the ice cube comes to thermal equilibrium
+with the lake.The specific heat of ice is 2220 J/kg 9K. (Hint: Will the
+ice cube affect the lake temperature?)
+••10 A 364 g block is
+put in contact with a thermal
+reservoir. The block
+is initially at a lower temperature
+than the reservoir.
+Assume that the
+consequent transfer of
+energy as heat from the
+reservoir to the block is
+reversible. Figure 20-22
+A # 3.15 ' 10$5
+ILW
+ILW
+-
+ILW
+-
+••13 In the irreversible process of Fig. 20-5, let the initial temperatures
+of the identical blocks L and R be 305.5 and 294.5 K,
+respectively, and let 215 J be the energy that must be transferred
+between the blocks in order to reach equilibrium. For the
+reversible processes of Fig. 20-6, what is for (a) block L, (b) its
+reservoir, (c) block R, (d) its reservoir, (e) the two-block system,
+and (f) the system of the two blocks and the two reservoirs?
+••14 (a) For 1.0 mol of a
+monatomic ideal gas taken through
+the cycle in Fig. 20-24, where V1#
+4.00V0, what is W/p0V0 as the gas
+goes from state a to state c along
+path abc? What is %Eint/p0V0 in going
+(b) from b to c and (c) through
+one full cycle? What is %S in going
+(d) from b to c and (e) through one
+full cycle?
+••15 A mixture of 1773 g of water and 227 g of ice is in an initial
+equilibrium state at 0.000-C. The mixture is then, in a reversible
+process, brought to a second equilibrium state where the water–ice
+ratio, by mass, is 1.00!1.00 at 0.000-C. (a) Calculate the entropy
+change of the system during this process. (The heat of fusion for water
+is 333 kJ/kg.) (b) The system is then returned to the initial equilibrium
+state in an irreversible process (say, by using a Bunsen
+burner). Calculate the entropy change of the system during this
+process. (c) Are your answers consistent with the second law of
+thermodynamics?
+%S
+60
+40
+20
+Ta
+T (K)
+Tb
+ΔS (J/K)
+Figure 20-22 Problem 10.
+specific heat of 900 J/kg 9K) at 100 C is mixed with 50.0 g of water
+at 20.0-C, with the mixture thermally isolated. (a) What is the
+equilibrium temperature? What are the entropy changes of (b) the
+aluminum, (c) the water, and (d) the aluminum–water system?
+••12 A gas sample undergoes a reversible isothermal expansion.
+Figure 20-23 gives the change %S in entropy of the gas versus the
+final volume Vf of the gas. The scale of the vertical axis is set by
+%Ss#64 J/K. How many moles are in the sample?
+-
+V0 V1
+2p0
+Volume
+Pressure
+p0
+c
+a b
+Figure 20-24 Problem 14.
+PROBLEMS 605
+ice " original water. (a) What is the equilibrium temperature of the
+system? What are the entropy changes of the water that was originally
+the ice cube (b) as it melts and (c) as it warms to the equilibrium
+temperature? (d) What is the entropy change of the original
+water as it cools to the equilibrium temperature? (e) What is the
+net entropy change of the ice " original water system as it reaches
+the equilibrium temperature?
+Module 20-2 Entropy in the Real World: Engines
+•23 A Carnot engine whose low-temperature reservoir is at 17-C
+has an efficiency of 40%. By how much should the temperature of
+the high-temperature reservoir be increased to increase the efficiency
+to 50%?
+•24 A Carnot engine absorbs 52 kJ as heat and exhausts 36 kJ as
+heat in each cycle. Calculate (a) the engine’s efficiency and (b) the
+work done per cycle in kilojoules.
+•25 A Carnot engine has an efficiency of 22.0%. It operates between
+constant-temperature reservoirs differing in temperature by
+75.0 C .What is the temperature of the (a) lower-temperature and
+(b) higher-temperature reservoir?
+•26 In a hypothetical nuclear fusion reactor, the fuel is deuterium
+gas at a temperature of 7 ' 108 K. If this gas could be used to operate
+a Carnot engine with TL # 100 C, what would be the engine’s
+efficiency? Take both temperatures to be exact and report your
+answer to seven significant figures.
+•27 A Carnot engine operates between 235 C and
+115 C, absorbing 6.30 104 J per cycle at the higher temperature.
+(a) What is the efficiency of the engine? (b) How much work per
+cycle is this engine capable of performing?
+••28 In the first stage of a two-stage Carnot engine, energy is absorbed
+as heat Q1 at temperature T1, work W1 is done, and energy
+is expelled as heat Q2 at a lower temperature T2. The second stage
+absorbs that energy as heat Q2, does work W2, and expels energy as
+heat Q3 at a still lower temperature T3. Prove that the efficiency of
+- '
+SSM WWW -
+-
+-
+••16 An 8.0 g ice cube at $10-C is put into a Thermos flask containing
+100 cm3 of water at 20 C. By how much has the entropy of the
+cube–water system changed when equilibrium is reached? The specific
+heat of ice is 2220 J/kg 9K.
+••17 In Fig. 20-25, where V23 #
+3.00V1, n moles of a diatomic ideal
+gas are taken through the cycle with
+the molecules rotating but not oscillating.
+What are (a) p2/p1, (b) p3/p1,
+and (c) T3/T1? For path 1: 2, what
+are (d) W/nRT1, (e) Q/nRT1,
+(f) %Eint/nRT1, and (g) %S/nR? For
+path 2: 3, what are (h) W/nRT1,
+(i) Q/nRT1, (j) %Eint/nRT1, (k)
+%S/nR? For path 3 : 1, what are
+(l) W/nRT1, (m) Q/nRT1, (n)
+%Eint/nRT1, and (o) %S/nR?
+••18 A 2.0 mol sample of an
+ideal monatomic gas undergoes
+the reversible process shown in
+Fig. 20-26. The scale of the vertical
+axis is set by Ts#400.0 K and the
+scale of the horizontal axis is set by
+Ss#20.0 J/K. (a) How much energy
+is absorbed as heat by the gas?
+(b) What is the change in the internal
+energy of the gas? (c) How much
+work is done by the gas?
+•••19 Suppose 1.00 mol of a monatomic ideal gas is taken from initial
+pressure p1 and volume V1 through two steps: (1) an isothermal
+expansion to volume 2.00V1 and (2) a pressure increase to 2.00p1 at
+constant volume.What is Q/p1V1 for (a) step 1 and (b) step 2? What
+is W/p1V1 for (c) step 1 and (d) step 2? For the full process, what are
+(e) %Eint/p1V1 and (f) %S? The gas is returned to its initial state and
+again taken to the same final state but now through these two steps:
+(1) an isothermal compression to pressure 2.00p1 and (2) a volume
+increase to 2.00V1 at constant pressure.What is Q/p1V1 for (g) step 1
+and (h) step 2? What is W/p1V1 for (i) step 1 and (j) step 2? For the
+full process, what are (k) %Eint/p1V1 and (l) %S?
+•••20 Expand 1.00 mol of an monatomic gas initially at 5.00 kPa
+and 600 K from initial volume Vi # 1.00 m3 to final volume Vf #
+2.00 m3.At any instant during the expansion, the pressure p and volume
+V of the gas are related by p # 5.00 exp[(Vi $ V)/a], with p in
+kilopascals, Vi and V in cubic meters, and a # 1.00 m3.What are the
+final (a) pressure and (b) temperature of the gas? (c) How much
+work is done by the gas during the expansion? (d) What is %S for the
+expansion? (Hint: Use two simple reversible processes to find %S.)
+•••21 Energy can be removed from water as heat at
+and even below the normal freezing point (0.0 C at atmospheric
+pressure) without causing the water to freeze; the water is then
+said to be supercooled. Suppose a 1.00 g water drop is supercooled
+until its temperature is that of the surrounding air, which
+is at $5.00-C. The drop then suddenly and irreversibly freezes,
+transferring energy to the air as heat.What is the entropy change
+for the drop? (Hint: Use a three-step reversible process as if the
+water were taken through the normal freezing point.) The specific
+heat of ice is 2220 J/kg 9K.
+•••22 An insulated Thermos contains 130 g of water at 80.0-C.
+You put in a 12.0 g ice cube at 0-C to form a system of
+-
+-
+2
+Isothermal
+V1 V23
+Volume
+Pressure
+Adiabatic
+1
+3
+Figure 20-25 Problem 17.
+Entropy (J/K)
+Temperature (K)
+0
+Ts
+Ss
+Figure 20-26 Problem 18.
+V0, p0
+Volume
+Pressure
+b
+a
+c
+d
+V, p
+Figure 20-27 Problem 29.
+the engine is (T1 $ T3)/T1.
+••29 Figure 20-27 shows a reversible
+cycle through which 1.00 mol
+of a monatomic ideal gas is taken.
+Assume that p # 2p0, V # 2V0, p0 #
+1.01 ' 105 Pa, and V0 # 0.0225 m3.
+Calculate (a) the work done during
+the cycle, (b) the energy added as
+heat during stroke abc, and (c) the
+efficiency of the cycle. (d) What is
+the efficiency of a Carnot engine operating
+between the highest and lowest
+temperatures that occur in
+the cycle? (e) Is this greater than or less than the efficiency calculated
+in (c)?
+••30 A 500 W Carnot engine operates between constanttemperature
+reservoirs at 100 C and 60.0 C.What is the rate at which
+energy is (a) taken in by the engine as heat and (b) exhausted by the
+engine as heat?
+••31 The efficiency of a particular car engine is 25% when the engine
+does 8.2 kJ of work per cycle.Assume the process is reversible.
+What are (a) the energy the engine gains per cycle as heat Qgain
+from the fuel combustion and (b) the energy the engine loses per
+cycle as heat Qlost? If a tune-up increases the efficiency to 31%,
+what are (c)Qgain and (d) Qlost at the same work value?
+- -
+606 CHAPTER 20 ENTROPY AND THE SECOND LAW OF THERMODYNAMICS
+J as heat (a) from a reservoir at 7.0 C to one at 27 C, (b) from a reservoir
+at $73 C to one at 27 C, (c) from a reservoir at$173 C to one at
+27 C, and (d) from a reservoir at $223 C to one at 27 C?
+•37 A heat pump is used to heat a building. The external
+temperature is less than the internal temperature. The pump’s coefficient
+of performance is 3.8, and the heat pump delivers 7.54 MJ
+as heat to the building each hour. If the heat pump is a Carnot engine
+working in reverse, at what rate must work be done to run it?
+•38 The electric motor of a heat pump transfers energy as heat
+from the outdoors, which is at $5.0 C, to a room that is at 17 C. If
+the heat pump were a Carnot heat pump (a Carnot engine working
+in reverse), how much energy would be transferred as heat to the
+room for each joule of electric energy consumed?
+•39 A Carnot air conditioner takes energy from the thermal
+energy of a room at 70 F and transfers it as heat to the outdoors,
+which is at 96 F.For each joule of electric energy required to operate
+the air conditioner, how many joules are removed from the room?
+•40 To make ice, a freezer that is a reverse Carnot engine extracts
+42 kJ as heat at $15 C during each cycle, with coefficient of
+performance 5.7. The room temperature is 30.3 C. How much
+(a) energy per cycle is delivered as heat to the room and (b) work
+per cycle is required to run the freezer?
+••41 An air conditioner operating between 93 F and 70 F is rated
+at 4000 Btu/h cooling capacity. Its coefficient of performance is 27% of
+that of a Carnot refrigerator operating between the same two temperatures.
+What horsepower is required of the air conditioner motor?
+••42 The motor in a refrigerator has a power of 200W. If the freezing
+compartment is at 270 K and the outside air is at 300 K, and assuming
+the efficiency of a Carnot refrigerator, what is the maximum
+amount of energy that can be extracted as heat from the freezing
+compartment in 10.0 min?
+••43 Figure 20-32 represents
+a Carnot engine
+that works between temperatures
+T1 400 K and
+T2 150 K and drives a
+Carnot refrigerator that
+works between temperatures
+T3 # 325 K and T4 #
+225 K. What is the ratio
+Q3/Q1?
+••44 (a) During each cycle,
+a Carnot engine absorbs
+750 J as heat from a
+high-temperature reservoir
+at 360 K, with the
+low-temperature reservoir at 280 K. How much work is done per
+cycle? (b) The engine is then made to work in reverse to function
+as a Carnot refrigerator between those same two reservoirs.
+During each cycle, how much work is required to remove 1200 J as
+heat from the low-temperature reservoir?
+Module 20-4 A Statistical View of Entropy
+•45 Construct a table like Table 20-1 for eight molecules.
+••46 A box contains N identical gas molecules equally divided
+between its two halves. For N # 50, what are (a) the multiplicity W
+of the central configuration, (b) the total number of microstates,
+and (c) the percentage of the time the system spends in the central
+configuration? For N # 100, what are (d) Wof the central configura-
+#
+#
+ILW - -
+-
+-
+-
+-
+SSM
+- -
+SSM
+- - -
+- - -
+••32 A Carnot engine is set up to produce a certain work W - -
+per cycle. In each cycle, energy in the form of heat QH is
+transferred to the working substance of the engine from
+the higher-temperature thermal reservoir, which is at an adjustable
+temperature TH.The lower-temperature thermal reservoir is maintained
+at temperature TL # 250 K. Figure 20-28 gives QH for a
+range of TH. The scale of the vertical axis is set by QHs#6.0 kJ. If
+TH is set at 550 K, what is QH?
+Figure 20-28 Problem 32.
+QHs
+0
+250 300
+TH (K)
+350
+QH (kJ)
+V0 16V0
+Volume
+Pressure
+p0/32
+2V0 8V0
+p0
+A
+B
+D C
+Figure 20-30 Problem 34.
+••33 Figure 20-29 shows
+a reversible cycle through which 1.00
+mol of a monatomic ideal gas is
+taken. Volume Vc # 8.00Vb. Process
+bc is an adiabatic expansion, with pb
+# 10.0 atm and Vb # 1.00 ' 10$3 m3.
+For the cycle, find (a) the energy
+added to the gas as heat, (b) the energy
+leaving the gas as heat, (c) the
+net work done by the gas, and (d) the
+efficiency of the cycle.
+••34 An ideal gas (1.0 mol) is
+the working substance in an engine that operates on the cycle
+shown in Fig. 20-30. Processes BC and DA are reversible and adiabatic.
+(a) Is the gas monatomic, diatomic, or polyatomic? (b) What
+is the engine efficiency?
+SSM ILW
+b
+a c
+Adiabatic
+Vb Vc
+pb
+Volume
+Pressure
+Figure 20-29 Problem 33.
+•••35 The cycle in Fig. 20-31 represents
+the operation of a gasoline internal
+combustion engine. Volume
+V3 # 4.00V1. Assume the gasoline–
+air intake mixture is an ideal
+gas with g # 1.30. What are the
+ratios (a) T2/T1, (b) T3/T1, (c) T4/T1,
+(d) p3/p1, and (e) p4/p1? (f) What is
+the engine efficiency?
+Module 20-3 Refrigerators and
+Real Engines
+•36 How much work must be done
+by a Carnot refrigerator to transfer 1.0
+2
+Adiabatic
+V1 V3
+3.00p1
+Volume
+Pressure
+p1
+Adiabatic
+1
+3
+4
+Spark
+Intake
+Figure 20-31 Problem 35.
+Figure 20-32 Problem 43.
+T1
+T2
+Q1
+Q2
+W
+T4
+Q3
+Q4
+Engine
+Refrigerator
+T3
+
+
+PROBLEMS 607
+tion, (e) the total number of microstates, and (f) the percentage of
+the time the system spends in the central configuration? For N # 200,
+what are (g) W of the central configuration, (h) the total number of
+microstates, and (i) the percentage of the time the system spends in
+the central configuration? ( j) Does the time spent in the central configuration
+increase or decrease with an increase in N?
+•••47 A box contains N gas molecules. Consider
+the box to be divided into three equal parts. (a) By extension of
+Eq. 20-20, write a formula for the multiplicity of any given configuration.
+(b) Consider two configurations: configuration A with
+equal numbers of molecules in all three thirds of the box, and configuration
+B with equal numbers of molecules in each half of the
+box divided into two equal parts rather than three.What is the ratioWA/
+WB of the multiplicity of configuration A to that of configuration
+B? (c) Evaluate WA/WB for N # 100. (Because 100 is not
+evenly divisible by 3, put 34 molecules into one of the three box
+parts of configuration A and 33 in each of the other two parts.)
+
+
+
+
+

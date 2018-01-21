@@ -3,15 +3,19 @@
 from flask import Flask, request, render_template
 import os
 from pyt import breakToWords
+from pyt import getImportantKeys
 
 app = Flask(__name__)
 
 def getKeyWords():
     # currently, this returns dummy data
-    return [ ["worda", 1, 1],
-        ["wordb", 3, 2],
-        ["wordc", 2, 2],
-        ["wordd", 2, 1] ]
+    # return [ ["worda", 1, 1],
+    #     ["wordb", 3, 2],
+    #     ["wordc", 2, 2],
+    #     ["wordd", 2, 1] ]
+    return getImportantKeys()
+    
+    
 
 @app.route('/')
 def my_form():
