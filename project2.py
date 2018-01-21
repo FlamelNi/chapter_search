@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy  
   
 # Preparing training data (inputs-outputs)  
-training_inputs = tf.placeholder(shape=[None, ], dtype=tf.float32)  
+training_inputs = tf.placeholder(shape=[None, 6], dtype=tf.float32)  
 training_outputs = tf.placeholder(shape=[None, 6], dtype=tf.float32) #Desired outputs for each input  
   
 """ 
@@ -10,7 +10,7 @@ Hidden layer with 12 neurons
 """  
   
 # Preparing neural network parameters (weights and bias) using TensorFlow Variables  
-weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[,12], dtype=tf.float32))  
+weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[6,12], dtype=tf.float32))  
 bias_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[1,12], dtype=tf.float32))  
   
 # Preparing inputs of the activation function  
@@ -60,8 +60,9 @@ training_outputs_data = []
 # Training loop of the neural network  
 for step in range(1000): 
     trainOp, err, prediction = sess.run(fetches=[train_op, prediction_error, predictions],
-                          feed_dict={training_inputs: training_inputs_data,  
-                                     training_outputs: training_outputs_data})  
+                                        feed_dict={training_inputs: training_inputs_data,  
+                                                   training_outputs: training_outputs_data}) 
+    pass
 #    print(str(step), ": ", err)  
 
 #--------------------------------------------------------------------------
@@ -98,8 +99,13 @@ def softmax(af_input_outputLayer):
 
     return y
 
-# percentage_array = softmax(af_input_outputLayer)
-# print(np.max(percentage_array))
+percentage_array = softmax(af_input_outputLayer)
+
+trainOp, err, softmax_array = sess.run(fetches=[train_op, prediction_error, percentage_array],
+                                    feed_dict={training_inputs: training_inputs_data,
+                                               training_outputs: training_outputs_data})
+
+print(np.max(softmax_array))
 
 
 #-------------------------------------------------------------------------------- 
