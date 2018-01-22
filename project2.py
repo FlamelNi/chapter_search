@@ -1,8 +1,8 @@
 
 import tensorflow as tf
-import numpy
+import numpy as np
 import pandas as pd
-from pyt import make_y_list, make_x_list
+from pyt import make_y_list, get_x_list
   
 # Preparing training data (inputs-outputs)  
 training_inputs = tf.placeholder(shape=[None, 4], dtype=tf.float32)  
@@ -13,8 +13,8 @@ Hidden layer with 12 neurons
 """  
   
 # Preparing neural network parameters (weights and bias) using TensorFlow Variables  
-weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[4,12], dtype=tf.float32))  
-bias_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[1,12], dtype=tf.float32))  
+weights_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[4,108], dtype=tf.float32))
+bias_hiddenLayer = tf.Variable(tf.truncated_normal(shape=[1,108], dtype=tf.float32))  
   
 # Preparing inputs of the activation function  
 af_input_hiddenLayer = tf.matmul(training_inputs, weights_hiddenLayer) + bias_hiddenLayer  
@@ -28,7 +28,7 @@ Output layer with six neuron
 """  
   
 # Preparing neural network parameters (weights and bias) using TensorFlow Variables  
-weights_outputLayer = tf.Variable(tf.truncated_normal(shape=[12,4], dtype=tf.float32))  
+weights_outputLayer = tf.Variable(tf.truncated_normal(shape=[108,4], dtype=tf.float32))  
 bias_outputLayer = tf.Variable(tf.truncated_normal(shape=[1,4], dtype=tf.float32))  
   
 # Preparing inputs of the activation function  
@@ -41,7 +41,7 @@ predictions = tf.nn.sigmoid(af_input_outputLayer)
 #-------------------------------------------------------------------- 
   
 # Measuring the prediction error of the network after being trained  
-prediction_error = 0.5 * tf.reduce_sum(tf.subtract(predictions, training_outputs) * tf.subtract(predictions, training_inputs))  
+prediction_error = -0.05 * tf.reduce_sum(tf.subtract(predictions, training_outputs) * tf.subtract(predictions, training_inputs))  
   
 # Minimizing the prediction error using gradient descent optimizer  
 train_op = tf.train.GradientDescentOptimizer(0.05).minimize(prediction_error)  
@@ -51,11 +51,12 @@ sess = tf.Session()
   
 # Initializing the TensorFlow Variables (weights and bias)  
 sess.run(tf.global_variables_initializer())  
+# print("Hidden layer initial weights : ", sess.run(weights_hiddenLayer)) 
  
 # Input from our training_sample
 
 # Training data inputs  
-training_inputs_data = make_x_list()
+training_inputs_data = get_x_list()
   
 # Training data desired outputs  
 training_outputs_data = make_y_list()  
@@ -64,30 +65,31 @@ training_outputs_data = make_y_list()
 for step in range(10): 
     trainOp, err, prediction = sess.run(fetches=[train_op, prediction_error, predictions],
                                         feed_dict={training_inputs: training_inputs_data,  
-                                                   training_outputs: training_outputs_data}) 
-    # pass
-    print(str(step), ": ", err)  
+                                                   training_outputs: training_outputs_data})
+    pass 
+    # print(str(step), ": ", err)  
 
 #--------------------------------------------------------------------------
 
 # Finding out the trained weights and biased used for prediction
   
-# Class scores of some testing data  
-print("Expected class scores : ", sess.run(predictions, feed_dict={training_inputs: training_inputs_data}))  
+# # # Class scores of some testing data  
+# print("Expected class scores : ", sess.run(predictions, feed_dict={training_inputs: training_inputs_data}))
+# print("Actual class scores: ", make_y_list()) 
   
-# Printing hidden layer weights initially generated using tf.truncated_normal()  
-print("Hidden layer initial weights : ", sess.run(weights_hidden))  
+# # # Printing hidden layer weights initially generated using tf.truncated_normal()  
+# print("Hidden layer final weights : ", sess.run(weights_hiddenLayer))  
   
-# Printing hidden layer bias initially generated using tf.truncated_normal()  
-print("Hidden layer initial bias : ", sess.run(bias_hidden))  
+# # # # Printing hidden layer bias initially generated using tf.truncated_normal()  
+# print("Hidden layer final bias : ", sess.run(bias_hiddenLayer))  
   
-# Printing output layer weights initially generated using tf.truncated_normal()  
-print("Output layer initial weights : ", sess.run(weights_output))  
+# # # Printing output layer weights initially generated using tf.truncated_normal()  
+# print("Output layer final weights : ", sess.run(weights_outputLayer))  
   
-# Printing output layer bias initially generated using tf.truncated_normal()  
-print("Output layer initial bias : ", sess.run(bias_output))
+# # # Printing output layer bias initially generated using tf.truncated_normal()  
+# print("Output layer final bias : ", sess.run(bias_outputLayer))
 
-#Write a code that saves sess.run(variables and make it into a function)
+# # #Write a code that saves sess.run(variables and make it into a function)
 
 #--------------------------------------------------------------------------------
 
@@ -100,17 +102,26 @@ print("Output layer initial bias : ", sess.run(bias_output))
 #     af_input_outputLayer_exp_sum = np.sum(af_input_outputLayer_exp)
 #     y = af_input_outputLayer_exp / af_input_outputLayer_exp_sum
 
-#     return y
+# #     return y
+softmax = tf.exp(af_input_outputLayer) / tf.reduce_sum(tf.exp(af_input_outputLayer), 0)
+# softmax = tf.exp(af_input_outputLayer) / tf.reduce_sum(tf.exp(af_input_outputLayer)-tf.reduce_max(af_input_outputLayer), 0)
 
-# percentage_array = softmax(af_input_outputLayer)
+trainOp, err, softmax_array = sess.run(fetches=[train_op, prediction_error, softmax],
+                                    feed_dict={training_inputs: training_inputs_data,
+                                               training_outputs: training_outputs_data})
+print(softmax_array)
+print(np.amax(softmax_array))
+def max_column_number():
+    maxima = [max(row) for row in softmax_array]  # Find the max values in each column
+    m = max(maxima)                        # Find the absolute max value in the array
+    for k, rowmax in enumerate(maxima):
+        if rowmax == m:                    # Find which row contains the absolute max value
+            col = k
+            break
+    return k
 
-# trainOp, err, softmax_array = sess.run(fetches=[train_op, prediction_error, percentage_array],
-#                                     feed_dict={training_inputs: training_inputs_data,
-#                                                training_outputs: training_outputs_data})
-
-# print(np.max(softmax_array))
-
-
+a = max_column_number()
+print(a)
 #-------------------------------------------------------------------------------- 
   
 # Closing the TensorFlow Session to free resources  
