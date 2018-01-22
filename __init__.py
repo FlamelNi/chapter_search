@@ -8,11 +8,14 @@ from pyt import breakAndGetKeys
 
 app = Flask(__name__)
 
+# TODO: train with more data
+# TODO: link result to html page
+
 def getStats(aList = []):
     # [ [section, percentage]
     #   [section, percentage]
     #   [section, percentage] ]
-    return "HERE"
+    return ""
     
     # dummy:
     aList = [  ['a', .3], ['b', .5], ['c', .2]  ]
@@ -85,7 +88,7 @@ def submit():
     
     
     # getSection with machine learning
-    section = 'b'
+    section = 'c'
     
     return render_template('element.html', message = getSectionName(section), link = getSectionLink(section), stats=getStats())
 

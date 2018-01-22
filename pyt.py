@@ -348,8 +348,8 @@ def get_z_list():
 
 # print(breakAndGetKeys([getQuestion(0)]))
 # 
-qList = make_z_list()
-print(qList)
+# qList = make_z_list()
+# print(qList)
 # 
 # for a in qList:
 #     print(a[0] + " " + a[1] + " " + a[2] + " " + a[3])
